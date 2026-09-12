@@ -31,9 +31,21 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 PROVIDER = os.environ.get("PICO_PROVIDER") or ("gemini" if GEMINI_API_KEY else "anthropic")
 
-GEMINI_MODEL = "gemini-2.5-flash"  # free-tier eligible
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+# Google renames/retires Gemini model IDs fairly often. Instead of hardcoding
+# one name that can suddenly start 404ing, try these in order and use the
+# first one that actually works. "gemini-flash-latest" is Google's own
+# always-current alias, so it goes first.
+GEMINI_MODEL_CANDIDATES = [
+    "gemini-flash-latest",
+    "gemini-2.5-flash",
+    "gemini-2.0-flash",
+    "gemini-pro-latest",
+]
 CLAUDE_MODEL = "claude-sonnet-5"
+
+
+def _gemini_url(model: str) -> str:
+    return f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 PROMPT_TEMPLATE = """You are assisting a physician doing literature surveillance.
 Read the abstract below and extract a draft PICO. Be conservative: if a field
@@ -91,18 +103,33 @@ def _draft_pico_gemini(prompt: str) -> Dict:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"maxOutputTokens": 800, "temperature": 0.2},
     }
-    r = requests.post(GEMINI_URL, params=params, json=body, timeout=60)
-    r.raise_for_status()
-    data = r.json()
-    try:
-        text = data["candidates"][0]["content"]["parts"][0]["text"]
-    except (KeyError, IndexError):
-        return {"error": "Gemini response had no usable text.", "raw": data}
-    text = _clean_json_text(text)
-    try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        return {"error": "Could not parse Gemini output as JSON.", "raw": text}
+
+    last_error = None
+    for model in GEMINI_MODEL_CANDIDATES:
+        try:
+            r = requests.post(_gemini_url(model), params=params, json=body, timeout=60)
+            if r.status_code == 404:
+                # This model name isn't available on this key/API version --
+                # try the next candidate instead of failing the whole run.
+                last_error = f"{model}: 404 not found"
+                continue
+            r.raise_for_status()
+            data = r.json()
+            try:
+                text = data["candidates"][0]["content"]["parts"][0]["text"]
+            except (KeyError, IndexError):
+                last_error = f"{model}: response had no usable text"
+                continue
+            text = _clean_json_text(text)
+            try:
+                return json.loads(text)
+            except json.JSONDecodeError:
+                return {"error": f"Could not parse Gemini ({model}) output as JSON.", "raw": text}
+        except requests.RequestException as e:
+            last_error = f"{model}: {e}"
+            continue
+
+    return {"error": f"All Gemini model candidates failed. Last error: {last_error}"}
 
 
 def _draft_pico_anthropic(prompt: str) -> Dict:
@@ -153,3 +180,4 @@ if __name__ == "__main__":
     )
     print(f"Using provider: {PROVIDER}")
     print(json.dumps(draft_pico(sample_title, sample_abstract), indent=2))
+    
