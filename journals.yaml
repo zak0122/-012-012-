@@ -1,0 +1,89 @@
+# List of journals to monitor via PubMed (NCBI E-utilities).
+# "issn" should be the print or electronic ISSN as indexed by PubMed.
+# You can verify/correct ISSNs at https://www.ncbi.nlm.nih.gov/nlmcatalog
+# by searching the journal title.
+#
+# "rss" is optional -- add a journal's own ahead-of-print/current-issue
+# RSS feed URL to catch articles before PubMed indexes them (see
+# src/rss_watch.py). Most journal sites have a "RSS" link in the site
+# footer or under "For Readers"/"Alerts" -- verify each one works before
+# relying on it, feeds move and break. Left blank below where I haven't
+# verified a live URL; PubMed indexing still covers those journals via
+# monitor.py, just with more lag.
+
+journals:
+  # --- Top tier general IM/medicine ---
+  - name: "New England Journal of Medicine"
+    issn: "1533-4406"
+    rss: "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss"  # includes ahead-of-print
+  - name: "The Lancet"
+    issn: "1474-547X"
+  - name: "JAMA"
+    issn: "1538-3598"
+  - name: "Annals of Internal Medicine"
+    issn: "1539-3704"
+  - name: "BMJ"
+    issn: "1756-1833"
+    rss: "https://www.bmj.com/rss/current.xml"
+
+  # --- Broad internal medicine ---
+  - name: "JAMA Internal Medicine"
+    issn: "2168-6114"
+  - name: "Journal of Internal Medicine"
+    issn: "1365-2796"
+  - name: "European Journal of Internal Medicine"
+    issn: "1879-0828"
+  - name: "American Journal of Medicine"
+    issn: "1555-7162"
+  - name: "Mayo Clinic Proceedings"
+    issn: "1942-5546"
+  - name: "QJM: An International Journal of Medicine"
+    issn: "1460-2393"
+  - name: "Journal of General Internal Medicine"
+    issn: "1525-1497"
+  - name: "Postgraduate Medical Journal"
+    issn: "1469-0756"
+  - name: "Internal and Emergency Medicine"
+    issn: "1970-9366"
+
+  # --- High-volume / meta-analysis friendly ---
+  - name: "Medicine (Baltimore)"
+    issn: "1536-5964"
+  - name: "Cureus"
+    issn: "2168-8184"
+  - name: "BMC Medicine"
+    issn: "1741-7015"
+  - name: "PLOS ONE"
+    issn: "1932-6203"
+  - name: "Frontiers in Medicine"
+    issn: "2296-858X"
+  - name: "Systematic Reviews"
+    issn: "2046-4053"
+  - name: "BMJ Open"
+    issn: "2044-6055"
+
+  # --- Cardiology ---
+  - name: "Journal of the American College of Cardiology"
+    issn: "1558-3597"
+  - name: "European Heart Journal"
+    issn: "1522-9645"
+  - name: "Circulation"
+    issn: "1524-4539"
+  - name: "JAMA Cardiology"
+    issn: "2380-6591"
+
+  # --- Gastroenterology ---
+  - name: "Gastroenterology"
+    issn: "1528-0012"
+  - name: "Gut"
+    issn: "1468-3288"
+  - name: "American Journal of Gastroenterology"
+    issn: "1572-0241"
+
+  # --- Endocrinology ---
+  - name: "Journal of Clinical Endocrinology & Metabolism"
+    issn: "1945-7197"
+  - name: "The Lancet Diabetes & Endocrinology"
+    issn: "2213-8595"
+  - name: "Diabetes Care"
+    issn: "1935-5548"

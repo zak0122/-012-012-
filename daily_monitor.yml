@@ -1,0 +1,59 @@
+name: Daily Journal Watch
+
+on:
+  schedule:
+    # Runs every 6 hours -- PubMed's own indexing lag (often 1-3 days from
+    # publication) is the real bottleneck, so checking more than a few
+    # times a day won't surface things any faster than that, but this
+    # keeps you close to that lag instead of losing extra time to a
+    # once-a-day check. Adjust to your team's timezone/quota needs.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write  # needed to commit state.json / report back to the repo
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        working-directory: src
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Optional: only needed if you set PICO_PROVIDER=anthropic instead
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python run_pipeline.py
+
+      - name: Commit updated state and report
+        run: |
+          git config user.name "journal-watch-bot"
+          git config user.email "actions@github.com"
+          git add state/seen_pmids.json output/*.md
+          git diff --cached --quiet || git commit -m "Daily journal watch update"
+          git push
+
+      # Optional: also email the report to your team instead of / as well as
+      # committing it. Uncomment and add these secrets if you want that:
+      #
+      # - name: Email report
+      #   uses: dawidd6/action-send-mail@v3
+      #   with:
+      #     server_address: smtp.gmail.com
+      #     server_port: 465
+      #     username: ${{ secrets.EMAIL_USERNAME }}
+      #     password: ${{ secrets.EMAIL_APP_PASSWORD }}
+      #     subject: "Daily Journal Watch Report"
+      #     to: your-team-list@example.com
+      #     from: Journal Watch Bot
+      #     body: file://src/../output/report_latest.md
