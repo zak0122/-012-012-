@@ -23,6 +23,7 @@ write-up decision.
 
 import json
 import os
+import time
 from typing import Dict
 
 import requests
@@ -31,21 +32,9 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 PROVIDER = os.environ.get("PICO_PROVIDER") or ("gemini" if GEMINI_API_KEY else "anthropic")
 
-# Google renames/retires Gemini model IDs fairly often. Instead of hardcoding
-# one name that can suddenly start 404ing, try these in order and use the
-# first one that actually works. "gemini-flash-latest" is Google's own
-# always-current alias, so it goes first.
-GEMINI_MODEL_CANDIDATES = [
-    "gemini-flash-latest",
-    "gemini-2.5-flash",
-    "gemini-2.0-flash",
-    "gemini-pro-latest",
-]
+GEMINI_MODEL = "gemini-2.5-flash"  # free-tier eligible
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 CLAUDE_MODEL = "claude-sonnet-5"
-
-
-def _gemini_url(model: str) -> str:
-    return f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 PROMPT_TEMPLATE = """You are assisting a physician doing literature surveillance.
 Read the abstract below and extract a draft PICO. Be conservative: if a field
@@ -97,39 +86,53 @@ def _clean_json_text(text: str) -> str:
     return text
 
 
-def _draft_pico_gemini(prompt: str) -> Dict:
+def _draft_pico_gemini(prompt: str, max_retries: int = 3) -> Dict:
     params = {"key": GEMINI_API_KEY}
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"maxOutputTokens": 800, "temperature": 0.2},
     }
 
-    last_error = None
-    for model in GEMINI_MODEL_CANDIDATES:
+    last_status = None
+    for attempt in range(max_retries):
         try:
-            r = requests.post(_gemini_url(model), params=params, json=body, timeout=60)
-            if r.status_code == 404:
-                # This model name isn't available on this key/API version --
-                # try the next candidate instead of failing the whole run.
-                last_error = f"{model}: 404 not found"
-                continue
-            r.raise_for_status()
-            data = r.json()
-            try:
-                text = data["candidates"][0]["content"]["parts"][0]["text"]
-            except (KeyError, IndexError):
-                last_error = f"{model}: response had no usable text"
-                continue
-            text = _clean_json_text(text)
-            try:
-                return json.loads(text)
-            except json.JSONDecodeError:
-                return {"error": f"Could not parse Gemini ({model}) output as JSON.", "raw": text}
+            r = requests.post(GEMINI_URL, params=params, json=body, timeout=60)
         except requests.RequestException as e:
-            last_error = f"{model}: {e}"
-            continue
+            return {"error": f"Gemini request failed: {type(e).__name__}"}
 
-    return {"error": f"All Gemini model candidates failed. Last error: {last_error}"}
+        if r.status_code == 429:
+            # Free-tier rate/quota limit -- back off and retry a couple of
+            # times before giving up. Don't raise_for_status() here: that
+            # would embed the full request URL (including our API key) in
+            # the exception text, and that text can end up committed to the
+            # output report. Never surface the URL/key anywhere.
+            last_status = 429
+            if attempt < max_retries - 1:
+                time.sleep(2 ** attempt * 5)  # 5s, 10s, 20s
+                continue
+            return {
+                "error": (
+                    "Gemini free-tier quota/rate limit exceeded (HTTP 429) "
+                    "after retries. Check quota at https://aistudio.google.com/apikey, "
+                    "or set PICO_PROVIDER=anthropic to use Claude instead."
+                )
+            }
+
+        if not r.ok:
+            return {"error": f"Gemini request failed with HTTP {r.status_code}."}
+
+        data = r.json()
+        try:
+            text = data["candidates"][0]["content"]["parts"][0]["text"]
+        except (KeyError, IndexError):
+            return {"error": "Gemini response had no usable text."}
+        text = _clean_json_text(text)
+        try:
+            return json.loads(text)
+        except json.JSONDecodeError:
+            return {"error": "Could not parse Gemini output as JSON."}
+
+    return {"error": f"Gemini request failed (last status: {last_status})."}
 
 
 def _draft_pico_anthropic(prompt: str) -> Dict:
@@ -160,7 +163,20 @@ def draft_pico(title: str, abstract: str) -> Dict:
     if PROVIDER == "gemini":
         if not GEMINI_API_KEY:
             return {"error": "PICO_PROVIDER=gemini but GEMINI_API_KEY is not set."}
-        return _draft_pico_gemini(prompt)
+        result = _draft_pico_gemini(prompt)
+        # If Gemini's free tier is out of quota for the day and Anthropic is
+        # configured as a backup, fall back automatically instead of just
+        # failing every article until the quota resets.
+        if "error" in result and "429" in result.get("error", "") or "quota" in result.get("error", "").lower():
+            if ANTHROPIC_API_KEY:
+                fallback = _draft_pico_anthropic(prompt)
+                if "error" not in fallback:
+                    fallback["confidence_notes"] = (
+                        fallback.get("confidence_notes", "") +
+                        " [Note: drafted by Claude fallback -- Gemini quota was exhausted.]"
+                    ).strip()
+                return fallback
+        return result
     elif PROVIDER == "anthropic":
         if not ANTHROPIC_API_KEY:
             return {"error": "PICO_PROVIDER=anthropic but ANTHROPIC_API_KEY is not set."}
