@@ -1,4 +1,4 @@
-# List of journals to monitor via PubMed (NCBI E-utilities).
+ # List of journals to monitor via PubMed (NCBI E-utilities).
 # "issn" should be the print or electronic ISSN as indexed by PubMed.
 # You can verify/correct ISSNs at https://www.ncbi.nlm.nih.gov/nlmcatalog
 # by searching the journal title.
@@ -7,9 +7,10 @@
 # RSS feed URL to catch articles before PubMed indexes them (see
 # src/rss_watch.py). Most journal sites have a "RSS" link in the site
 # footer or under "For Readers"/"Alerts" -- verify each one works before
-# relying on it, feeds move and break. Left blank below where I haven't
-# verified a live URL; PubMed indexing still covers those journals via
-# monitor.py, just with more lag.
+# relying on it, feeds move and break. Entries marked PASTE_URL_HERE are
+# waiting on the real address-bar link -- replace before it'll work
+# (a literal "PASTE_URL_HERE" is not a valid feed and rss_watch.py will
+# just log a warning and skip it, so it's safe to leave for now).
 
 journals:
   # --- Top tier general IM/medicine ---
@@ -20,8 +21,10 @@ journals:
     issn: "1474-547X"
   - name: "JAMA"
     issn: "1538-3598"
+    rss: "https://jamanetwork.com/rss/site_3/onlineFirst_67.xml"
   - name: "Annals of Internal Medicine"
     issn: "1539-3704"
+    rss: "https://www.acponline.org/news/rss.xml"  # NOTE: this is ACP's general news/press-release feed, not an Annals article-only feed -- expect some non-research items mixed in until a proper acpjournals.org Online First link is found
   - name: "BMJ"
     issn: "1756-1833"
     rss: "https://www.bmj.com/rss/current.xml"
@@ -29,6 +32,7 @@ journals:
   # --- Broad internal medicine ---
   - name: "JAMA Internal Medicine"
     issn: "2168-6114"
+    rss: "https://jamanetwork.com/rss/site_15/onlineFirst_71.xml"
   - name: "Journal of Internal Medicine"
     issn: "1365-2796"
   - name: "European Journal of Internal Medicine"
@@ -61,6 +65,7 @@ journals:
     issn: "2046-4053"
   - name: "BMJ Open"
     issn: "2044-6055"
+    rss: "https://bmjopen.bmj.com/rss/current.xml"  # same BMJ platform pattern -- verify it loads once live
 
   # --- Cardiology ---
   - name: "Journal of the American College of Cardiology"
@@ -71,12 +76,14 @@ journals:
     issn: "1524-4539"
   - name: "JAMA Cardiology"
     issn: "2380-6591"
+    rss: "https://jamanetwork.com/rss/site_192/onlineFirst_184.xml"
 
   # --- Gastroenterology ---
   - name: "Gastroenterology"
     issn: "1528-0012"
   - name: "Gut"
     issn: "1468-3288"
+    rss: "https://gut.bmj.com/rss/current.xml"  # same BMJ platform pattern -- verify it loads once live
   - name: "American Journal of Gastroenterology"
     issn: "1572-0241"
 
@@ -87,3 +94,30 @@ journals:
     issn: "2213-8595"
   - name: "Diabetes Care"
     issn: "1935-5548"
+
+  # --- JAMA Network family (extra specialty titles you sent RSS content for) ---
+  - name: "JAMA Dermatology"
+    issn: "2168-6084"
+    rss: "https://jamanetwork.com/rss/site_12/onlineFirst_68.xml"
+  - name: "JAMA Health Forum"
+    issn: "2689-0186"
+    rss: "https://jamanetwork.com/rss/site_193/185.xml"
+  - name: "JAMA Neurology"
+    issn: "2168-6157"
+    rss: "https://jamanetwork.com/rss/site_16/onlineFirst_72.xml"
+  - name: "JAMA Oncology"
+    issn: "2374-2445"
+    rss: "https://jamanetwork.com/rss/site_159/onlineFirst_174.xml"
+  - name: "JAMA Otolaryngology-Head & Neck Surgery"
+    issn: "2168-619X"
+    rss: "https://jamanetwork.com/rss/site_18/onlineFirst_74.xml"
+  - name: "JAMA Pediatrics"
+    issn: "2168-6211"
+    rss: "https://jamanetwork.com/rss/site_19/onlineFirst_75.xml"
+  - name: "JAMA Psychiatry"
+    issn: "2168-6238"
+    rss: "https://jamanetwork.com/rss/site_14/onlineFirst_70.xml"
+  - name: "JAMA Surgery"
+    issn: "2168-6262"
+    rss: "https://jamanetwork.com/rss/site_20/onlineFirst_76.xml"
+
