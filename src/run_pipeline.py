@@ -25,8 +25,13 @@ OUTPUT_DIR = ROOT / "output"
 
 
 def build_report() -> str:
-    articles = find_new_articles(days_back=7)
-    reviews = find_new_reviews(days_back=7)
+    # 21 days, not 7 -- PubMed's RCT/cohort publication-type tags lag
+    # behind an article's entry date, often by weeks. A 7-day window
+    # combined with a [pt] filter mostly returns nothing even when new
+    # RCTs exist. Widening this is safe: seen_pmids.json still prevents
+    # re-reporting anything already surfaced in a prior run.
+    articles = find_new_articles(days_back=21)
+    reviews = find_new_reviews(days_back=21)
     rss_items = find_new_rss_items()
     today = dt.date.today().isoformat()
 
@@ -121,6 +126,12 @@ def build_report() -> str:
 if __name__ == "__main__":
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     report = build_report()
-    out_path = OUTPUT_DIR / f"report_{dt.date.today().isoformat()}.md"
-    out_path.write_text(report)
-    print(f"Wrote report to {out_path}")
+    dated_path = OUTPUT_DIR / f"report_{dt.date.today().isoformat()}.md"
+    dated_path.write_text(report)
+    # Also write a stable-named copy so a notification step (email/Slack)
+    # always has a fixed filename to point to, instead of needing to know
+    # today's date.
+    latest_path = OUTPUT_DIR / "report_latest.md"
+    latest_path.write_text(report)
+    print(f"Wrote report to {dated_path} (and {latest_path})")
+
