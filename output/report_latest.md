@@ -235,4 +235,86 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 - **Patients' experiences of mobile health tools for chronic heart failure self-management: a qualitative meta-synthesis.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42637254/
 
-No new RCT-type articles found today.
+
+9 new RCT-type article(s) found.
+
+## Cardiometabolic Outcomes and Levothyroxine Treatment Effects in Subclinical Hypothyroidism: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732446/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Comparative Efficacy and Safety of Tirzepatide Versus Semaglutide for Obesity: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732434/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Demographic and Clinical Characteristics of Patients Treated With Lecanemab Stratified by Amyloid-Related Imaging Abnormality Status.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732414/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Surgical Versus Non-surgical Management of Acute and Subacute Infective Endocarditis in Patients With Rheumatic Heart Disease During the COVID-19 Pandemic: A Propensity-Matched Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732367/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Early Recognition of Neuroleptic Malignant Syndrome Without Hyperthermia: A Narrative Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732346/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The Virtual Fracture Clinic Bottleneck: A Single-Centre Service Evaluation of Compliance With British Orthopaedic Association Surgical Timing Standards for Distal Radius Fixation.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732304/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Colchicine and Major Adverse Cardiovascular Events in Patients With Established Coronary or Cerebrovascular Atherosclerotic Disease: A Systematic Review and Meta-Analysis of Randomised Controlled Trials.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732297/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Beyond the Tradition in Tympanoplasty: A Retrospective Cohort Study of a New Modified Palisade Tympanoplasty Technique.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732294/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## A Comparative Study of the Visual Outcomes of Two Common Diffractive Trifocal Intraocular Lenses in a Matched Cohort.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732191/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
