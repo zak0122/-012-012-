@@ -26,12 +26,29 @@ NCBI_API_KEY = os.environ.get("NCBI_API_KEY")  # optional, raises rate limit 3->
 # indexes for the journal (letters, editorials, corrections, comments).
 # Adjust freely; this is just meant to cut noise, not to gatekeep designs
 # out that you'd want to see.
+#
+# IMPORTANT LIMITATION: publication-type tags like "Randomized Controlled
+# Trial"[pt] are assigned during PubMed/MEDLINE's full indexing pass,
+# which commonly lags DAYS TO WEEKS behind when an article first appears
+# (edat = entry date). Combining a short "last N days"[edat] window with
+# a [pt] filter means genuinely-new RCTs often get missed simply because
+# they haven't been tagged yet -- not because they don't exist. To reduce
+# that gap we OR in a title/abstract text-word fallback ([tiab]), which is
+# searchable immediately on entry, no indexing wait required.
 PRIMARY_STUDY_FILTER = (
     '"Randomized Controlled Trial"[pt] OR "Controlled Clinical Trial"[pt] '
     'OR "Clinical Trial"[pt] OR "Multicenter Study"[pt] OR "Observational Study"[pt] '
     'OR "Comparative Study"[pt] OR "Cohort Studies"[mh] OR "Prospective Studies"[mh] '
-    'OR "Retrospective Studies"[mh]'
+    'OR "Retrospective Studies"[mh] '
+    'OR "randomized"[tiab] OR "randomised"[tiab] OR "randomly assigned"[tiab] '
+    'OR "cohort"[tiab] OR "prospective cohort"[tiab] OR "retrospective cohort"[tiab]'
 )
+
+# Because of the indexing lag described above, also widen the default
+# lookback window -- 7 days is too tight to reliably catch [pt]-tagged
+# records. This still only surfaces PMIDs not already in state/seen_pmids.json,
+# so widening this does not create duplicate re-reporting.
+DEFAULT_DAYS_BACK = 21
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config" / "journals.yaml"
@@ -115,7 +132,7 @@ def _efetch_abstracts(pmids: List[str]) -> Dict[str, Dict]:
     return results
 
 
-def find_new_articles(days_back: int = 7) -> List[Dict]:
+def find_new_articles(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
     """Main entry point: returns list of new RCT-type article dicts across all journals."""
     journals = _load_journals()
     seen = _load_seen(STATE_PATH)
@@ -145,7 +162,7 @@ def find_new_articles(days_back: int = 7) -> List[Dict]:
     return new_articles
 
 
-def find_new_reviews(days_back: int = 7) -> List[Dict]:
+def find_new_reviews(days_back: int = DEFAULT_DAYS_BACK) -> List[Dict]:
     """Scan the same configured journals for newly indexed systematic
     reviews / meta-analyses -- this is separate from the RCT feed above so
     your team notices early if someone else publishes a review that
@@ -191,3 +208,4 @@ if __name__ == "__main__":
     print(f"Found {len(reviews)} new review/meta-analysis article(s).")
     for r in reviews:
         print(f"- [{r['journal_config_name']}] {r['title']} ({r['link']})")
+
