@@ -43,17 +43,27 @@ jobs:
           git diff --cached --quiet || git commit -m "Daily journal watch update"
           git push
 
-      # Optional: also email the report to your team instead of / as well as
-      # committing it. Uncomment and add these secrets if you want that:
+      # Emails the report to your team every run. To enable:
+      # 1. Use a Gmail (or other SMTP) account. For Gmail: turn on 2-Step
+      #    Verification, then create an "App Password" at
+      #    https://myaccount.google.com/apppasswords -- use THAT, not your
+      #    normal Gmail password.
+      # 2. In this repo: Settings -> Secrets and variables -> Actions, add:
+      #    EMAIL_USERNAME = your Gmail address
+      #    EMAIL_APP_PASSWORD = the 16-char app password from step 1
+      # 3. Replace the "to:" line below with your team's real email
+      #    addresses (comma-separated), then remove the leading "#" from
+      #    every line in this step.
       #
-      # - name: Email report
+      # - name: Email report to team
       #   uses: dawidd6/action-send-mail@v3
       #   with:
       #     server_address: smtp.gmail.com
       #     server_port: 465
       #     username: ${{ secrets.EMAIL_USERNAME }}
       #     password: ${{ secrets.EMAIL_APP_PASSWORD }}
-      #     subject: "Daily Journal Watch Report"
-      #     to: your-team-list@example.com
+      #     subject: "Journal Watch Report"
+      #     to: teammate1@example.com,teammate2@example.com
       #     from: Journal Watch Bot
-      #     body: file://src/../output/report_latest.md
+      #     body: file://output/report_latest.md
+      #     convert_markdown: true
