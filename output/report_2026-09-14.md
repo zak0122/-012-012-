@@ -236,12 +236,66 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Patients' experiences of mobile health tools for chronic heart failure self-management: a qualitative meta-synthesis.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42637254/
 
 
-1 new RCT-type article(s) found.
+7 new RCT-type article(s) found.
 
-## Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732769/  
+## Major Adverse Events Associated With Emergency Endotracheal Intubation in Adult Patients: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733739/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Delayed Postoperative Rehabilitation and Physical Function Recovery Following Late Open Conversion After Endovascular Aneurysm Repair.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733502/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Comparative Outcomes of Transoral Robotic Surgery Versus Open Surgery in Head and Neck Cancer: A Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733444/  
 **Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Early Experience With Defensive Antibacterial Coating (DAC®) Hydrogel in High-Risk Orthopaedic Implant Surgery.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733412/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Effects of an Integrated Postural Training Program on Pain, Grip Strength, and Upper Limb Nerve Tension in Patients With Neurogenic Thoracic Outlet Syndrome: A Prospective Comparative Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733402/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## On-Demand Acetaminophen Versus Scheduled Diclofenac-Serratiopeptidase After Cesarean Delivery: A Randomized Controlled Trial.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733390/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## 24h movement behaviours in university students compared to working age and older adults: wearable-based evidence and cardiometabolic health implications.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42733115/  
+**Published:** Aug 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
