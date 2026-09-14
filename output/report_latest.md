@@ -235,4 +235,14 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 - **Patients' experiences of mobile health tools for chronic heart failure self-management: a qualitative meta-synthesis.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42637254/
 
-No new RCT-type articles found today.
+
+1 new RCT-type article(s) found.
+
+## Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42732769/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
