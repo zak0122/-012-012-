@@ -123,7 +123,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Blood or Crystalloids in Hemorrhagic Shock** -- JAMA Surgery, Wed, 02 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2853794
 
 
-## ⚠ 86 new systematic review/meta-analysis published in your journals
+## ⚠ 87 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -154,6 +154,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Two-dimensional to three-dimensional knee reconstruction from radiographs and fluoroscopy: A systematic review of methods and accuracy (1995-2025).** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42647527/
 - **The burden of Lipoprotein(a) [Lp(a)] in Africa: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42647508/
 - **Global prevalence of impostor phenomenon in medical students: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42647456/
+- **Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42745893/
 - **Assessment tools for patients with stroke-related sarcopenia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42741000/
 - **Comparative efficacy of digital health interventions and traditional mind-body exercises for pulmonary rehabilitation in chronic obstructive pulmonary disease: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42730238/
 - **Comparative efficacy of different durations and dosages of vonoprazan and amoxicillin dual therapy: a network meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729761/
@@ -215,200 +216,83 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-22 new RCT-type article(s) found.
+9 new RCT-type article(s) found.
 
-## Comparison of the modified flexible lightwand versus flexible bronchoscope for nasotracheal intubation: a protocol for a randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744389/  
+## Produce Prescription Dose Response: A Randomized Community Trial.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745148/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Patient and caregiver lived experiences and mental health service engagement during first-episode psychosis in Uganda: a longitudinal mixed-methods study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744388/  
+## Optimizing Large Language Models for Hospital Discharge Prediction.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745147/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Patient-reported outcomes in studies evaluating shared decision-making interventions: protocol for a systematic review and meta-analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744382/  
-**Published:** Sep 2026
+## Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745893/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Pilot feasibility study to deliver low-dose CT lung cancer screening in Scotland: descriptive findings from the LungScot study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744380/  
-**Published:** Sep 2026
+## An immune-inflammatory dysregulation score for risk stratification of 28-day all-cause mortality in critically ill patients with severe community-acquired pneumonia.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745888/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Effect of Kangaroo Mother Care during the first 72 hours of life on early growth and breastfeeding in normal birthweight newborns: protocol for a randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744379/  
-**Published:** Sep 2026
+## Sarcopenia trajectories and associated factors after lung transplantation: a growth mixture model study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745809/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Feasibility of an N-of-1 trial using a crossover design to evaluate music therapy in patients with breast cancer undergoing adjuvant chemotherapy: a multicentre pilot study protocol in two Italian centres (IMPACT-CASTA DIVA).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744377/  
-**Published:** Sep 2026
+## Acupuncture in patients with trigeminal neuralgia-an exploratory mixed methods trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745782/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Marburg virus persistence and clinical complications among recovered persons in Rwanda: a longitudinal study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744376/  
-**Published:** Sep 2026
+## Short-term swallowing outcomes associated with inductive electrical stimulation combined with tongue pressure resistance feedback training in post-stroke dysphagia.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745739/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Generation Malawi: a family-based birth cohort investigating physical and mental health conditions in rural and urban Malawi - study protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744372/  
-**Published:** Sep 2026
+## A comparative study of short-term intensive and prolonged low-intensity simulation training on clinical competence among medical students.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745736/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Evaluating the efficacy of an SMS text message information and support programme for people who have experienced a motor vehicle-related injury: protocol for a double-blind randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744371/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Characterising the pharmacokinetics of olanzapine in patients with anorexia nervosa (TORPEDO): protocol for a multicentre cross-sectional study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744370/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Men's experiences of multiple long-term conditions and/or disability in the UK Game of Stones weight management trial: a mixed-methods evaluation.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744369/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Volume removal intolerance during net ultrafiltration in patients with acute kidney injury in the intensive care unit: protocol for a prospective multicentre observational study (VINKO).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744368/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Adherence to follow-up cervical cancer screening and its predictors among women living with HIV in Moshi municipality, Tanzania: a hospital-based retrospective cohort study (2019-2024).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744367/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## CanDo (Canadian Donor Milk) randomised controlled trial: pasteurised human donor milk supplementation in the well-baby unit - protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744366/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Influence of low-dose colchicine on coronary microcalcification activity in patients with diffuse coronary artery disease undergoing coronary artery bypass grafting: protocol for single-centre randomised open-label blinded-endpoint trial (the COL-CABG trial).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744364/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## BLIS study: a feasibility randomised controlled trial assessing compliance, acceptability and colonisation with different dosing regimens of the probiotic supplement 
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744363/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Thyroid dysfunction and its associated factors: a cross-sectional study based on Rafsanjan cohort study in the southeast of Iran.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744361/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Cohort profile: the Alma cohort of Swedish children born 2018-2023 - a prospective, register-based resource to study social determinants of health and Swedish child health services.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744358/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparison between the thoracoabdominal rebalancing (TAR) method and the slow expiratory flow acceleration (SEFA) technique in preterm newborns: protocol for a randomised controlled clinical trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744357/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Patient expectations assessed before randomisation and after the first treatment session, and their associations with pain outcome at 3 months in patients with tennis elbow: a secondary analysis of a randomised controlled feasibility trial in Norwegian secondary care.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744356/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Whole-grain consumption and cardiometabolic risk: a meta-analysis of randomized trials.
-**Journal:** European Heart Journal  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42743912/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Patient-level predictors of safety and recurrence after cold versus hot snare resection of large, non-pedunculated colorectal polyps: an individual patient data meta-analysis of four randomised-controlled trials.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42744598/  
+## Association between worsening time in range and microvascular complications in type 1 diabetes: real-world 5-year study.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42745423/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
