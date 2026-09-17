@@ -228,101 +228,29 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-11 new RCT-type article(s) found.
+3 new RCT-type article(s) found.
 
-## National trends, variation and short-term outcomes in surgery for non-small cell lung cancer in England, 2015-2023: a population-based cohort study using linked national cancer registration and hospital administrative data.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749376/  
+## A demographic perspective on longevity and healthspan: Rethinking population ageing through a positive and prospective lens.
+**Journal:** Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42750107/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Alzheimer's disease burden in China (ABC) study: protocol for a nationwide multicentre cross-sectional and prospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749375/  
-**Published:** Sep 2026
+## Real-world effectiveness and safety of tenofovir amibufenamide in treatment-naïve chronic hepatitis B: a 48-week retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42750716/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Outcomes of congenital heart disease procedures in Pakistan: a retrospective cohort study using a publicly funded congenital heart surgery programme registry.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749374/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Labour induction in low-risk women at 39 weeks of gestation: a randomised trial in China (LIRIC) - protocol of an open label, randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749373/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Effect of synbiotic supplementation and psychobiotic diet on prenatal and postnatal depression and anxiety in women with gestational diabetes: a three-arm randomised controlled trial protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749371/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Clinical safety and preliminary efficacy of allogeneic human induced pluripotent stem cell-derived exosomes in patients with acute ischaemic stroke: protocol of a phase I/II clinical trial in China.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749369/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Association of hyperglycaemia during pregnancy with future risk of type 2 diabetes among women: a nested case-control study using a US health administrative database.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749367/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Feasibility, use and usability of an adapted mHealth tool for dementia risk reduction among middle-aged and older adults in Germany: protocol for a non-randomised pilot study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749366/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Impact of non-enteric-coated pancreatic enzyme replacement therapy (NEPERT) on pain in patients with chronic pancreatitis: a double-blind, parallel-group, placebo-controlled, randomised trial.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749363/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Longitudinal gut microbiome dynamics during immunotherapy identify microbial features of clinical benefit in advanced primary liver cancer.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749361/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Divergent microbial preludes to necrotising enterocolitis defined by gut phages and bacterial resistomes.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749360/  
+## Noninvasive Prediction of Clinically Significant Portal Hypertension in Hepatocellular Carcinoma: A Tumor-Adjusted Model.
+**Journal:** American Journal of Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42750637/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
