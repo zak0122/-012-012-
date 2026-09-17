@@ -228,227 +228,101 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-25 new RCT-type article(s) found.
+11 new RCT-type article(s) found.
 
-## Endovascular Therapy for Post-Thrombotic Syndrome - A Randomized Trial. Reply.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748445/  
-**Published:** Sep 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Endovascular Therapy for Post-Thrombotic Syndrome - A Randomized Trial.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748444/  
-**Published:** Sep 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Trial of a Maternal Diet Rich in Eggs and Peanuts to Reduce Infant Allergy.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748429/  
+## National trends, variation and short-term outcomes in surgery for non-small cell lung cancer in England, 2015-2023: a population-based cohort study using linked national cancer registration and hospital administrative data.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749376/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Blinatumomab for Replacing Chemotherapy in Pediatric Acute Lymphoblastic Leukemia.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748428/  
+## Alzheimer's disease burden in China (ABC) study: protocol for a nationwide multicentre cross-sectional and prospective cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749375/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748427/  
+## Outcomes of congenital heart disease procedures in Pakistan: a retrospective cohort study using a publicly funded congenital heart surgery programme registry.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749374/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Short or Long Antibiotic Regimens in Orthopedics.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748421/  
+## Labour induction in low-risk women at 39 weeks of gestation: a randomised trial in China (LIRIC) - protocol of an open label, randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749373/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Revascularization of Asymptomatic Carotid Artery Stenosis: Cognitive Results of the CREST-2 Randomized Trials.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747844/  
+## Effect of synbiotic supplementation and psychobiotic diet on prenatal and postnatal depression and anxiety in women with gestational diabetes: a three-arm randomised controlled trial protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749371/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes: The CREST-H Substudy of the CREST-2 Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747834/  
+## Clinical safety and preliminary efficacy of allogeneic human induced pluripotent stem cell-derived exosomes in patients with acute ischaemic stroke: protocol of a phase I/II clinical trial in China.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749369/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Status, barriers and facilitators of comprehensive abortion care services in rural India: A multicenter mixed-methods study protocol.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748209/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Assessing the effect of Loving-Kindness Meditation on pain and social well-being using a randomized controlled trial design.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748179/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparative evaluation of ChatGPT and gemini responses to patient-oriented questions on breast cancer.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748159/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Persistent critical illness in acute hypoxic respiratory failure: A retrospective cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748124/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Progress towards measles and rubella elimination in Lesotho, 2011-2025.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748122/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Regional fidelity vs dispersal of capelin (Mallotus villosus) in the Gulf of St. Lawrence, inferred from otolith chemistry.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748121/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Research on the use of bedside ultrasound to quickly evaluate neurological prognosis in patients with ROSC.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748120/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Effects of unilateral single-mode balance training compared to combined balance and plyometric training on soccer players' interlimb asymmetry in static and dynamic balance performance.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748111/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Association between alcohol-Induced mental and behavioral disorders and comorbidities: Evidence from the Korea National Hospital Discharge In-depth Injury survey data.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748090/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## The changing landscape of Fabry disease: Impact of the inclusion of the GLA-gene in broader NGS or WES based panels on the phenotypic spectrum.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748083/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Incorporating public values into public health communications: Effects of value affirmations on intentions to vaccinate and trust in the U.S.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42748077/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial.
-**Journal:** JAMA Cardiology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747817/  
+## Association of hyperglycaemia during pregnancy with future risk of type 2 diabetes among women: a nested case-control study using a US health administrative database.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749367/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## From Alert to Action: Electronic Practice Advisory Improves DSMES Referrals Over 18 Months.
-**Journal:** Diabetes Care  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747941/  
+## Feasibility, use and usability of an adapted mHealth tool for dementia risk reduction among middle-aged and older adults in Germany: protocol for a non-randomised pilot study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749366/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Maternal and Neonatal Complications in Pregnant Women With Polyendocrine Metabolic Ovarian Syndrome: A Nested Prospective Cohort Study.
-**Journal:** Diabetes Care  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747940/  
+## Impact of non-enteric-coated pancreatic enzyme replacement therapy (NEPERT) on pain in patients with chronic pancreatitis: a double-blind, parallel-group, placebo-controlled, randomised trial.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749363/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Long-Term Effectiveness, Safety, and Survival of Dupilumab in Pediatric Atopic Dermatitis.
-**Journal:** JAMA Dermatology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747813/  
+## Longitudinal gut microbiome dynamics during immunotherapy identify microbial features of clinical benefit in advanced primary liver cancer.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749361/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Structural Brain Correlates of Bulimia Nervosa Diagnosis and Symptom Severity: A Coordinated ENIGMA Eating Disorders Working Group Analysis.
-**Journal:** JAMA Psychiatry  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747849/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparative Analysis of Robotic and Laparoscopic Cholecystectomy.
-**Journal:** JAMA Surgery  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42747848/  
+## Divergent microbial preludes to necrotising enterocolitis defined by gut phages and bacterial resistomes.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42749360/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
