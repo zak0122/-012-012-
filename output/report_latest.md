@@ -218,218 +218,101 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-24 new RCT-type article(s) found.
+11 new RCT-type article(s) found.
 
-## Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement: A Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752558/  
+## Switch to injectable cabotegravir-rilpivirine given every 8 weeks in adolescents living with HIV with virological suppression in sub-Saharan Africa (LATA): a randomised, open-label, multicentre, 96-week non-inferiority trial.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42753775/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Acute Thoracic Aortic Dissection: A Retrospective Study at an Urban ED in Australia.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751710/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Microvascular Free Flap Transfer for the Closure of Recalcitrant Digestive Fistulas: A Systematic Review of Surgical Success, Definitive Closure, and Clinical Outcomes.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751709/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Trends in Opioid Prescriptions Based on the Medical Information Mart for Intensive Care IV (MIMIC-IV) Database From 2008 to 2022.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751704/  
+## Metabolic Dysfunction-Associated Steatotic Liver Disease and Outcomes in Atrial Fibrillation.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754076/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Effects of High-Intensity Interval Training on Cognitive Function in Older Adults: A Systematic Review of Randomized Controlled Trials.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751654/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Effect of Low-Level Laser Therapy on Implant Osseointegration and Peri-Implant Clinical Outcomes: A Prospective Observational Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751587/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Clinical Effectiveness of Roflumilast in Patients With Chronic Obstructive Pulmonary Disease: A Systematic Review and Meta-Analysis.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751435/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Albumin-Corrected Serum Calcium as a Biochemical Correlate of Left Ventricular Dysfunction Among Patients With End-Stage Renal Disease on Maintenance Hemodialysis: A Cross-Sectional Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751384/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Description of the 180° Rotational Mucosal Flap Technique in Patients With Incomplete Cleft Palate: A Study From Cali, Colombia.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751374/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Reviewing the Impact of Gluten-Free Diets on Child and Adolescent Psychiatric Disorders.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751372/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Hyperbilirubinemia as an Indicator of Complicated Appendicitis.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42751332/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Dietary Patterns and Nutritional Factors in Multiple Sclerosis: A Narrative Review.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42750926/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Short-term effects of different toothpaste formulations on total salivary calcium: A randomized crossover study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752694/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Sexual dysfunction after female genital mutilation/cutting: A retrospective cross-sectional study of associations with organ-specific genital anatomy, trauma history, and psychiatric comorbidity.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752680/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Epidemiology of human RSV in Taiwan, 2018-2024.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752679/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Factors affecting family consent to corneal donation at a hospital-based eye bank in a tertiary Israeli medical center.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752659/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Effects of hip stability training versus standard care on Q-angle and pain in marathon runners with patellofemoral pain syndrome: A retrospective cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752652/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparative assessment of two participatory approach methods for selecting pig health indicators: A proof-of-concept on respiratory health.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752648/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Clinical characteristics and emergency department-based warning indicators of fulminant myocarditis in children.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752623/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## "I had your number on speed dial:" A qualitative study of patient experiences of dietetics care and managing nutrition during curative treatment of upper gastrointestinal cancer.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752437/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Trends in Prebiopsy MRI Utilization for Prostate Cancer Detection.
-**Journal:** JAMA Oncology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752749/  
+## Calcium Channel Blockers are Safe and Beneficial in Patients with Heart Failure and Advanced Chronic Kidney Disease.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754069/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Immunotherapy in Head and Neck Squamous Cell Carcinoma With PD-L1 Combined Positive Score Less Than 1: A Bayesian Meta-Analysis.
-**Journal:** JAMA Oncology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752536/  
+## Fathers at risk: Effects of threatened and actual preterm birth on the course of paternal peripartum depression and anxiety.
+**Journal:** PLOS ONE  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42715170/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and safety of patent haemostasis-guided strategies for preventing radial artery occlusion following transradial coronary procedures: a protocol for a systematic review, network meta-analysis, and exploratory component network meta-analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754281/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## PDS0101 With Pembrolizumab in HPV16-Positive Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma: A Phase 2 Nonrandomized Clinical Trial.
-**Journal:** JAMA Oncology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752531/  
+## Timing to restart direct oral anticoagulants after traumatic intracranial haemorrhage (RESTART tICrH): study protocol for a randomised controlled multicentre trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754280/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Suzetrigine for Postoperative Pain in Head and Neck Free Flap or Transoral Robotic Surgery.
-**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42752794/  
+## Intensification of blood pressure lowering therapeutics based on diuretics versus usual management for uncontrolled hypertension in patients with moderate to severe chronic kidney disease (THINK): protocol for an open label, two-parallel group, cluster randomised controlled, superiority, phase 3 trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754276/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Semaglutide as adjunct treatment for obesity in adolescents receiving antipsychotic medication (the GOAL trial): protocol for a single-arm, open-label feasibility study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754274/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Health technology assessment of robotic surgery for rectal cancer in China: protocol for a nationally multicentre prospective cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754273/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Fragility fractures of the pelvis in the elderly: protocol for an international prospective multicentre observational cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754272/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## MedDRA adoption and adverse event reporting quality in gastrointestinal and abdominal surgery randomised controlled trials: a cross-sectional analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754271/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
