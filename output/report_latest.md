@@ -218,101 +218,56 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-11 new RCT-type article(s) found.
+6 new RCT-type article(s) found.
 
-## Switch to injectable cabotegravir-rilpivirine given every 8 weeks in adolescents living with HIV with virological suppression in sub-Saharan Africa (LATA): a randomised, open-label, multicentre, 96-week non-inferiority trial.
-**Journal:** The Lancet  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42753775/  
+## Effectiveness of structured lactation support and human donor milk banking in German NICUs: a stepped-wedge cluster-randomized trial.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754870/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Metabolic Dysfunction-Associated Steatotic Liver Disease and Outcomes in Atrial Fibrillation.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754076/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Calcium Channel Blockers are Safe and Beneficial in Patients with Heart Failure and Advanced Chronic Kidney Disease.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754069/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Fathers at risk: Effects of threatened and actual preterm birth on the course of paternal peripartum depression and anxiety.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42715170/  
+## Diagnostic performance of ultrasonographic medial gastrocnemius muscle thickness for sarcopenia in patients on maintenance hemodialysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755434/  
 **Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Efficacy and safety of patent haemostasis-guided strategies for preventing radial artery occlusion following transradial coronary procedures: a protocol for a systematic review, network meta-analysis, and exploratory component network meta-analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754281/  
+## Long-term Outcomes After Endoscopic Resection for pMM/SM1 Esophageal Cancer: A Multicenter Prospective Cohort Study.
+**Journal:** American Journal of Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754974/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Timing to restart direct oral anticoagulants after traumatic intracranial haemorrhage (RESTART tICrH): study protocol for a randomised controlled multicentre trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754280/  
+## Life expectancy and changing causes of mortality in familial adenomatous polyposis (FAP).
+**Journal:** American Journal of Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754971/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Intensification of blood pressure lowering therapeutics based on diuretics versus usual management for uncontrolled hypertension in patients with moderate to severe chronic kidney disease (THINK): protocol for an open label, two-parallel group, cluster randomised controlled, superiority, phase 3 trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754276/  
+## ISOLATED LARYNGOPHARYNGEAL SYMPTOMS DO NOT PREDICT OBJECTIVE REFLUX EVIDENCE: AN INTERNATIONAL MULTICENTER VALIDATION STUDY OF THE SAN DIEGO CONSENSUS PATHWAY FOR SELECTIVE UPFRONT TESTING.
+**Journal:** American Journal of Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754970/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Semaglutide as adjunct treatment for obesity in adolescents receiving antipsychotic medication (the GOAL trial): protocol for a single-arm, open-label feasibility study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754274/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Health technology assessment of robotic surgery for rectal cancer in China: protocol for a nationally multicentre prospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754273/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Fragility fractures of the pelvis in the elderly: protocol for an international prospective multicentre observational cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754272/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## MedDRA adoption and adverse event reporting quality in gastrointestinal and abdominal surgery randomised controlled trials: a cross-sectional analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754271/  
+## COMPARATIVE REAL-WORLD EFFECTIVENESS OF BIOLOGIC THERAPIES FOR PREVENTING POSTOPERATIVE ENDOSCOPIC RECURRENCE OF CROHN'S DISEASE.
+**Journal:** American Journal of Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754967/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
