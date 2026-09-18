@@ -1,9 +1,18 @@
 # Journal Watch Report -- 2026-09-18
 
-## 🕐 128 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 125 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
+- **JAMA Editors' Summary Podcast September 18, 2026** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854455
+- **FDA Approves New Treatment for Advanced Pancreatic Cancer** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854429
+- **Mpox Virus Transitions Toward Endemicity** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854428
+- **FDA Approves 2 New Alzheimer Disease Blood Tests** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854427
+- **Earlier Menopause Linked to Faster Cognitive Decline** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854426
+- **How Do Cardiovascular Risks Vary Across Nicotine Products?** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854425
+- **Updated Stroke Guideline Emphasizes Early, Holistic Intervention** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854424
+- **Why More Adults Are Being Diagnosed With ADHD** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854423
+- **The Latest on Caffeine and Heart Health** -- JAMA, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854422
 - **The Dangers of Perverted Appetite** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854261
 - **Characteristics of Patients Choosing Intravenous Moderate Sedation for IUD Placement** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854260
 - **Management Consultant Use by Nonprofit Hospitals** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854259
@@ -11,16 +20,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854257
 - **Floating** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854256
 - **Intrauterine Mepivacaine Instillation vs Placebo for Pain During IUD Placement Research Summary** -- JAMA, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854255
-- **The Maternal Mental Health Crisis** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854311
-- **Asymptomatic Carotid Revascularization May Be Justified, But Not to Improve Cognition** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854200
-- **Diagnosis and Treatment of Patients With Primary Aldosteronism** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854199
-- **Screening for Early-Stage Type 1 Diabetes in Children** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854198
-- **Screening for Early-Stage Type 1 Diabetes in Children—Reply** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854197
-- **Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854196
-- **Cognitive Outcomes After Revascularization of Asymptomatic Carotid Artery Stenosis** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854195
-- **Remission** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854194
-- **The Poetry of Remission (and Recurrence)** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854193
-- **Revascularization in Asymptomatic Carotid Artery Stenosis With Hemodynamic Impairment and Cognitive Outcomes Research Summary** -- JAMA, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854192
+- **Proposed OMB changes to federal research grant process delayed** -- Annals of Internal Medicine, Fri, 18 Sep 2026 11:32:45 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/proposed-omb-changes-to-federal-research-grant-process-delayed
 - **Vaccine resources available for the 2026-2027 respiratory season** -- Annals of Internal Medicine, Thu, 17 Sep 2026 14:00:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260915-vaccine-resources-available-for-the-2026-2027
 - **National Physician Suicide Awareness Day is September 17** -- Annals of Internal Medicine, Tue, 15 Sep 2026 14:34:22 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260915-national-physician-suicide-awareness-day-is
 - **ACP welcomes September new Fellows** -- Annals of Internal Medicine, Tue, 15 Sep 2026 11:00:00 -0400 -- https://www.acponline.org/membership/physician-membership/acp-fellowship/welcome-new-fellows
@@ -30,7 +30,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Updated VA/DoD obesity guideline supports personalized care and continued use of effective weight loss medications** -- Annals of Internal Medicine, Wed, 26 Aug 2026 15:21:04 -0400 -- https://www.acpjournals.org/doi/10.7326/ANNALS-26-00676
 - **More ACP MKSAP CORE quizzes arriving Aug. 31** -- Annals of Internal Medicine, Tue, 25 Aug 2026 16:06:00 -0400 -- https://www.acpjournals.org/doi/10.7326/acpi-20260825-more-acp-mksap-core-quizzes-arriving-aug-31
 - **ACP to CMS: Medicaid work requirements will increase administrative burden for physicians** -- Annals of Internal Medicine, Fri, 21 Aug 2026 14:53:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/august-14-2026/acp-to-cms-medicaid-work-requirements-will-increase-administrative-burden-for-physicians
-- **More than 210 leading medical, health and patient advocacy groups oppose recent Executive Order on childhood vaccines** -- Annals of Internal Medicine, Mon, 17 Aug 2026 09:32:19 -0400 -- https://www.acponline.org/acp-newsroom/more-than-210-leading-medical-health-and-patient-advocacy-groups-oppose-recent-executive-order-on
 - **Caring Collectively Through Palliative Care Partnerships** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853900
 - **Lessons From a Hepatitis C Program in California Prisons** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853899
 - **Universal Opt-Out Hepatitis C Virus Testing and Treatment on Entry in California State Prisons** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853898
@@ -55,6 +54,10 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Perifollicular Repigmentation After Hair Transplant in Stable Discoid Lupus Erythematosus** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853815
 - **Long-Term Effectiveness, Safety, and Survival of Dupilumab in Pediatric Atopic Dermatitis** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853814
 - **Error in Byline** -- JAMA Dermatology, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2854247
+- **Out-of-Pocket Payments Among Medicare Beneficiaries Who Reached the IRA Part D Spending Cap** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853929
+- **Cost-Effectiveness of Community-Based Rehabilitation for People With Schizophrenia** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853928
+- **Access to Broadband, Ambulance Services, and Health Care and Implications for Telehealth** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853927
+- **Federal Funding Cuts and the Future of Health Care in Schools** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853926
 - **Proposing a Grand Bargain for More Affordable Employer-Sponsored Insurance** -- JAMA Health Forum, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854430
 - **Health Policy Research Priorities Toward Improved Rural Population Health** -- JAMA Health Forum, Fri, 11 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853532
 - **Consolidation of Hospital Affiliations With Group Purchasing Organizations** -- JAMA Health Forum, Fri, 11 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853531
@@ -96,19 +99,13 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Newborn Hearing Screening in the Otoferlin Gene Therapy Era** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853809
 - **High Pesticide Exposure Events and Self-Reported and Measured Olfactory Dysfunction** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853534
 - **Prognostic Value of Electrodiagnostic Results Beyond House-Brackmann Grade in Bell Palsy** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853533
+- **Adolescents’ Experiences of Online Harms by Platform** -- JAMA Pediatrics, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2854310
 - **Error in Figure** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853639
 - **Legal and Clinical Liability of Comanaging Pediatric Mental Health With Unregulated AI Chatbots** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853638
 - **Legal and Clinical Liability of Comanaging Pediatric Mental Health With Unregulated AI Chatbots—Reply** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853637
 - **Cumulative Incidence and Prevalence of Autism Spectrum Disorder** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853636
 - **Individually Targeted Human Milk Fortification** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853635
 - **Mandated Reporting and Systematic Bias in Childhood Adversity Research** -- JAMA Pediatrics, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853634
-- **Trends in Preclinical and Clinical Obesity Among Adolescents** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853481
-- **Suicide Rates by Gender Among 10- to 14-Year-Olds** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853480
-- **Interpreting Prenatal Acetaminophen and Neurodevelopment** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853479
-- **Interpreting Prenatal Acetaminophen and Neurodevelopment** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853478
-- **Interpreting Prenatal Acetaminophen and Neurodevelopment—Reply** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853477
-- **RSV Bivalent Prefusion F Protein Vaccine in Pregnancy** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853476
-- **The MAHA Commission and Youth Physical Activity and Fitness Priorities** -- JAMA Pediatrics, Tue, 08 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853475
 - **Genetic Risk as Statistical Topology Rather Than Biological Essence** -- JAMA Psychiatry, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854206
 - **Genetic Risk as Statistical Topology Rather Than Biological Essence—Reply** -- JAMA Psychiatry, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854205
 - **Structural Brain Correlates of Bulimia Nervosa Diagnosis and Symptom Severity** -- JAMA Psychiatry, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854204
@@ -134,7 +131,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Prophylactic Mesh Placement and Incisional Hernia in HBP Surgery** -- JAMA Surgery, Wed, 09 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2853952
 
 
-## ⚠ 78 new systematic review/meta-analysis published in your journals
+## ⚠ 83 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -166,6 +163,11 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Application of musculoskeletal ultrasound in postoperative rehabilitation assessment and monitoring after rotator cuff repair: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42709705/
 - **Dual antiplatelet therapy duration after percutaneous coronary intervention with contemporary drug-eluting stents: A systematic review and network meta-analysis of randomized trials.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42685059/
 - **Association between Eubacterium saphenum and periodontitis: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42685031/
+- **Strengthening the pipeline of Aboriginal and Torres Strait Islander doctors into and through general practice training in Queensland, Australia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42757250/
+- **PD-1/PD-L1 inhibitors combined with chemotherapy as first-line treatment for advanced biliary tract cancer: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755819/
+- **Current landscape and research gaps in artificial intelligence for ophthalmic nursing: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755614/
+- **Global trends and thematic clusters in healthcare professional education, medical errors, and patient safety: a bibliometric analysis, 2000-2026.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755527/
+- **Artificial intelligence in personalized computed tomography dose optimization: a systematic review of techniques and clinical outcomes.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755520/
 - **Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42745893/
 - **Assessment tools for patients with stroke-related sarcopenia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42741000/
 - **Comparative efficacy of digital health interventions and traditional mind-body exercises for pulmonary rehabilitation in chronic obstructive pulmonary disease: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42730238/
@@ -218,56 +220,281 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Methods for analysing patient flow between care settings: a systematic review.** -- BMJ Open, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42665343/
 
 
-6 new RCT-type article(s) found.
+31 new RCT-type article(s) found.
 
-## Effectiveness of structured lactation support and human donor milk banking in German NICUs: a stepped-wedge cluster-randomized trial.
-**Journal:** BMC Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754870/  
+## Jada System Versus Bakri Balloon for Postpartum Hemorrhage: A Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757401/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Diagnostic performance of ultrasonographic medial gastrocnemius muscle thickness for sarcopenia in patients on maintenance hemodialysis.
+## Developmental Dysplasia of the Hip: Clinical Predictors and the Impact of a Screening Protocol.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757338/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Levosimendan for Weaning From Veno-Arterial Extracorporeal Membrane Oxygenation in Cardiogenic Shock: An Umbrella Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757330/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cardiovascular and Mortality Outcomes in Lean Versus Non-lean Steatotic Liver Disease: A Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757277/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cannabis Use and Risk of Periodontitis and Adverse Oral Health Outcomes: A Systematic Literature Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757244/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Assessing Return to Performance After Surgery in National Football League Quarterbacks: A Comparative Analysis of Performance Metrics.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757209/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Marked Increase in Influenza-Associated Acute Myositis Among Children During the 2024-2025 Season: A Two-Season Retrospective Cohort Study From Riyadh, Saudi Arabia.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757145/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical and Biochemical Factors Associated With Hospitalization and Intensive Care Unit Admission Among Pregnant Women With Severe Psoriasis: A Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757122/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Design, implementation, and evaluation of a programmatic assessment model in an emergency medicine residency: a mixed-methods study.
 **Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755434/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42756040/  
 **Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Long-term Outcomes After Endoscopic Resection for pMM/SM1 Esophageal Cancer: A Multicenter Prospective Cohort Study.
-**Journal:** American Journal of Gastroenterology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754974/  
-**Published:** Sep 2026
+## Clinical Frailty Scale and 12-month adverse health outcomes among community-dwelling older adults in Vietnam: a prospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42756028/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Life expectancy and changing causes of mortality in familial adenomatous polyposis (FAP).
-**Journal:** American Journal of Gastroenterology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754971/  
-**Published:** Sep 2026
+## Neoadjuvant pembrolizumab-based therapy versus dual HER2 blockade in early breast cancer: comparable surgical complication rates in a real-world cohort.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755968/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## ISOLATED LARYNGOPHARYNGEAL SYMPTOMS DO NOT PREDICT OBJECTIVE REFLUX EVIDENCE: AN INTERNATIONAL MULTICENTER VALIDATION STUDY OF THE SAN DIEGO CONSENSUS PATHWAY FOR SELECTIVE UPFRONT TESTING.
-**Journal:** American Journal of Gastroenterology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754970/  
-**Published:** Sep 2026
+## Preliminary exploration of the value of pericoronary adipose tissue radiomics in identifying high-risk patients with chronic coronary syndrome: a retrospective Chinese cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755930/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## COMPARATIVE REAL-WORLD EFFECTIVENESS OF BIOLOGIC THERAPIES FOR PREVENTING POSTOPERATIVE ENDOSCOPIC RECURRENCE OF CROHN'S DISEASE.
+## The impact of chemoimmunotherapy on primary cold agglutinin disease and Waldenström macroglobulinemia-associated cold agglutinin syndrome.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755913/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and validation of a nomogram prediction model for perioperative delirium in older patients with osteoporotic fractures based on LASSO regression and multiple parameters.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755870/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical efficacy of the Galdakao-modified supine Valdivia position vs. the lithotomy position in FANS-UAS-assisted IPC-RIRS for renal calculi.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755867/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Impact of antiplatelet therapy on erectile dysfunction following percutaneous coronary intervention in patients with ST-segment elevation myocardial infarction.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755832/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## PD-1/PD-L1 inhibitors combined with chemotherapy as first-line treatment for advanced biliary tract cancer: a systematic review and meta-analysis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755819/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The impact of maternal hepatitis B virus infection on IVF/ICSI-assisted pregnancy outcomes: a propensity score-matched cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755792/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Ultrasound-assisted modified paramedian approach vs. traditional paramedian approach for spinal anesthesia in lower limb surgery: a single-center randomized controlled trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755775/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Identifying systemic vulnerability phenotypes associated with programmed regimens in frozen embryo transfer: a secondary analysis of a multicentre randomized clinical trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755763/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## A Bayesian network-based predictive model for gout onset risk: associations with traditional Chinese medicine constitution in hyperuricemic populations.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755678/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Redox imbalance in infertility and assisted reproduction: biomarkers, mechanisms, multi-omics integration, and personalised therapeutic strategies.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755643/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prevalence of financial toxicity and construction of a risk prediction model for lung cancer patients at 6 months after discharge.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755604/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Impact of antibody-mediated rejection detected on one-year protocol biopsies on long-term kidney allograft survival.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755587/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Time-Series modeling for predicting mortality risk in intensive care unit patients with pulmonary inflammation.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755582/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and validation of an automatic machine learning-based myocardial contusion prediction model in rib fracture patients: a retrospective multicenter cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755566/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Differential risk signals of cutaneous adverse drug reactions among β-lactam antibiotics: ceftriaxone shows increased signals for SJS/TEN in clinical and real-world cohorts.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755545/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Ab interno trabeculotomy with vs. without cataract surgery for POAG: a retrospective study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755512/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Complete blood count-derived myeloid-lymphoid inflammatory phenotype in rheumatoid arthritis complicated by acute myocardial infarction: an age- and sex-balanced retrospective study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755504/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and validation of an interpretable machine learning model for predicting postoperative fever after flexible ureteroscopic lithotripsy: a single-center retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42755484/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Alcohol-Use Trajectories and Major Adverse Liver Outcomes in MetALD: A Nationwide Longitudinal Cohort Study.
 **Journal:** American Journal of Gastroenterology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42754967/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42757874/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
