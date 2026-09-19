@@ -131,12 +131,15 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Prophylactic Mesh Placement and Incisional Hernia in HBP Surgery** -- JAMA Surgery, Wed, 09 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2853952
 
 
-## ⚠ 84 new systematic review/meta-analysis published in your journals
+## ⚠ 89 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
 - **Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.** -- BMJ, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716561/
+- **The Association Between Visual Impairment and Delirium: A Systematic Review and Meta-Analysis.** -- Journal of General Internal Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760461/
 - **Teach-Back in Clinical Communication: A Systematic Review and Meta-analysis.** -- Journal of General Internal Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42693371/
+- **The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760699/
+- **Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760652/
 - **Correlation between MMP-3-1171 5A/6A polymorphism and the risk of Alzheimer's disease: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42742624/
 - **Incidence and risk factors for lower-extremity deep vein thrombosis in postoperative patients with spontaneous intracerebral hemorrhage: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736741/
 - **Experiences and perceptions of lay bystanders responding to out-of-hospital cardiac arrest: A qualitative systematic review.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700090/
@@ -165,6 +168,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Application of musculoskeletal ultrasound in postoperative rehabilitation assessment and monitoring after rotator cuff repair: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42709705/
 - **Dual antiplatelet therapy duration after percutaneous coronary intervention with contemporary drug-eluting stents: A systematic review and network meta-analysis of randomized trials.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42685059/
 - **Association between Eubacterium saphenum and periodontitis: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42685031/
+- **Adjunctive traditional Chinese medicine for ischemic stroke: a systematic review with structured narrative synthesis and GRADE assessment of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42761006/
+- **Out-of-pocket expenditure on medicine for chronic patients and its economic impact on Indian households: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760948/
 - **Strengthening the pipeline of Aboriginal and Torres Strait Islander doctors into and through general practice training in Queensland, Australia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42757250/
 - **PD-1/PD-L1 inhibitors combined with chemotherapy as first-line treatment for advanced biliary tract cancer: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755819/
 - **Current landscape and research gaps in artificial intelligence for ophthalmic nursing: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755614/
@@ -221,183 +226,489 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-20 new RCT-type article(s) found.
+54 new RCT-type article(s) found.
 
-## Survival benefit of deceased donor kidney transplantation versus continued dialysis: international target trial emulation.
-**Journal:** BMJ  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42759976/  
+## Association of blood parameters and ratios with aseptic loosening after total knee arthroplasty: A retrospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760748/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Impact of Small Airway Dysfunction on Asthma Presentation and Future Exacerbation Risk: A Cohort Study.
-**Journal:** American Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42759868/  
+## Development and validation of a blood-based diagnostic model for pulmonary tuberculosis combining GBP5 expression and routine laboratory indicators.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760747/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Healthy Lifestyle, Genetic Susceptibility and Risk of Kidney Stone Disease in the UK Biobank: A Prospective Cohort Study.
-**Journal:** Mayo Clinic Proceedings  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42759605/  
+## Arthroscopic partial meniscectomy should be performed carefully for medial meniscus tear with the anteromedial meniscofemoral ligament.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760746/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Cost-effectiveness analysis of efavirenz versus ainuovirine in people living with HIV initiating first-line combination antiretroviral therapy.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760092/  
+## Analysis, evaluation of hemodynamic differences and treatment strategy recommendations for multiple paraclinoid aneurysms.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760743/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Prospective multicentre observational study of natural orifice specimen extraction in minimally invasive colorectal surgery in the Asia-Pacific: protocol for the AP-NOSES registry.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760090/  
+## The outcome of chemical synovectomy with Rifampicin in chronic hemophilic synovitis: The Syrian experience.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760742/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760088/  
+## Impact of a standardized oral care protocol on oral mucositis severity in leukemia patients receiving induction chemotherapy.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760741/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## In situ exploration of endothelial function in vasoplegic syndrome after cardiac surgery with cardiopulmonary bypass: protocol for a single-centre prospective cohort study - the Vasoshock study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760087/  
+## Association between COVID-19 and exacerbation of allergic skin diseases: A retrospective questionnaire-based cross-sectional study in Western China.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760740/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## PETER: protocol for a randomised controlled trial of the effects of postal and digital invitations and reminders on participation in colorectal cancer screening among young adults.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760086/  
+## Association between serum uric acid and benign prostatic hyperplasia among Chinese men aged 45 years or older: A prospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760739/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Monitoring nutritional consequences of obesity treatment on long-term health of women and their offspring: protocol of a multicentre prospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760085/  
+## Association between medial posterior tibial slope and medial proximal tibial angle with medial meniscus posterior root tears: A retrospective case-control study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760732/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Admission ionised calcium disturbances and adverse outcomes in paediatric major trauma: a UK multicentre retrospective cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760083/  
+## Clinical characteristics and outcomes of acute liver failure in Vietnam: A prospective cross-sectional observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760731/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Periodised power training in community-dwelling adults with chronic stroke: a protocol for the Power Exercise for Stroke Recovery (POWER) pilot randomised controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760082/  
+## Psychological intervention for disputing irrational beliefs associated with work stress amongst tourism educators and mathematicians with hypertension.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760729/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Effect of fish oil as an adjunct therapy to metformin on vascular and cardiac health in women with polyendocrine metabolic ovarian syndrome: protocol for a randomised, placebo-controlled clinical trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760081/  
+## Epidemiological characteristics and clinical implications of Vibrio vulnificus infections in western Gyeongsangnam-do, Korea: A retrospective observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760726/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Association of time of day at stroke onset with functional outcomes after reperfusion therapy in acute ischaemic stroke: a retrospective cohort study in China.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760078/  
+## Association between lipid accumulation product index (LAP index) and coronary artery disease risk: An observational study based on NHANES 2017-2020.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760724/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Randomised treatment of acute pancreatitis with infliximab: protocol for a double-blind, placebo-controlled, multi-centre, adaptive, phase 2 superiority trial (RAPID-I).
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760074/  
+## Tranexamic acid in proximal femoral megaprosthetic reconstruction for metastatic bone disease: A retrospective comparative study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760720/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Safety of short-term non-steroidal anti-inflammatory drug use in the postoperative setting in paediatric patients with chronic kidney disease: protocol for a randomised, placebo-controlled trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760073/  
+## Statin use and 28-day survival in critically ill patients with non-acute myocardial infarction cardiogenic shock: A retrospective cohort study accounting for treatment timing.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760718/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Diabetes status, fasting glucose and HbA1c, and outcomes after myocardial infarction: a retrospective registry-based Swedish cohort study.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760071/  
+## Tumor mutational burden as a prognostic biomarker for survival and quality of life in metastatic colorectal cancer patients receiving anti-PD-1/PD-L1 immunotherapy: A retrospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760712/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Multicentre, 2×2 factorial, randomised, open-label trial of neuromodulators and cough control therapy for refractory or unexplained chronic cough: the FORTITUDE trial protocol.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760069/  
+## Symptom-based classification of Parkinson's disease using retrospective electronic medical records: A STROBE-compliant cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760709/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Cohort profile: Infant Gut Bacterial Study in Pakistan (INBUGS-P) longitudinal birth cohort.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760068/  
+## The safety and efficacy of different anti-tuberculosis regimens containing Lzd for RR/MDR/Pre-XDR-TB patients in China.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760708/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Can early 
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760067/  
+## An intelligent OCR-LLM prescription review system for inpatient narcotic and psychotropic drugs: Development and retrospective validation.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760707/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## High rates of transition to immune active disease in a cohort of strictly defined immune tolerant patients with chronic hepatitis B: results from the RADICAL consortium.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760116/  
+## Asssociation between occupational stress, work arrangements, and depression in men: Review of observational studies 2020-2025.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760705/  
 **Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Duodenal fluid analysis of 13 patients with progressive familial intrahepatic cholestasis type 2 from a single institution.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760696/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Ultrasound-based transient elastography combined with metabolic biomarkers enhances the diagnostic efficacy for pediatric MASLD.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760694/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Implementation of an emergency nursing pathway reduces emergency department length of stay in trauma: Retrospective analysis and machine learning-based risk modeling.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760693/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Estimated prevalence of osteoporosis in postmenopausal women in Saudi Arabia: A multicenter cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760690/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy of probiotics combined with tacrolimus ointment in children with atopic dermatitis and its effects on serum IgE, IL-4, and LTB4: A single-center retrospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760687/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Impact of educational level on EDACS performance for chest pain risk stratification: A prospective cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760684/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prognostic value of the HALP (hemoglobin, albumin, lymphocyte, and platelet) score in emergency versus elective inguinal hernia repair: A retrospective study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760682/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prevalence and associated family and lifestyle factors of precocious puberty in children: A retrospective observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760679/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Multilevel factors predicting medication adherence among gout patients in China: A 1‑year prospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760678/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Effect of esketamine on postoperative pulmonary complications after radical surgery for lung cancer: A randomized double-blind controlled trial.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760676/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## High potency and water dispersible Boswellia extract reduces pain and inflammation in subjects with osteoarthritis of the knee: A randomized, double-blind, placebo-controlled trial.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760675/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical efficacy of AI-navigated transperineal MRI-TRUS fusion biopsy for prostate cancer diagnosis: A retrospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760671/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Evaluation of clinical performance of artificial intelligence-assisted measurement of thoracic aortic diameter on non-contrast CT.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760670/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prevalence and occupational risk factors of dry eye symptoms among Chinese healthcare workers: A cross-sectional study and management implications.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760669/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy of celecoxib and methotrexate-vinblastine regimen in desmoid-type fibromatosis: A retrospective cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760667/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## J-shaped association between the non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio and uric acid in Chinese adults: A cross-sectional study from CHARLS.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760663/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Current-future burden concerning musculoskeletal diseases and high body mass index.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760659/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cystatin C-based eGFR discordance and mortality risk in adults with dysglycemia: Parallel cohort analyses of NHANES and CHARLS.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760657/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Early clinical and hemodynamic outcomes of SAVR, Ozaki neocuspidization, and TAVI: A real-world observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760656/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Secondhand smoke exposure in never-smokers: A cross-sectional and prospective cohort study of chronic kidney disease prevalence and all-cause mortality in affected patients.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760653/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cardiorespiratory adaptations to high-intensity interval training in young boxers: A randomized controlled study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760651/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and temporal validation of a machine learning-based prediction model for long-term depressive symptoms in older adults with cardiovascular disease or hypertension: A longitudinal cohort study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760648/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The impact of marital status on gastric cancer-related prognosis: A propensity-score matched study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760647/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical spectrum and burden of extrahepatic manifestations in chronic hepatitis B: A multinational study from 2000 to 2025.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760646/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Pattern-related profiles of acupuncture points for pain management: A retrospective study of outpatient data from Korean medicine clinics.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760645/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Morphometric Analysis of Pedicles of Typical Thoracic Vertebrae for Transpedicular Screw Fixation: A Study From Eastern India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761025/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## An Early Single-Center Case Series Experience With a Recently Introduced Formulation of Inhaled Treprostinil (Yutrepia).
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761009/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The Impact of Uterine Peristalsis on Clinical Pregnancy Rates in In Vitro Fertilisation (IVF): A Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42760924/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and validation of a postpartum hemorrhage risk prediction model for advanced maternal age women undergoing vaginal delivery: a comparison of multiple machine learning algorithms.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761061/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Postoperative delirium risk in elderly high-risk patients undergoing hip and knee arthroplasty (ASA Ⅲ-Ⅳ): construction and validation of a nomogram model based on frail frailty index.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761060/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Disseminated intravascular coagulation as a prognostic factor in heatstroke: a retrospective cohort study based on Japanese insurance claims.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761051/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## An open-label randomised controlled trial protocol evaluating a Siddha add-on regimen for radiotherapy induced oral mucositis in head and neck cancer patients.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761039/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Adjunctive traditional Chinese medicine for ischemic stroke: a systematic review with structured narrative synthesis and GRADE assessment of randomized controlled trials.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761006/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Elevated ALT correlates with severe liver injury, monocyte infiltration, and Pro-inflammatory immune dysregulation in chronic hepatitis B virus infection.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761001/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
