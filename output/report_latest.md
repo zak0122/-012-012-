@@ -223,4 +223,140 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
-No new RCT-type articles found today.
+
+15 new RCT-type article(s) found.
+
+## Modified Sequential Organ Failure Assessment score for prehospital critical care: defining thresholds and clinical implications.
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42763288/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Sex Differences in Early Functional Outcomes After Acute Stroke: A Retrospective Cohort Study at a United Kingdom Tertiary Stroke Centre.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42762025/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Derivation and Exploratory Evaluation of the Respiratory Rate-Oxygenation (ROX) Index as a Predictor of High-Flow Nasal Cannula Outcomes in Patients With COVID-19 Pneumonia.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42762003/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical Profile and Association Between Admission Glasgow Coma Scale and In-Hospital Mortality Among Children With Head Injury at a Tertiary Care Centre in Central India.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761800/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical Presentation, Management, and Outcomes of Retroperitoneal Fibrosis: A 10-Year Single-Center Study of 24 Cases.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761729/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Hospital Expenditure for Microsurgical Peripheral Nerve Repair and the Broader Social Security Burden of Hand and Wrist Trauma in Brazil (2014-2024): An Ecological Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761720/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Earlier Prostatic Artery Embolization for Progressive Benign Prostatic Hyperplasia: A Biological Rationale and Hypothesis for Disease Interception.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761671/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Functional and Radiological Outcomes in Minimally Invasive Surgery-Assisted Transforaminal Lumbar Interbody Fusion in Lumbar Degenerative Disease: A Prospective Observational Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761578/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prevalence and Clinical Patterns of Central Post-stroke Pain Syndrome After Acute Ischemic Stroke: A Prospective Observational Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761410/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Correction: Jada System Versus Bakri Balloon for Postpartum Hemorrhage: A Retrospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761322/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association between the C-reactive protein-albumin-lymphocyte index and incident depression in patients with chronic obstructive pulmonary disease: a prospective cohort study from the UK biobank.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761879/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Early inflammatory and nutritional marker recovery patterns and short-term outcomes in critically ill older adults: a 72-h landmark cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761541/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Preoperative and postoperative ultrasound guided intercostal nerve blockade on postoperative analgesia in patients undergoing video assisted thoracic surgery (VATS): a prospective randomized comparative study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761236/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Effect of ultrasound-guided small needle knife on patients with knee osteoarthritis: a randomized clinical trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761176/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Short-term postoperative neurocognitive safety and recovery profiles of remimazolam tosilate combined with flumazenil vs. propofol in cirrhotic patients undergoing endoscopic variceal treatment: a randomized controlled trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42761143/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
