@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-09-22
 
-## 🕐 125 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 165 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -38,6 +38,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Effective Palliative Care for Hospice Transitions** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853897
 - **On the Road, Again** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853896
 - **Institutional Fear of Falls—Causes, Consequences, and Cures** -- JAMA Internal Medicine, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853895
+- **Mapping the landscape of early childhood development services: a global scoping review** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122464?rss=1
+- **Top 10 priorities for midwifery practice and maternity care research in the UK: findings from the James Lind Alliance priority setting partnership** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122546?rss=1
+- **Determinants of traditional birth attendants service utilisation among women of reproductive age, Osun state, Nigeria: a cross-sectional study** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122843?rss=1
+- **Impact of two consecutive rounds of National Volume-Based Procurement (NVBP) for insulin on utilisation and structure: a quasi-experimental study using interrupted time series analysis in Hubei, China** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122985?rss=1
+- **Pattern of medication dispensations for attention-deficit/hyperactivity disorder in Manitoba children, adolescents and young: a population-wide retrospective study** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e123164?rss=1
+- **Physical activity prior to transient ischaemic attack and risk of subsequent cerebrovascular events: a Swedish register-based study** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e124056?rss=1
+- **SIRENA protocol: an Italian, prospective, multicentre cohort study of children and adults with islet autoimmunity and early-stage type 1 diabetes** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e124606?rss=1
+- **SKIN-BAR project: protocol for a prospective cohort study investigating skin barrier function and pressure injury development in critically ill adults** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e124660?rss=1
+- **Implementation of multisource feedback for competency assessment in medical students during clinical clerkship: a scoping review protocol** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125017?rss=1
+- **Diagnostic accuracy of growth hormone stimulation tests for growth hormone deficiency following radiotherapy involving the hypothalamic-pituitary axis: protocol for a systematic review and planned meta-analysis** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125247?rss=1
+- **Empowering youth with chronic conditions: enhancing sexual and reproductive health through evidence and engagement - protocol for a co-design approach** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125304?rss=1
+- **Treatment burden and adherence in adults receiving long-term anti-VEGF intravitreal injections for retinal disease: a qualitative evidence synthesis protocol** -- BMJ Open, 2026-09-21T05:57:18-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125908?rss=1
+- **Exploring the psychological impact and healthcare experiences of patients living with triple class refractory multiple myeloma: an interpretative phenomenological analysis study** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e108269?rss=1
+- **Defining the preadmission factors that modify risk of acute complications, survival and long-term recovery from COVID-19: prospective, longitudinal, multisite, cohort study based in England** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e109653?rss=1
+- **What are the demographic predictors and barriers to self-care engagement in the UK? a cross-sectional survey study** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e110380?rss=1
+- **Design and validation of a self-care self-efficacy scale among adolescents with cystic fibrosis in Iran: protocol for a sequential-exploratory mixed-methods study** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115134?rss=1
+- **Projecting the future spread of yellow fever vectors and implications for epidemic risk: a scoping review of climate change and human behaviour** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115595?rss=1
+- **Determinants of patient delay in seeking care for worsening heart failure symptoms in out-of-hospital settings: protocol for a systematic review and meta-analysis** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115816?rss=1
+- **Team USA Paralympic athletes experiences with sport participation: a socioecological qualitative study** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116073?rss=1
+- **Qualitative investigation evaluating Team USA Paralympic athletes: resources and recommendations for enhancing support systems** -- BMJ Open, 2026-09-21T05:57:17-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116076?rss=1
 - **An Axillary Mass in Pulmonary Embolism** -- JAMA Cardiology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854292
 - **Remote Detection of Cardiac Implantable Electrical Devices** -- JAMA Cardiology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854291
 - **Pooled Prasugrel Doses in a P2Y12 Network Meta-Analysis** -- JAMA Cardiology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854290
@@ -50,6 +70,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Sex-Specific Outcomes After Catheter Ablation for Atrial Fibrillation** -- JAMA Cardiology, Wed, 09 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2853941
 - **Arterial Inflammation and Checkpoint Inhibition** -- JAMA Cardiology, Wed, 09 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2853940
 - **Cardiovascular Outcomes Trials in Clonal Hematopoiesis of Indeterminate Potential** -- JAMA Cardiology, Wed, 09 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2853939
+- **New frontier in albumin replacement therapy** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1873?rss=1
+- **Partial cure of chronic hepatitis B: potential implications for HCC surveillance?** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1874?rss=1
+- **PEG is back: revisiting the role of pegylated interferon alfa and benchmarking its place in HBV cure strategies** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1876?rss=1
+- **Role of TL1A in perianal fistulising Crohns disease: a new therapeutic target?** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1878?rss=1
+- **When the vascular lining loosens, dysfunctional macrophages permit pathological bacterial translocation in cirrhosis** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1880?rss=1
+- **Parental obesity imprints offspring risk for MASLD: act now to protect future generations** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1881?rss=1
+- **Endoscopic injection of autologous fat tissue for the treatment of chronic gastrointestinal fistulas** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1883?rss=1
+- **Unusual case of diarrhoea** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1886?rss=1
+- **Rome V global epidemiology and validation survey: prevalence of disorders of gut-brain interaction and comparison with the Rome IV global epidemiology study** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1887?rss=1
+- **Multinational prevalence and burden of paediatric disorders of gut-brain interaction: results of the Rome Foundation paediatric global study** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1898?rss=1
+- **Kynurenic acid mitigates poststroke brain damage through the gut-brain neural circuit** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1910?rss=1
+- **TL1A-activated T cells remodel the rectal mucosa in patients with Crohns disease with perianal fistulising disease** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1922?rss=1
+- **Intestinal blood vessel-associated macrophages and gut-vascular barrier dysfunction in cirrhosis** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1934?rss=1
+- **SDC1+ CAFs secreting CTGF drive tumour metastasis via FGFR3 signalling in cancers** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1950?rss=1
+- **Acinetobacter baumannii promotes gastric cancer metastasis via NA-mediated NAD metabolism reprogramming and glycolytic activation** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1963?rss=1
+- **Trogocytosis-orchestrated CLDN18.2-"dressed" CD8+ T cells drive pancreatic cancer progression via glucose metabolic reprogramming-induced cytotoxicity debilitation and systematic immune senescence cascade** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/1983?rss=1
+- **HBsAg decline and clearance with peg-IFN therapy added to nucleos(t)ide analogues: an individual participant data meta-analysis of prospective trials (PROSPER)** -- Gut, 2026-09-07T00:45:44-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/2000?rss=1
+- **Colorectal cancer in metabolic dysfunction-associated steatotic liver disease: an international Delphi consensus statement** -- Gut, 2026-09-07T00:45:45-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/2009?rss=1
+- **Parental obesity and risk of metabolic dysfunction associated steatotic liver disease in adult offspring: UK birth cohort study** -- Gut, 2026-09-07T00:45:45-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/2019?rss=1
+- **Characterisation of plasmablast-derived HBsAg-specific antibody and its structural basis for binding to native HBsAg dimer** -- Gut, 2026-09-07T00:45:45-07:00 -- http://gut.bmj.com/cgi/content/short/75/10/2028?rss=1
 - **Hyperpigmented Plaques at Insulin Injection Sites** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853817
 - **HRAS  Hot-Spot Somatic Variations in Eruptive Disseminated Spitz Nevi** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853816
 - **Perifollicular Repigmentation After Hair Transplant in Stable Discoid Lupus Erythematosus** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853815
@@ -224,245 +264,209 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-27 new RCT-type article(s) found.
+23 new RCT-type article(s) found.
 
-## Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766312/  
+## Hypertonic saline and high-dose furosemide in very elderly patients hospitalized for acute heart failure: A real-world cohort study.
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767926/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Antidiscrimination Laws and Kidney Transplant for Patients With Developmental Disabilities.
-**Journal:** JAMA Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766295/  
+## Central embolic localization in acute pulmonary embolism: Prognostic marker or target for intervention?
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767924/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Steatotic Liver Disease Risk Scores to Predict Cirrhosis and Hepatocellular Carcinoma.
-**Journal:** JAMA Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766290/  
+## Patient characteristics, treatment patterns and clinical outcomes of immunoglobulin a nephropathy (IgAN) in China: a retrospective cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767758/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Serum Cystatin 4 combined with routine clinical laboratory indicators: A support vector machine diagnostic model for early screening of gastrointestinal tumors.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766641/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Low contrast visual acuity in healthy adults: Impact on non-pathologic myopia.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766626/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Evaluating the effects of inhibitory control training as a universal prevention strategy for internalizing complaints in middle childhood.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766618/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Fear of childbirth among antenatal care attendees in a primary care setting in Kumasi, Ghana: Prevalence and parity-stratified determinants.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766602/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Health-related quality of life with adjuvant immune checkpoint inhibition in renal cell carcinoma: A qualitative study of UK participants in the phase III RAMPART trial.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766600/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Development and validation of a nomogram predicting pathologic complete response to neoadjuvant chemotherapy in luminal type breast cancer patients using MammaPrint® and clinicopathological factor.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766588/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Exploring sex-specific symptom trajectories in psychosis following metacognitive training (MCT): Evidence from a large-scale retrospective harmonized database.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766584/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Habitat suitability assessment of mouflon applying a comparative approach on expert-based and species distribution models.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766581/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Perceptions, social representations, and experiences of suspected Lyme borreliosis among adolescents and their parents in France: A multicenter study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766572/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Efficacy, safety, and feasibility of youth-derived fecal microbiota transplantation among adults with type 1 diabetes mellitus: A protocol of Pilot Randomized Controlled Trial.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766561/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Quantitative [13N]ammonia/[18F]FDG PET/CT predicts left ventricular functional recovery after CABG in ischemic cardiomyopathy: An exploratory study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766555/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparative oligo-FISH validates genome assemblies and delivers a precise karyotype for Lens Mill. species.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766554/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Impact of multi-professional medication reviews (MPMRs) on medication prescriptions in psychiatry.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766546/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Clinical and neuroimaging features, and associations with early post-stroke cognition in patients with intracerebral hemorrhage in Taiwan.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766542/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Can artificial intelligence read our handwriting? A comparison of humans and artificial intelligence in the future of assessment.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766536/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Intracranial haemorrhage following tenecteplase fibrinolysis for acute myocardial infarction.
-**Journal:** European Heart Journal  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766418/  
+## Effect of intranasal insulin pretreatment on postoperative delirium in patients undergoing knee arthroplasty in high-altitude areas: a single-centre, prospective, double-blind, randomised controlled clinical trial study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767757/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Letter by Dai et al Regarding Article, "Coramitug, a Humanized Monoclonal Antibody for the Treatment of Transthyretin Amyloid Cardiomyopathy: A Phase 2, Randomized, Multicenter, Double-Blind, Placebo-Controlled Trial".
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766689/  
+## Cohort profile: the SEROCoV-KIDS population-based cohort study and biobank on the impact of the COVID-19 pandemic in children and adolescents in Geneva, Switzerland.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767754/  
 **Published:** Sep 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Comparison of 3 Dual Single-Pill Combinations for Blood Pressure Lowering: A Secondary Analysis of an International Randomized Trial.
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766688/  
+## SIRENA protocol: an Italian, prospective, multicentre cohort study of children and adults with islet autoimmunity and early-stage type 1 diabetes.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767751/  
 **Published:** Sep 2026
 
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
+_PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Response by Oldgren and Wallentin to Letter Regarding Article, "Biomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study".
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766685/  
+## Mapping the landscape of early childhood development services: a global scoping review.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767749/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Defining the preadmission factors that modify risk of acute complications, survival and long-term recovery from COVID-19: prospective, longitudinal, multisite, cohort study based in England.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767748/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Modified single-stapled anastomosis in laparoscopic or robotic low anterior resection for rectal cancer: protocol for a multicentre randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767745/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## SKIN-BAR project: protocol for a prospective cohort study investigating skin barrier function and pressure injury development in critically ill adults.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767743/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The 'UPIC' cohort: a nationwide prospective study of mental health among adolescents and young adults in Sweden - a study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767737/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Depression symptoms, resilience and perceived disease uncertainty in Chinese glaucoma patients: a cross-lagged panel tracking study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767734/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Determinants of patient delay in seeking care for worsening heart failure symptoms in out-of-hospital settings: protocol for a systematic review and meta-analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767733/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Positive predictive value of mpox diagnoses in French emergency departments: a retrospective validation study using the OSCOUR network.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767732/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Co-administration of calcium and multiple micronutrient supplements for maternal and newborn haemoglobin and iron status: protocol for a randomised non-inferiority trial in Burkina Faso and Pakistan.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767731/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Changes in vaping-related knowledge following the delivery of an educational intervention to university students in Mexico: a prospective follow-up study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767729/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Effect of periprocedural antithrombotic medication on functional outcome and symptomatic intracranial hemorrhage in patients with carotid tandem lesions.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767728/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Experiences of using portable oxygen concentrators delivering oxygen or air among people with fibrotic interstitial lung disease in Australia: a qualitative study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767727/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Physical activity prior to transient ischaemic attack and risk of subsequent cerebrovascular events: a Swedish register-based study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767726/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Pattern of medication dispensations for attention-deficit/hyperactivity disorder in Manitoba children, adolescents and young: a population-wide retrospective study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767722/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Regarding "Cardiovascular Outcomes Following Major Gastrointestinal Bleeding in Patients With Pre-Existing Cardiovascular Disease: The INTERBLEED International Prospective Cohort Study".
+**Journal:** Gastroenterology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767284/  
 **Published:** Sep 2026
 
 _PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
 
 ---
 
-## Response by Maurer and Fontana to Letter Regarding Article, "Coramitug, a Humanized Monoclonal Antibody for the Treatment of Transthyretin Amyloid Cardiomyopathy: A Phase 2, Randomized, Multicenter, Double-Blind, Placebo-Controlled Trial".
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766682/  
-**Published:** Sep 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## Letter by Zhao et al Regarding Article, "Biomarker-Based ABC-AF Risk Scores for Personalized Treatment to Reduce Stroke or Death in Atrial Fibrillation: A Registry-Based, Multicenter, Randomized, Controlled Study".
-**Journal:** Circulation  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766680/  
-**Published:** Sep 2026
-
-_PICO draft failed: Abstract too short or missing -- cannot draft PICO reliably._
-
----
-
-## A Harmonized Visual Reading Framework for Tau PET Staging in Alzheimer Disease.
-**Journal:** JAMA Neurology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766299/  
+## Hospitalisation in cirrhosis is linked to distinct gut microbiome structural and functional profiles: a multinational metagenomic study.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767827/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Portable Low-Field MRI of the Brain in Clinic and Community Settings.
-**Journal:** JAMA Neurology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766285/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Congenital TORCH Infections and Neurodevelopmental Outcomes.
-**Journal:** JAMA Pediatrics  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42766296/  
+## Prior endoscopic surveillance and diagnosis of Barrett-related dysplasia and cancer: evidence from a nationwide Dutch cohort.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42767826/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
