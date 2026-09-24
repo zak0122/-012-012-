@@ -1,9 +1,19 @@
 # Journal Watch Report -- 2026-09-24
 
-## 🕐 138 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 146 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
+- **Research Letters at  JAMA** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854582
+- **On Becoming a Gold Standard Scientist** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854581
+- **Errors in Results, Figure 3, and Supplement 1** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854480
+- **The Physician of The Future** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854479
+- **Polypharmacy and Drug-Drug Interactions Among Older Adults** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854478
+- **Cost-Effectiveness of Fecal Immunochemical Testing** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854477
+- **Cost-Effectiveness of Fecal Immunochemical Testing—Reply** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854476
+- **How ARPA-H Is Rethinking Innovation in Health Care** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854475
+- **Patient Information: Hodgkin Lymphoma** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854474
+- **Months, Not Years** -- JAMA, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854473
 - **Medicolegal Evaluations for Asylum Seekers** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854454
 - **Prediction Utility of Urinary Albumin-Creatinine vs Protein-Creatinine Ratios in Chronic Kidney Disease** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854453
 - **Lifestyle Modification and Incretin Therapy for Individuals With Obesity** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854452
@@ -14,11 +24,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Fixed Pupils: Neurologic Finality vs Poetic Repair** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854447
 - **Rural Emergency Hospitals** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854446
 - **Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion Research Summary** -- JAMA, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854445
-- **Hearing Aids for Mild to Moderate Hearing Loss in Adults** -- JAMA, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854266
-- **Hearing Aids for Mild to Moderate Hearing Loss in Adults—Reply** -- JAMA, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854265
-- **Medicare Advantage Enrollment and Access to Kidney Transplant After the 21st Century Cures Act** -- JAMA, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854264
-- **Protecting Patients From Politicization of Federal Science** -- JAMA, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854263
-- **Review of Vaccines for Cancer** -- JAMA, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854262
 - **Medicaid enrollees challenge rule threatening coverage for people with serious health conditions** -- Annals of Internal Medicine, Mon, 21 Sep 2026 09:31:36 -0400 -- https://www.acponline.org/acp-newsroom/medicaid-enrollees-challenge-rule-threatening-coverage-for-people-with-serious-health-conditions
 - **ACP: New appointees to U.S. Preventive Services Task Force must operate in an evidence-based manner free from political interference** -- Annals of Internal Medicine, Fri, 18 Sep 2026 15:06:59 -0400 -- https://www.acponline.org/acp-newsroom/acp-new-appointees-to-us-preventive-services-task-force-must-operate-in-an-evidence-based-manner
 - **Proposed OMB changes to federal research grant process delayed** -- Annals of Internal Medicine, Fri, 18 Sep 2026 11:32:45 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/proposed-omb-changes-to-federal-research-grant-process-delayed
@@ -63,6 +68,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **HRAS  Hot-Spot Somatic Variations in Eruptive Disseminated Spitz Nevi** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853816
 - **Perifollicular Repigmentation After Hair Transplant in Stable Discoid Lupus Erythematosus** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853815
 - **Long-Term Effectiveness, Safety, and Survival of Dupilumab in Pediatric Atopic Dermatitis** -- JAMA Dermatology, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamadermatology/fullarticle/2853814
+- **Overseeing Agentic AI in Medicine From First Principles** -- JAMA Health Forum, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2854664
 - **Out-of-Pocket Payments Among Medicare Beneficiaries Who Reached the IRA Part D Spending Cap** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853929
 - **Cost-Effectiveness of Community-Based Rehabilitation for People With Schizophrenia** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853928
 - **Access to Broadband, Ambulance Services, and Health Care and Implications for Telehealth** -- JAMA Health Forum, Fri, 18 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama-health-forum/fullarticle/2853927
@@ -91,6 +97,10 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **IVIG in Idiopathic Inflammatory Myopathies** -- JAMA Neurology, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854117
 - **Clinical Characteristics, Neuroimaging Findings, and Mortality in Korsakoff Syndrome** -- JAMA Neurology, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854116
 - **Administrative Bloat in Neurology and Academic Medicine** -- JAMA Neurology, Mon, 14 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaneurology/fullarticle/2854115
+- **Patient Reported Outcomes and Financial Toxicity in Head and Neck Cancer** -- JAMA Oncology, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854533
+- **Disparities in Cancer Incidence by Sex and Associated Lifestyle Factors and Health Conditions** -- JAMA Oncology, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854532
+- **Chemotherapy and Surgical Outcomes for Ovarian Metastases From Colorectal Cancer** -- JAMA Oncology, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854531
+- **A Call for Physician Condolence Letters** -- JAMA Oncology, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854530
 - **Is Antigen-Specific Immunotherapy a New Frontier in HPV-Initiated Head and Neck Cancer?** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854309
 - **Trends in Prebiopsy MRI Utilization for Prostate Cancer Detection** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854308
 - **Symptom Trajectories and Use of Medical Assistance in Dying Among Adolescent and Young Adults With Cancer** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854307
@@ -98,17 +108,15 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **PDS0101 With Pembrolizumab in HPV16-Positive Recurrent/Metastatic Head and Neck Squamous Cell Carcinoma** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854305
 - **Immunotherapy in Head and Neck Squamous Cell Carcinoma With PD-L1 Combined Positive Score of Less Than 1** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854304
 - **Melding Structured Care With Improvisation—Jazz in Medicine** -- JAMA Oncology, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2854303
-- **Pembrolizumab Plus Chemotherapy for Cervical Cancer** -- JAMA Oncology, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2853978
-- **Cancer Didn’t Teach Me Much** -- JAMA Oncology, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2853977
-- **Management of Soft Tissue and Visceral Leiomyosarcomas** -- JAMA Oncology, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2853976
-- **Modernizing Surrogate Decision-Making to Reflect the Complexity of Cancer Care** -- JAMA Oncology, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaoncology/fullarticle/2853975
+- **Odynophagia With a Glottic Mass and Diffuse Lymphadenopathy** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854171
+- **Low Arousal Threshold and Long-Term Adherence to Hypoglossal Nerve Stimulation** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854170
+- **Application of a Pediatric Tracheostomy-Specific Risk Tier System Using Administrative Data** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854169
+- **Null Findings in the Era of Large Administrative Databases** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 24 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2854168
 - **Error in First Authorship** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853813
 - **Three Pillars of Effective Scientific Communication** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853812
 - **Suzetrigine in Head and Neck Surgery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853811
 - **Suzetrigine for Postoperative Pain in Head and Neck Free Flap and Transoral Robotic Surgery** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853810
 - **Newborn Hearing Screening in the Otoferlin Gene Therapy Era** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 17 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853809
-- **High Pesticide Exposure Events and Self-Reported and Measured Olfactory Dysfunction** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853534
-- **Prognostic Value of Electrodiagnostic Results Beyond House-Brackmann Grade in Bell Palsy** -- JAMA Otolaryngology-Head & Neck Surgery, Thu, 10 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2853533
 - **TORCH Infections in Pregnancy and ASDs** -- JAMA Pediatrics, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853870
 - **The Need for Vitamin K Among US Newborns** -- JAMA Pediatrics, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853869
 - **The Need for Vitamin K Among US Newborns—Reply** -- JAMA Pediatrics, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamapediatrics/fullarticle/2853868
@@ -233,12 +241,66 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-1 new RCT-type article(s) found.
+7 new RCT-type article(s) found.
 
-## Atrial fibrillation and atrial flutter in China: trends and projections to 2050 from GBD 2023.
-**Journal:** Internal and Emergency Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42778865/  
-**Published:** Sep 2026
+## Early Mobilization Within 48 Hours as a Determinant of Functional Independence After Hip Fracture Surgery: Evidence From a Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780002/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Transvaginal in-bag directional morcellation with endometrial preservation for large uteri: an initial clinical feasibility study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780298/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association of paternal age with embryological outcomes and β-hCG positivity in women with polycystic ovary syndrome undergoing ICSI: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780268/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Case Report: Autologous bone marrow mononuclear cell transplantation improved motor function in a patient with amyotrophic lateral sclerosis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780196/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Routine laboratory composite indices and geriatric multisyndrome burden: a head to head evaluation against serum albumin.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780077/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Development and internal validation of an artificial intelligence-driven precision rehabilitation model for ischemic stroke: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780033/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The prognostic value of combining MNA-SF nutritional status and probable sarcopenia for 90-day readmission in elderly inpatients with multimorbidity.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42780006/  
+**Published:** 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
