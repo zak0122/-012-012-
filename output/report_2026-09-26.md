@@ -280,210 +280,138 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-23 new RCT-type article(s) found.
+15 new RCT-type article(s) found.
 
-## Gender as a moderator of the association between academic self-efficacy and academic performance among nursing students in Saudi Arabia.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789609/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Responding to the increase in substance use, HIV, HCV, and overdose in New England (RISE-NE): Protocol for a prospective cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789600/  
-**Published:** 2026
+## Radiotherapy versus observation following surgical resection of WHO grade 2 atypical meningioma (ROAM/EORTC-1308): an international, multicentre, open-label, phase 3, randomised controlled trial.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790456/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## The spectrum of copy number variation in the Pan-Canadian HostSeq databank.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789588/  
-**Published:** 2026
+## Study on blueberries, protein and exercise for improving frailty and cardiovascular disease (STRONG): protocol for a parallel-group randomised controlled superiority trial in older Nova Scotians.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790922/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789586/  
-**Published:** 2026
+## Longitudinal evaluation of minimally invasive protocols for the prevention and control of dental caries in Brazilian schoolchildren: a multicentre study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790920/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Integrative computational analysis of public fecal lipidomics and transcriptomics datasets suggests a candidate association between the COX-2 pathway and CE(20:4) in colorectal adenoma-carcinoma progression.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789583/  
-**Published:** 2026
+## Safety of laparoscopic surgery without No.253 lymph node dissection for mid and low rectal cancer (SMOOTH): study protocol for a phase III, multicentre randomised controlled trial in China.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790919/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Age at dementia diagnosis, subtype associations, and neuroimaging differentiation in Bangladesh: The CARED study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789572/  
-**Published:** 2026
+## Multicentre randomised controlled trial evaluating PARO for pain and anxiety during peripheral intravenous cannulation in children in French paediatric emergency departments and paediatric units: study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790916/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Respiratory viral and bacterial co-infections in adults in acute care: A multiplex PCR-based study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789570/  
-**Published:** 2026
+## Within-person variability and the minimal important difference of the EQ-VAS in adults with post-COVID-19 condition: a secondary analysis of data from a single-centre randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790915/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Effects of exercise interventions on gait, motor function, and balance in patients with Parkinson's disease: A meta-analysis with clinical implications.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789569/  
-**Published:** 2026
+## Can we do better in identifying child developmental conditions early? Sensitivity and specificity of the Watch Me Grow Integrated (WMG-I) digital developmental screening and surveillance tool in Australia.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790914/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## The role of insulin resistance in the development of hepatocellular carcinoma with computational analysis of IRS-1 interaction with HCV genotype 3 core protein.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789558/  
-**Published:** 2026
+## Interventions for improving the health and socio-economic well-being of young parents: a scoping review of studies in Africa.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790913/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Comparison of research outputs and clinical competence between orthopedic surgeons from two training pathways: A single-center study at a Chinese tertiary general hospital.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789553/  
-**Published:** 2026
+## Prospective Study of Non-Autoimmune Insulin-Deficient Diabetes Subtype in Young Individuals in sub-Saharan Africa (PANDA study): study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790912/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Integrative transcriptomics and reverse network pharmacology prioritize DPP4 and Achyranthes bidentata in Barrett's esophagus.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789549/  
-**Published:** 2026
+## Impact of perinatal anxiety on healthcare utilisation: a matched cohort study using electronic health records in the UK.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790911/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Characteristics and outcomes of ICU patients with bacterial catheter-associated urinary tract infection.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789543/  
-**Published:** 2026
+## Surgical safety of preoperative or perioperative immune checkpoint inhibitors in colorectal cancer surgery: protocol for a systematic review and meta-analysis focusing on anastomotic leakage.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790910/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## ACTIVATE: A protocol for a randomised controlled evaluation of Thumos: A cognitive-behavioural intervention for medical students.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789541/  
-**Published:** 2026
+## Effect of transcutaneous auricular vagus nerve stimulation on postoperative sleep quality in older patients undergoing laparoscopic cholecystectomy: protocol for a prospective, randomised, double-blind, controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790908/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Comparative evolutionary pharmacogenomics of human prostaglandin-endoperoxide synthase paralogs identifies population-structured coding variation and protein-contextual candidates in N-terminal leader-sequence and catalytic-channel regions.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789539/  
-**Published:** 2026
+## Trends, patterns and outcomes in hospitalisations for Alzheimer's disease: a 14-year retrospective analysis in Southwest China (2011-2024).
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790907/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Asthma Intervention with Residential Ventilation and Air Cleaner (AIRVAC) Study: A 4-arm parallel-group randomized controlled trial protocol.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789537/  
-**Published:** 2026
+## Adaptation and evaluation of a food preference assessment tool for older adults in geriatric care: the DYSPHAGING Preferences study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790906/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Integrative transcriptomic analysis of peripheral blood identifies NETosis-associated programs and a stratified adaptive immune suppression pattern in severe acute pancreatitis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789536/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Loneliness and all-cause mortality in the United States.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789527/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## The readability and quality paradox: Comparing ChatGPT, Gemini, and Perplexity outputs on pediatric chest pain queries.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789520/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Vulnerable road user fatalities are associated with greater trauma: Long-term autopsy-based trends in Czechia (1969-2024).
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789519/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Surface micro-patterned drug-coated balloon enhances early biological efficacy in a porcine coronary in-stent restenosis model.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789518/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Levels of IgG subclasses 1-4 in BT595, a 10% IVIG: A sub-analysis of a clinical trial.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789513/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Distribution of industry-sponsored research payments to US physician principal investigators.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789511/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Comparative transcriptomics reveals stage-specific regulatory pathways of ear thickening in Auricularia polytricha.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42789504/  
-**Published:** 2026
+## Development of MASLD among survivors of breast or colorectal cancer (EVALUATE): protocol for a single-centre observational cross-sectional study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42790904/  
+**Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
