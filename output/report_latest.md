@@ -190,4 +190,426 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Notice of Retraction and Replacement. Gross et al. Selective vs Routine Cholangiography Across a Health Care Enterprise.  JAMA Surg . 2025;160(2):145-152** -- JAMA Surgery, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854294
 - **Comprehensive Review of Pigtail Catheter Management** -- JAMA Surgery, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854293
 
-No new RCT-type articles found today.
+
+## ⚠ 91 new systematic review/meta-analysis published in your journals
+
+_Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
+
+- **QTc changes and early major adverse cardiovascular events associated with antidepressant treatment for major depressive disorder in adults: individual participant data network meta-regression of double blind randomised trials.** -- BMJ, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778211/
+- **Effect of exercise on bone health in middle aged and older adults: hierarchical network meta-analysis of randomised trials.** -- BMJ, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716561/
+- **The Association Between Visual Impairment and Delirium: A Systematic Review and Meta-Analysis.** -- Journal of General Internal Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760461/
+- **Systematic review and meta-analysis of biomarkers of sarcopenia and sarcopenic obesity.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798093/
+- **Comparative efficacy of various non-pharmacological therapies on cognitive function in patients with mild cognitive impairment or dementia: A network meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798077/
+- **Network meta-analysis of intrathyroidal injection of combined dexamethasone with lidocaine for subacute thyroiditis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798061/
+- **Comparison of bivalirudin versus heparin in percutaneous coronary intervention for patients with acute coronary syndrome: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798052/
+- **A network meta-analysis of intensive nursing interventions for delirium in ICU patients.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798043/
+- **The NF-κB pathway in inflammatory responses in preeclampsia: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760699/
+- **Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760652/
+- **Correlation between MMP-3-1171 5A/6A polymorphism and the risk of Alzheimer's disease: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42742624/
+- **Incidence and risk factors for lower-extremity deep vein thrombosis in postoperative patients with spontaneous intracerebral hemorrhage: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736741/
+- **Experiences and perceptions of lay bystanders responding to out-of-hospital cardiac arrest: A qualitative systematic review.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700090/
+- **Potent bisphosphonate therapy for preventing fractures after denosumab discontinuation in osteoporosis: A GRADE-assessed systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700089/
+- **A systematic review and network meta-analysis of single nucleotide polymorphisms associated with oral submucous fibrosis risk.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700036/
+- **Efficacy and safety of laparoscopic-guided transversus abdominis plane block versus port-site local anesthetic infiltration in laparoscopic cholecystectomy: A systematic review, meta-analysis, and trial sequential analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700030/
+- **Association between vitamin D deficiency and chronic kidney disease progression: A GRADE-based dose-response systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700010/
+- **Combined effects of strength training, whey protein, and HMB on sarcopenia in older people: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42700006/
+- **Nonlinear dose-response of mind-body exercise in older adults with mild cognitive impairment: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789586/
+- **Effects of exercise interventions on gait, motor function, and balance in patients with Parkinson's disease: A meta-analysis with clinical implications.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42789569/
+- **Performance of machine learning-based prediction models for hypoglycemia in Chinese patients with diabetes: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42771639/
+- **The effect of re-warm up and its moderators on performance enhancement and rating of perceived exertion in team-sport athletes: A systematic review and three-level meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42758700/
+- **Using the Social Ecological Model to identify barriers to accessing and using primary healthcare services by the rural Bangladeshi elderly: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42758685/
+- **Deterministic and stochastic interventions in reducing drug-drug interactions in inappropriate prescribing: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42752658/
+- **Mathematical skills in deaf and hard-of-hearing children: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748195/
+- **Parenthood and care in academia: Publication counts, self-assessed productivity, and gendered differences.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748093/
+- **Comprehensive application of artificial intelligence in preserved ratio impaired spirometry: A systematic literature review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748063/
+- **The effect of antiretroviral therapy adherence on viral load suppression rate among people living with HIV in Ethiopia: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42743184/
+- **Optimization strategies for care‑giving behaviors of family caregivers for patients with enterostomy: An evidence summary.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42721125/
+- **Individual differences in emotional reactivity: A multidimensional systematic review across the big five.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42715225/
+- **Application of musculoskeletal ultrasound in postoperative rehabilitation assessment and monitoring after rotator cuff repair: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42709705/
+- **Comparison of vonoprazan and proton pump inhibitors for the management of gastric post-endoscopic submucosal dissection ulcers and preventing delayed bleeding: a meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798450/
+- **Integrated TCM and Western medicine rehabilitation program after breast cancer surgery: a best evidence summary.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798445/
+- **Safety and efficacy of microbiota-directed adjunctive therapy in acute pancreatitis: a systematic review and meta-analysis of prebiotics, probiotics, and synbiotics.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798434/
+- **Advances in rapid ADAMTS13 testing for thrombotic thrombocytopenic purpura: a systematic review of diagnostic assays and the role of clinical probability tools.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42787177/
+- **Prediction models for infection after kidney transplantation: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42787048/
+- **Race and trial region changes in cancer clinical trials between 2013 and 2024.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780995/
+- **High-flow nasal cannula versus noninvasive ventilation in acute heart failure-related respiratory failure: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780937/
+- **Abdominal aortic calcification index and prognosis in patients with chronic kidney disease: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780568/
+- **Can acupuncture improve cardiac function in patients after percutaneous coronary intervention? A systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780566/
+- **Gut microbiota composition in responders vs. non-responders with hepatocellular carcinoma under ICI therapy: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780431/
+- **Summary of best evidence for non-pharmacological management of sleep disturbances in patients with mild cognitive impairment or early dementia: an integrative review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780409/
+- **Systematic review and meta-analysis of the effectiveness of rehabilitation interventions on upper limb function in patients with systemic sclerosis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42780375/
+- **The effect of virtual reality on anxiety and pain in patients undergoing totally implantable venous access port: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774356/
+- **Prediction models for post-induction hypotension in patients undergoing general anesthesia: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774354/
+- **Association between sleep-disordered breathing and liver outcomes in steatotic liver disease: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42774085/
+- **Obstructive sleep apnoea and glucose dysregulation in type 2 diabetes: a systematic review of the literature.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42769672/
+- **Interventions for stress, burnout, and resilience in dental and oral health students: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42769077/
+- **Adjunctive traditional Chinese medicine for ischemic stroke: a systematic review with structured narrative synthesis and GRADE assessment of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42761006/
+- **Out-of-pocket expenditure on medicine for chronic patients and its economic impact on Indian households: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760948/
+- **Strengthening the pipeline of Aboriginal and Torres Strait Islander doctors into and through general practice training in Queensland, Australia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42757250/
+- **PD-1/PD-L1 inhibitors combined with chemotherapy as first-line treatment for advanced biliary tract cancer: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755819/
+- **Current landscape and research gaps in artificial intelligence for ophthalmic nursing: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755614/
+- **Global trends and thematic clusters in healthcare professional education, medical errors, and patient safety: a bibliometric analysis, 2000-2026.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755527/
+- **Artificial intelligence in personalized computed tomography dose optimization: a systematic review of techniques and clinical outcomes.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42755520/
+- **Effects of Wuqinxi on blood pressure and lipids in hypertensive middle-aged and elderly adults: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42745893/
+- **Assessment tools for patients with stroke-related sarcopenia: a scoping review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42741000/
+- **Comparative efficacy of digital health interventions and traditional mind-body exercises for pulmonary rehabilitation in chronic obstructive pulmonary disease: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42730238/
+- **Comparative efficacy of different durations and dosages of vonoprazan and amoxicillin dual therapy: a network meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729761/
+- **Communication and medical errors: a bibliometric analysis of research trends and knowledge structures.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729275/
+- **Evidence integration and bridging methodologies for high-risk and innovative medical devices and ** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729205/
+- **The application of artificial intelligence in systemic lupus erythematosus: a bibliometric analysis of current trends and future directions.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42729127/
+- **Endovenous laser ablation versus radiofrequency ablation in chronic venous insufficiency: a comparative meta-analysis of efficacy and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42723968/
+- **Summary of the best evidence for stress ulcer prophylaxis in critically ill patients.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42723934/
+- **Efficacy evaluation of acupuncture combined with manipulation for lateral epicondylitis: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42723768/
+- **The proteomic architecture of clonal hematopoiesis: a systematic review of niche remodeling and multi-compartment predictors of malignant transformation.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42723723/
+- **External validity limitations of randomized trials cited in adult critical care clinical practice guidelines: a systematic review of guidelines published from 2015 to 2020.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42719835/
+- **Clinical outcomes of early vs. late extubation following cardiac surgery: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42719102/
+- **Efficacy of desmopressin in reducing post-procedural bleeding among chronic kidney disease patients: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42719070/
+- **Artificial intelligence in rheumatoid arthritis: current applications and future perspectives.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42718793/
+- **Acupuncture-related therapies for opioid-induced constipation in patients with cancer: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42718746/
+- **Explainable artificial intelligence in medical ultrasound: a WoSCC-based bibliometric analysis, evidence map, and Scopus concordance assessment.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42718624/
+- **Comparative effectiveness and dose-response relationship of exercise-based interventions for muscle mass in older women with sarcopenia: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42712944/
+- **Prognostic effect of the preoperative albumin-to-globulin ratio bladder cancer: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42712354/
+- **Comparative efficacy and safety of transarterial treatment strategies for hepatocellular carcinoma: a systematic review and network meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42707597/
+- **Pulsed and cooled radiofrequency for chronic shoulder pain: a systematic review of comparative and cohort studies.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42699101/
+- **Comparison of artificial intelligence assisted training and traditional learning paths in clinical simulation skills training: meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42698550/
+- **Development of AI competencies within the medical curriculum.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42698520/
+- **Balanced crystalloid versus saline for resuscitation in adult sepsis: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42698512/
+- **Insights into the relationship between menopausal timing and risk of cardiovascular disease: a systematic review and meta-analysis of Mendelian randomization analyses.** -- Systematic Reviews, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736567/
+- **Alzheimer's disease and related dementias in South and Southeast Asia: a systematic review and meta-analysis of epidemiology and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778253/
+- **Management of immune-related cutaneous adverse events associated with immune checkpoint inhibitors in patients with cancer: an evidence summary.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778248/
+- **Patient experiences with digital health interventions in self-management of rheumatic and musculoskeletal diseases: a systematic review and qualitative meta-synthesis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778233/
+- **Left atrial strain assessment in mitral regurgitation: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772885/
+- **Where do delays occur? A systematic review of the barriers to early breast cancer diagnosis across South Africa's health system.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772875/
+- **Systematic review of cost-effectiveness analyses of weight loss interventions for knee osteoarthritis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42772870/
+- **Effectiveness and safety of electroacupuncture combined with conventional therapy for peripheral facial palsy: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760088/
+- **Association of fragmented QRS complex with mortality and clinical outcomes in patients with pulmonary embolism: an updated meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760070/
+- **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
+- **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
+- **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
+
+
+36 new RCT-type article(s) found.
+
+## DEED-FRAIL trial: A cluster-randomized trial of a frailty-oriented multicomponent ED discharge intervention for older adults with geriatric vulnerability and acute heart failure.
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42800747/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Optimizing isolated limb perfusion in malignant melanoma and sarcoma: Key factors influencing postoperative outcomes and complications.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798135/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Outcome of navigated laser photocoagulation for persistent macular edema in branch retinal vein occlusion: A retrospective observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798133/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Trajectories of covarying depression and multiple physical health problems in middle-aged and older adults based on GBMTM: Longitudinal evidence from CHARLS.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798123/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Peripheral blood markers predict prognosis in patients with advanced non-small cell lung cancer receiving immunotherapy.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798121/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Physician readiness for artificial intelligence integration in clinical screening and diagnosis: Multicenter cross-sectional study in Jeddah, Saudi Arabia.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798112/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical characteristics of Chlamydia psittaci pneumonia diagnosed by next-generation sequencing: An observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798109/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cardiomyopathy-related mortality in the United States, 1999 to 2023: A national population-based observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798106/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Patterns of recorded sexual violence in Lithuania before and during the COVID-19 pandemic: A national registry-based repeated cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798097/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Risk factors associated with pleural effusion in pediatric patients with severe Mycoplasma pneumonia.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798090/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Comparative real-world safety profiles of selective β1-adrenergic receptor blockers: A multi-database pharmacovigilance disproportionality study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798089/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical characteristics of microbiologically inappropriate empiric antibiotics in emergency department patients with bacteremia: A descriptive study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798086/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association between controlling nutritional status score and left ventricular hypertrophy in adults: A single-center retrospective cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798082/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Risk factors for hemorrhagic transformation after tenecteplase therapy in acute ischemic stroke: A retrospective observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798076/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Mitral annular calcification severity and invasive hemodynamic confirmation of HFpEF: A prospective observational study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798068/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical and toxicological trends in mad honey research: A global bibliometric analysis of scientific evolution (1954-2025).
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798058/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prediction of axillary lymph node metastasis in breast cancer using preoperative CT Hounsfield units: A retrospective study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798050/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Serum asprosin levels in patients with rheumatoid arthritis: An exploratory cross-sectional study.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798042/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Post-marketing safety of ensifentrine in COPD: A retrospective pharmacovigilance study using disproportionality analysis of FAERS/AEMS reports.
+**Journal:** Medicine (Baltimore)  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798039/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Factors Associated With Missed Early Postpartum Blood Pressure Follow-Up and Subsequent Routine Postpartum Visit Attendance.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42801260/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Comparison of Coronally Advanced Flap and Semilunar Coronally Repositioned Flap for Root Coverage of Gingival Recession in Maxillary Anterior Teeth: A Clinical Comparative Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42801239/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Risk Analysis of Pancreatitis With Pancreatolithiasis in Relation to Dyslipidemia as a Cofactor.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42801229/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Cortical Bone Thickness and Success of Temporary Anchorage Devices in the Mandibular Buccal Shelf: A Retrospective Cone Beam Computed Tomography Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42801120/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and Safety of Platelet-Rich Plasma Versus Topical Minoxidil in Androgenetic Alopecia: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799286/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Early-Stage Predominance in Breast Cancer Diagnosis Among a Rural Population: Associations With Smoking Status in a 10-Year Registry-Based Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799245/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Evidence-Based Therapeutic Methods for Reflex Sympathetic Dystrophy: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799229/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Dentofacial Orthopaedics in Cleft Lip and Palate: A Comprehensive Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799223/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Longitudinal Trajectories of Platelet Indices Across Dengue Severity in Children: A Linear Mixed-Model Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799092/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Robotic vs. Laparoscopic Stapling in Robotic Total Mesorectal Excision: A Prospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798965/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical Comparison of Three Blood-Derived Eye Drop Formulations for Moderate-to-Severe Dry Eye Disease: A Prospective Comparative Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798933/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association Between the Triglyceride-Glucose Index and Incident Cardiovascular Disease in Non-diabetic Adults: A Prospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798837/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Serum Uric Acid Levels in the First Trimester of Pregnancy and the Development of Gestational Diabetes Mellitus: A Prospective Cohort Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798760/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## From clinical records to community care: using real-world evidence in Ayurveda.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42799039/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## A clinical study of Simotang oral liquid combined with Shenque acupoint application for abdominal distension after cesarean section.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798617/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Associated diagnostic spectrum and stratified characteristics of patients with eosinophilia: a retrospective study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42798560/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Key Findings on the Efficacy and Safety of Testosterone Therapy from Two Large Randomized Trials.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42800050/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
