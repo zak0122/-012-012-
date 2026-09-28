@@ -1,9 +1,29 @@
 # Journal Watch Report -- 2026-09-28
 
-## 🕐 185 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 205 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
+- **Etuvetidigene Autotemcel for the Treatment of Wiskott–Aldrich Syndrome** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2515005?af=R&rss=currentIssue
+- **Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2603527?af=R&rss=currentIssue
+- **Oveporexton for Narcolepsy Type 1 — Results from Two Phase 3 Trials** -- New England Journal of Medicine, 2026-09-09T12:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2601598?af=R&rss=currentIssue
+- **Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk** -- New England Journal of Medicine, 2026-08-28T09:15:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2607978?af=R&rss=currentIssue
+- **The Legacy of Orexin (Hypocretin) Research in Narcolepsy and Beyond** -- New England Journal of Medicine, 2026-09-09T12:02:21Z -- https://www.nejm.org/doi/full/10.1056/NEJMcibr2608811?af=R&rss=currentIssue
+- **Clinical Uses of Common Genetic Variants Associated with Common Diseases** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2413201?af=R&rss=currentIssue
+- **Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609821?af=R&rss=currentIssue
+- **More on Artificial Intelligence and Detection of Hirschsprung Disease** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610221?af=R&rss=currentIssue
+- **Oya Virus in a Patient with Severe Hepatitis, Enteritis, and Coagulopathy** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2602616?af=R&rss=currentIssue
+- **Cumulative Hematologic Morbidity and Outcomes in Shwachman–Diamond Syndrome** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2605001?af=R&rss=currentIssue
+- **Anito-cel for Multiple Myeloma** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2609181?af=R&rss=currentIssue
+- **Targeted Treatment for Narcolepsy Type 1** -- New England Journal of Medicine, 2026-09-09T12:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2607491?af=R&rss=currentIssue
+- **Anticoagulation for Atrial Fibrillation with a Single Risk Factor for Stroke** -- New England Journal of Medicine, 2026-08-28T09:16:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2610344?af=R&rss=currentIssue
+- **Congenital Amniotic Band Sequence** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607665?af=R&rss=currentIssue
+- **Cerebral Schistosomiasis** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2609443?af=R&rss=currentIssue
+- **Case 27-2026: A 4-Year-Old Boy with Fatigue, Imbalance, and Frequent Falls** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603181?af=R&rss=currentIssue
+- **Gaps and Borders** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2601340?af=R&rss=currentIssue
+- **The End of the War on Biomedical Science?** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2605442?af=R&rss=currentIssue
+- **A Cure Out of Most Patients’ Reach — Sickle Cell Disease in the Gene-Therapy Era** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609007?af=R&rss=currentIssue
+- **Declining Child Health in the United States — Addressing the Developmental Ecosystem** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609124?af=R&rss=currentIssue
 - **JAMA Editors' Summary Podcast September 25, 2026** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854701
 - **Lipoprotein(a)-Lowering Medication Agent to Reduce Cardiovascular Events** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854684
 - **FDA Approves Updated COVID-19 Vaccines for 2026-2027** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854683
@@ -277,4 +297,68 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
-No new RCT-type articles found today.
+
+7 new RCT-type article(s) found.
+
+## Long-Term Peri-Implant Outcomes of Smoother/Hybrid Versus Moderately Rough Titanium Implant Surfaces: An Updated Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802882/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Diarrhea as a Diagnostic Challenge in Pediatric Appendicitis: A Clinical Cohort and Nationwide Survey of 1,114 Physicians.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802872/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Embracing Large Language Models for Medical Applications, Part II: Building a Framework for Clinical Stewardship.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802855/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Impact of a Rapid Response Team in Oncological Settings and Associated Outcomes.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802845/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Pneumolacrimia: A Proposed Terminology and Classification System for Nasolacrimal Drainage System Aeration on Computed Tomography.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802792/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and Safety of Biologic Therapies Targeting Type 2 and Epithelial-Alarmin Pathways in Chronic Obstructive Pulmonary Disease: A Systematic Review and Network Meta-Analysis of Randomized Controlled Trials.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802784/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Median Pancreatectomy for Benign and Low-Grade Malignant Pancreatic Lesions: An 11-Year Single-Center Experience With Perioperative and Functional Outcomes.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42802755/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
