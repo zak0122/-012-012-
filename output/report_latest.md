@@ -1,6 +1,6 @@
 # Journal Watch Report -- 2026-09-29
 
-## 🕐 213 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 216 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
@@ -24,6 +24,18 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **The End of the War on Biomedical Science?** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2605442?af=R&rss=currentIssue
 - **A Cure Out of Most Patients’ Reach — Sickle Cell Disease in the Gene-Therapy Era** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609007?af=R&rss=currentIssue
 - **Declining Child Health in the United States — Addressing the Developmental Ecosystem** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609124?af=R&rss=currentIssue
+- **MD-Granting Medical Schools in the US, 2025-2026** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854662
+- **Graduate Medical Education, 2025-2026** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854661
+- **Errors in Confidence Intervals** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854660
+- **AI-Powered Clinical Decision Support Tools** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854659
+- **AI-Powered Clinical Decision Support Tools** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854658
+- **AI-Powered Clinical Decision Support Tools** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854657
+- **AI-Powered Clinical Decision Support Tools—Reply** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854656
+- **Health Care’s Identity Crisis—Is Medicine Still a Profession?** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854655
+- **Undergraduate and Graduate Medical Education in 2025-2026** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854654
+- **Blood Pressure Targets in Critically Ill Children** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854756
+- **Permissive Blood Pressure Targets in Pediatric Critical Care** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854755
+- **Permissive Blood Pressure Targets in Pediatric Critical Care Research Summary** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854754
 - **Understanding Patent Thickets** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854589
 - **Intra-Arterial Tenecteplase After Endovascular Thrombectomy for Acute Stroke** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854588
 - **Diagnostic Delays Associated With a Screening Trial of a Multicancer Early Detection Test** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854587
@@ -31,15 +43,6 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Will Women Physicians Face an AI Gap?** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854585
 - **Critically Ill Neonates and Secondary Genomic Findings** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854584
 - **Patents on Small-Molecule Drugs Approved by the FDA, 1990-2019** -- JAMA, Mon, 28 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854583
-- **JAMA Editors' Summary Podcast September 25, 2026** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854701
-- **Lipoprotein(a)-Lowering Medication Agent to Reduce Cardiovascular Events** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854684
-- **FDA Approves Updated COVID-19 Vaccines for 2026-2027** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854683
-- **GLP-1 Drugs Not the Most Effective Treatment for Obstructive Sleep Apnea** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854682
-- **Both High and Low Testosterone Tied to Higher Atrial Fibrillation Risk** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854681
-- **NFL Player Death Records May Underreport Neurodegenerative Disease** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854680
-- **New Guidance for Common Hair Loss Disorder** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854679
-- **Which Profession Has the Highest Risk of Radiation-Related Cancer Mortality?** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854678
-- **ACOG Strengthens Recommendation for Fallopian Tube Removal to Prevent Ovarian Cancer** -- JAMA, Fri, 25 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854677
 - **ACP continues to advocate for patient access to vaccinations** -- Annals of Internal Medicine, Fri, 25 Sep 2026 11:30:00 -0400 -- https://www.acponline.org/advocacy/acp-advocate/archive/september-18-2026/acp-continues-to-advocate-for-patient-access-to-vaccinations
 - **Medicaid enrollees challenge rule threatening coverage for people with serious health conditions** -- Annals of Internal Medicine, Mon, 21 Sep 2026 09:31:36 -0400 -- https://www.acponline.org/acp-newsroom/medicaid-enrollees-challenge-rule-threatening-coverage-for-people-with-serious-health-conditions
 - **ACP: New appointees to U.S. Preventive Services Task Force must operate in an evidence-based manner free from political interference** -- Annals of Internal Medicine, Fri, 18 Sep 2026 15:06:59 -0400 -- https://www.acponline.org/acp-newsroom/acp-new-appointees-to-us-preventive-services-task-force-must-operate-in-an-evidence-based-manner
@@ -64,26 +67,26 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Antidiscrimination Laws and Kidney Transplant for Patients With Developmental Disabilities** -- JAMA Internal Medicine, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854076
 - **Steatotic Liver Disease Risk Scores to Predict Cirrhosis and Hepatocellular Carcinoma** -- JAMA Internal Medicine, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854075
 - **Buprenorphine via Telehealth** -- JAMA Internal Medicine, Mon, 21 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2854074
-- **Primary prevention of maternal anaemia to prevent preterm delivery and other adverse outcomes (PANDA): a protocol for a double-blind placebo-controlled randomised trial of a daily iron supplement during pregnancy** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122579?rss=1
-- **Knowledge, attitude and practices regarding postsurgical gastroparesis syndrome among at-risk patients following abdominal surgery in a tertiary hospital in China: a cross-sectional study** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122808?rss=1
-- **Sarcopenia among chronic kidney disease patients attending a renal clinic in Northwest Ethiopia: a cross-sectional study of prevalence, risk factors and clinical implications** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e123421?rss=1
-- **Quantifying the health and financial burden of adverse childhood experiences in Wales, England and English regions in 2023: a pooled analysis of 10 population surveys** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e124416?rss=1
-- **Evaluation of diversity characteristics in a large mental healthcare data platform and their use in research publications: a cross-sectional review** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e124809?rss=1
-- **Efficacy of a needle-free blood collection device (PIVO Pro) for avoiding contaminated blood culture sets in Australian emergency departments: protocol for an adaptive group sequential randomised controlled trial** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125374?rss=1
-- **'Youre still the same person, but youre just seeing a bit less: a qualitative study of the impact of vision impairment on mental well-being in children and young people with inherited eye disease in England** -- BMJ Open, 2026-09-28T08:32:22-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e125977?rss=1
-- **Predictors of response to mepolizumab for severe asthma: a REDES study post hoc analysis** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e105671?rss=1
-- **Study protocol for a multi-arm, parallel group randomised controlled trial evaluating the isolated and combined effects of behavioural promotion and hardware provision on handwashing with soap in peri-urban Lusaka, Zambia** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e110563?rss=1
-- **National Health Service consultants experiences and views of performance pay in England: a qualitative interview study** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e111699?rss=1
-- **Development of a clinical prediction model using volatile organic compounds as breath biomarkers in squamous oesophageal neoplasms: ViSON, protocol for a multicentre case-control study in UK NHS hospitals** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e112493?rss=1
-- **Introduction of prenatal ultrasound services in rural Uganda and association with referral patterns and neonatal and maternal outcomes: a combined pre-post and retrospective analysis study** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e113146?rss=1
-- **trIAje project: protocol for a retrospective cohort study to optimise AI-assisted telephone triage of time-sensitive conditions in emergency medical services** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e113242?rss=1
-- **Developmental experiences of female patients diagnosed with Peutz-Jeghers syndrome in childhood: a qualitative study based on the social ecological model in China** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e114511?rss=1
-- **Use of symptom-reporting tools to support endometriosis identification and management in primary care: a realist synthesis** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e114764?rss=1
-- **"We were caught sleeping": formulation of national policy to decentralise management of drug-resistant tuberculosis in South Africa - a qualitative policy analysis study** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115476?rss=1
-- **Why did antidepressant deprescribing fail? A scoping review of contributing factors** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115482?rss=1
-- **Psoriatic arthritis digital phenotyping and inflammation drivers (PDPID) study: protocol for an international multicentre prospective cohort** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115903?rss=1
-- **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116709?rss=1
-- **SADIE: a longitudinal Survey on Anxiety, Depression, Internalising and Externalising symptoms in Italian university students - a study protocol** -- BMJ Open, 2026-09-28T08:32:21-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116883?rss=1
+- **Machine learning methods and schizophrenia spectrum disorders: a scoping review** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e112849?rss=1
+- **'You know they dont want you there: a qualitative study examining barriers and facilitators to physical activity among Traveller and Roma communities in Ireland** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115173?rss=1
+- **One-stage versus two-stage video-assisted thoracic surgery for synchronous bilateral pulmonary nodules: protocol for a prospective, multicentre, randomised controlled clinical trial in China (OTVATS-2)** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e115819?rss=1
+- **Psychosocial impact of Marburg virus disease on recovered individuals and frontline health workers in Rwanda: a cross-sectional survey** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116055?rss=1
+- **Prehospital trauma systems in low- and middle-income countries (LMICs): a qualitative systematic review protocol** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116075?rss=1
+- **Natural history study of type 1 diabetes risk in adults (T1DRA): protocol for screening and follow-up of UK adults** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116354?rss=1
+- **Impact of witnessed workplace violence on job burnout and turnover intention among healthcare workers: a multigroup analysis based on occupational categories** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116672?rss=1
+- **Impact of country income status on the relationship between interpregnancy interval and maternal complications of pregnancy: a systematic review and meta-analysis protocol** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e116774?rss=1
+- **Multimorbidity, functional impairment and health-related quality of life in postural orthostatic tachycardia syndrome: findings from an Australian observational cohort study** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e119165?rss=1
+- **Effectiveness of non-pharmacological therapies for poststroke aphasia: a protocol of a systematic review and network meta-analysis** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e119577?rss=1
+- **Home-based virtual reality telerehabilitation for people with Parkinsons disease: a scoping review of delivery, supervision and implementation** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e119628?rss=1
+- **Exploring UK breastmilk donors perspectives on breastfeeding as a protective factor against breast cancer: a qualitative study** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e119730?rss=1
+- **Melatonin to improve sleep in patients undergoing major surgery: protocol for a double-blind, randomised placebo-controlled trial (MELROSE)** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e119965?rss=1
+- **Single-arm, multicentre phase II trial of sintilimab plus platinum-based doublet chemotherapy followed by adaptive radiotherapy strategy for patients with unresectable stage III non-small-cell lung cancer in China: the ART-LUNG 01 study protocol** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e120335?rss=1
+- **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e121103?rss=1
+- **Cohort profile update: the Finnish Genetics of Pre-eclampsia Consortium (FINNPEC)** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122347?rss=1
+- **Effectiveness of small-quantity versus medium-quantity lipid-based nutrient supplements for prevention of undernutrition in young children: protocol for an individually randomised, parallel-group, non-inferiority trial** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122865?rss=1
+- **Effect of strengths-based, tiered, accessible resources and supports (STARS) for Kids project, a codesigned hybrid service delivery framework to identify and support child development, parent mental health and psychosocial needs among parents and carers of children aged 6 months to 3 years: a randomised controlled trial protocol** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122902?rss=1
+- **Effects of Virtual Reality on PostOperative WEllbeing and recovery (POWER of VR) in children and adolescents undergoing major surgery: study protocol for a prospective, multicentre randomised controlled trial** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122918?rss=1
+- **What is the effectiveness of services and interventions for Armed Forces transitioning to veteran status, and what opportunities are there for improvement: a scoping review of health-related evidence** -- BMJ Open, 2026-09-29T06:38:23-07:00 -- http://bmjopen.bmj.com/cgi/content/short/16/9/e122999?rss=1
 - **Undiagnosed CKD, Outcomes, and Finerenone in Heart Failure** -- JAMA Cardiology, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854529
 - **Lipoprotein(a) and Incident Venous Thromboembolism** -- JAMA Cardiology, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854528
 - **Interpreting 7-Year Valve Durability in PARTNER 3** -- JAMA Cardiology, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamacardiology/fullarticle/2854527
@@ -219,7 +222,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Comprehensive Review of Pigtail Catheter Management** -- JAMA Surgery, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854293
 
 
-## ⚠ 85 new systematic review/meta-analysis published in your journals
+## ⚠ 88 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -251,6 +254,9 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Optimization strategies for care‑giving behaviors of family caregivers for patients with enterostomy: An evidence summary.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42721125/
 - **Individual differences in emotional reactivity: A multidimensional systematic review across the big five.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42715225/
 - **Application of musculoskeletal ultrasound in postoperative rehabilitation assessment and monitoring after rotator cuff repair: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42709705/
+- **Effects of long-term inhaled corticosteroids on growth velocity and adult height in children with asthma: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42807464/
+- **Efficacy and safety of foam sclerotherapy for great saphenous vein reflux: a systematic review and meta-analysis of RCTs.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42807303/
+- **Deep learning models for pancreatic cancer detection on CT: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42807151/
 - **Comparison of vonoprazan and proton pump inhibitors for the management of gastric post-endoscopic submucosal dissection ulcers and preventing delayed bleeding: a meta-analysis of randomized controlled trials.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798450/
 - **Integrated TCM and Western medicine rehabilitation program after breast cancer surgery: a best evidence summary.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798445/
 - **Safety and efficacy of microbiota-directed adjunctive therapy in acute pancreatitis: a systematic review and meta-analysis of prebiotics, probiotics, and synbiotics.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42798434/
@@ -310,74 +316,227 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-8 new RCT-type article(s) found.
+25 new RCT-type article(s) found.
 
-## Permissive Blood Pressure Targets in Pediatric Critical Care: The PRESSURE Randomized Clinical Trial.
-**Journal:** JAMA  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806496/  
+## Breast Cancer in Primary Healthcare: Clinical and Epidemiological Characteristics Associated With Age at Diagnosis and Metastatic Status.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42808077/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and Safety of Erenumab in the Preventive and Therapeutic Treatment of Patients Suffering From Migraine.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42808046/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## CAR-T Versus Non-CAR-T Bridging Strategies Before Allogeneic Hematopoietic Stem Cell Transplantation in Relapsed/Refractory B-Cell Acute Lymphoblastic Leukemia: A Systematic Review.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807925/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Microwave Ablation Versus Radiofrequency Ablation for Hepatocellular Carcinoma: A Systematic Review and Meta-Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807892/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Pain and Opioid Dose Reduction Based on Substance Use Disorder Status: Secondary Analysis from a Pragmatic Effectiveness Trial.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806226/  
+## The Surgical Timing Gap in Elderly Hip Fracture Management: A Regional Systems Analysis.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807782/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## The Dental Operating Microscope in Endodontics: A Narrative Review of Clinical Applications, Supporting Evidence, and Limitations.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807697/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Implementing Integrated Whole-Person Care for Chronic Pain: Lessons from VA's Multisite wHOPE Study.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806223/  
+## Fracture-Pattern-Guided Implant Selection in Extracapsular Proximal Femoral Fractures: A Descriptive Single-Centre Study of Dynamic Hip Screw and Proximal Femoral Nail Fixation in Older Adults.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807654/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Comprehensive Genomic Profiling Across Diverse Tumors Using the OncoIndx® Assay: Real-World Insights From an Indian Cohort.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807649/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and Safety of She Care Juice, an Ayurvedic Polyherbal Oral Formulation, in Women With Polycystic Ovary Syndrome: A Prospective, Open-Label, Single-Arm Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807253/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Clinical Outcomes of Monopolar Versus Bipolar Transurethral Resection of the Prostate for Benign Prostatic Enlargement: A Prospective Comparative Study.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807245/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Application of the Forced Oscillation Technique in Patients With Preserved Ratio Impaired Spirometry.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806974/  
+**Published:** Aug 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Controlled low central venous pressure after cardiopulmonary bypass reduces acute kidney injury following cardiac surgery: a randomized controlled trial.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807432/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Prediction of moderate-to-severe postoperative thirst in general anesthesia patients based on automated machine learning and clinical nursing translation.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807403/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Long-term monthly mesenchymal stromal cell therapy for advanced chronic lung allograft dysfunction: a single-centre safety and feasibility cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807397/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Efficacy and safety of foam sclerotherapy for great saphenous vein reflux: a systematic review and meta-analysis of RCTs.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807303/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Real-world toxicity and discontinuation risk in ibrutinib therapy: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807292/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association of NPAR with 90-day mortality in predominantly acute-on-chronic liver failure.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807264/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Serum ferritin as an independent biomarker of subclinical synovitis in rheumatoid arthritis patients in clinical remission or low disease activity.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807210/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Impact of immunosuppressive therapy and clinical risk factors on the prevalence of low bone mineral density in rheumatic diseases.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807094/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Selective non-operative management of traumatic liver injury in Palestine: a retrospective single-center cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807092/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Association between quantitative CT-derived body composition and lung low-attenuation area percentage: discrimination of high LAA% burden.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807062/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Predicting corticosteroid resistance and recurrence in keloids: a machine learning study integrating dermatoscopy and ultrasound.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42807034/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Factors associated with intracapsular versus extracapsular hip fracture patterns in elderly patients following low-energy falls: a retrospective analysis from a single tertiary-care center in China.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806980/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 404._
+
+---
+
+## Epigenome-Wide Association Study of Abdominal Aortic Aneurysm Identifies Central Role for Inflammatory Pathways.
+**Journal:** Circulation  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42808173/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
 
 ---
 
-## Cannabis Use Disorder and Mortality Risk: A Matched Cohort Study from a Colorado Health System.
-**Journal:** Journal of General Internal Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806222/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Predictive ability of two frailty screening tools for older patients in an emergency department: a comparative study.
-**Journal:** Internal and Emergency Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806214/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Major adverse cardiac events and mortality associated with ADHD and its treatment in adults with type 2 diabetes: a multi-national cohort study.
-**Journal:** BMC Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806384/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.
-**Journal:** BMC Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806363/  
-**Published:** Sep 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Diagnostic Accuracy Study of Morning Salivary Cortisone for Screening Adrenal Insufficiency in a Real-World Cohort.
+## An agentic, no-code artificial intelligence workflow for developing a thyroid nodule ultrasound malignancy classifier.
 **Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42806822/  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42808848/  
 **Published:** Sep 2026
 
 _PICO draft failed: Gemini request failed with HTTP 404._
