@@ -1,29 +1,9 @@
 # Journal Watch Report -- 2026-09-30
 
-## 🕐 216 ahead-of-print item(s) (not yet in PubMed)
+## 🕐 196 ahead-of-print item(s) (not yet in PubMed)
 
 _From each journal's own RSS feed -- usually appears before PubMed indexing catches up. No PMID yet and often no full abstract, so treat these as an early heads-up, not a finished PICO source._
 
-- **Etuvetidigene Autotemcel for the Treatment of Wiskott–Aldrich Syndrome** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2515005?af=R&rss=currentIssue
-- **Phase 1 Study of Anito-cel, a d-Domain BCMA CAR T Cell for Refractory or Recurrent Myeloma** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2603527?af=R&rss=currentIssue
-- **Oveporexton for Narcolepsy Type 1 — Results from Two Phase 3 Trials** -- New England Journal of Medicine, 2026-09-09T12:00:02Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2601598?af=R&rss=currentIssue
-- **Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk** -- New England Journal of Medicine, 2026-08-28T09:15:00Z -- https://www.nejm.org/doi/full/10.1056/NEJMoa2607978?af=R&rss=currentIssue
-- **The Legacy of Orexin (Hypocretin) Research in Narcolepsy and Beyond** -- New England Journal of Medicine, 2026-09-09T12:02:21Z -- https://www.nejm.org/doi/full/10.1056/NEJMcibr2608811?af=R&rss=currentIssue
-- **Clinical Uses of Common Genetic Variants Associated with Common Diseases** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMra2413201?af=R&rss=currentIssue
-- **Bepirovirsen Treatment for Chronic Hepatitis B Virus Infection** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2609821?af=R&rss=currentIssue
-- **More on Artificial Intelligence and Detection of Hirschsprung Disease** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2610221?af=R&rss=currentIssue
-- **Oya Virus in a Patient with Severe Hepatitis, Enteritis, and Coagulopathy** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2602616?af=R&rss=currentIssue
-- **Cumulative Hematologic Morbidity and Outcomes in Shwachman–Diamond Syndrome** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMc2605001?af=R&rss=currentIssue
-- **Anito-cel for Multiple Myeloma** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2609181?af=R&rss=currentIssue
-- **Targeted Treatment for Narcolepsy Type 1** -- New England Journal of Medicine, 2026-09-09T12:00:01Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2607491?af=R&rss=currentIssue
-- **Anticoagulation for Atrial Fibrillation with a Single Risk Factor for Stroke** -- New England Journal of Medicine, 2026-08-28T09:16:07Z -- https://www.nejm.org/doi/full/10.1056/NEJMe2610344?af=R&rss=currentIssue
-- **Congenital Amniotic Band Sequence** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2607665?af=R&rss=currentIssue
-- **Cerebral Schistosomiasis** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMicm2609443?af=R&rss=currentIssue
-- **Case 27-2026: A 4-Year-Old Boy with Fatigue, Imbalance, and Frequent Falls** -- New England Journal of Medicine, 2026-09-23T09:00:20Z -- https://www.nejm.org/doi/full/10.1056/NEJMcpc2603181?af=R&rss=currentIssue
-- **Gaps and Borders** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2601340?af=R&rss=currentIssue
-- **The End of the War on Biomedical Science?** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2605442?af=R&rss=currentIssue
-- **A Cure Out of Most Patients’ Reach — Sickle Cell Disease in the Gene-Therapy Era** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609007?af=R&rss=currentIssue
-- **Declining Child Health in the United States — Addressing the Developmental Ecosystem** -- New England Journal of Medicine, 2026-09-19T11:30:19Z -- https://www.nejm.org/doi/full/10.1056/NEJMp2609124?af=R&rss=currentIssue
 - **MD-Granting Medical Schools in the US, 2025-2026** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854662
 - **Graduate Medical Education, 2025-2026** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854661
 - **Errors in Confidence Intervals** -- JAMA, Tue, 29 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jama/fullarticle/2854660
@@ -316,4 +296,146 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
-No new RCT-type articles found today.
+
+6 new RCT-type article(s) found.
+
+## Racial and Ethnic Disparities in Buprenorphine and Naloxone among Medicaid Beneficiaries after Emergency Department Visits and Hospitalizations.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42811174/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Methods for teaching postgraduate point-of-care ultrasonography: a systematic review.
+**Journal:** Internal and Emergency Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42811229/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Comparing the Outcomes Between Minimal Incision Endoscopic Cubital Tunnel Release and Open Cubital Tunnel Release: A Prospective Randomized Controlled Trial.
+**Journal:** Cureus  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42812273/  
+**Published:** Aug 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: patients with moderate to severe cubital tunnel syndrome
+- Intervention: minimal incision endoscopic cubital tunnel release (MICuR)
+- Comparator: conventional open cubital tunnel release (OCuTR)
+- Outcome: postoperative pain (VAS), functional recovery (modified Bishop score), scar sensitivity (mVSS), time to return to work, and complications
+- Study design: prospective randomized controlled trial
+- Notes: The abstract clearly states the population, intervention, comparator, and specific outcome measures used in the trial.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: patients with cubital tunnel syndrome
+- Intervention: endoscopic cubital tunnel release
+- Outcome: postoperative clinical and functional outcomes
+- Why widened: The population was broadened to include all severities of cubital tunnel syndrome. The intervention was generalized from a specific 'minimal incision' technique to the broader category of endoscopic release. Outcomes were grouped into general clinical and functional categories to allow for pooling of different scoring systems (e.g., different pain or function scales).
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~41 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~41
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=patients+with+moderate+to+severe+cubital+tunnel+syndrome+minimal+incision+endoscopic+cubital+tunnel+release+%28MICuR%29+postoperative+pain+%28VAS%29%2C+functional+recovery+%28modified+Bishop+score%29%2C+scar+sensitivity+%28mVSS%29%2C+time+to+return+to+work%2C+and+complications
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=patients+with+moderate+to+severe+cubital+tunnel+syndrome+minimal+incision+endoscopic+cubital+tunnel+release+%28MICuR%29+postoperative+pain+%28VAS%29%2C+functional+recovery+%28modified+Bishop+score%29%2C+scar+sensitivity+%28mVSS%29%2C+time+to+return+to+work%2C+and+complications+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Cubital+Tunnel+Syndrome%22%5BMeSH%5D%29+AND+%28%22endoscopic%22%29+AND+%28%22open%22%29+AND+%28%22minimal+incision%22%29+AND+%28%22Randomized+Controlled+Trial%22%5BPT%5D%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Cubital+Tunnel+Syndrome%22%5BMeSH%5D%29+AND+%28%22Endoscopy%22%5BMeSH%5D+OR+%22endoscopic%22%29+AND+%28%22Surgical+Decompression%22%5BMeSH%5D+OR+%22release%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Comparing the Outcomes Between Minimal Incision Endoscopic Cubital Tunnel Release and Open Cubital Tunnel Release: A Prospective Randomized Controlled Trial (2026, Cureus) -- https://www.semanticscholar.org/paper/61235df4bc15fec64b62c6f997aae4f02f6765ea
+
+---
+
+## Severity of depression and anxiety symptoms is reflected in physiological and behavioral metrics collected from a consumer-grade wearable ring.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42811329/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults aged 33-35 from the Northern Finland Birth Cohort 1986 with varying severity of depression and anxiety symptoms.
+- Intervention: Monitoring with a consumer-grade wearable ring (Oura Ring) for two weeks.
+- Comparator: Comparison between symptom severity groups: no, mild, and moderate-to-severe anxiety (GAD-7) and presence/absence of symptoms (HSCL-25).
+- Outcome: Sleep architecture (REM, deep, and light sleep percentages), nocturnal heart rate (HR), nocturnal heart rate variability (RMSSD), and movement intensity.
+- Study design: Cross-sectional study
+- Notes: The 'intervention' is an observational measurement tool rather than a therapeutic treatment. The study design is cross-sectional, limiting causal inference.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with symptoms of depression or anxiety.
+- Intervention: Consumer-grade wearable devices (e.g., smart rings, smartwatches, fitness trackers).
+- Outcome: Digital biomarkers of sleep, autonomic function, and physical activity.
+- Why widened: The population was widened from a specific birth cohort/age range to the general adult clinical population. The intervention was widened from a specific brand (Oura) to the broader class of consumer wearables. Specific physiological metrics were grouped into broader digital biomarker categories to allow for pooling with studies using different but related metrics.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~41 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~41
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+aged+33-35+from+the+Northern+Finland+Birth+Cohort+1986+with+varying+severity+of+depression+and+anxiety+symptoms.+Monitoring+with+a+consumer-grade+wearable+ring+%28Oura+Ring%29+for+two+weeks.+Sleep+architecture+%28REM%2C+deep%2C+and+light+sleep+percentages%29%2C+nocturnal+heart+rate+%28HR%29%2C+nocturnal+heart+rate+variability+%28RMSSD%29%2C+and+movement+intensity.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+aged+33-35+from+the+Northern+Finland+Birth+Cohort+1986+with+varying+severity+of+depression+and+anxiety+symptoms.+Monitoring+with+a+consumer-grade+wearable+ring+%28Oura+Ring%29+for+two+weeks.+Sleep+architecture+%28REM%2C+deep%2C+and+light+sleep+percentages%29%2C+nocturnal+heart+rate+%28HR%29%2C+nocturnal+heart+rate+variability+%28RMSSD%29%2C+and+movement+intensity.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Oura+Ring%22%29+AND+%28%22GAD-7%22+OR+%22HSCL-25%22%29+AND+%28%22depression%22+OR+%22anxiety%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Wearable+Electronic+Devices%22%5BMeSH%5D%29+AND+%28%22Depression%22%5BMeSH%5D+OR+%22Anxiety%22%5BMeSH%5D%29+AND+%28%22Sleep%22%5BMeSH%5D+OR+%22Heart+Rate%22%5BMeSH%5D+OR+%22Actigraphy%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Joint association of postoperative visual acuity status and baseline loneliness with cognitive impairment after cataract surgery in older adults: a retrospective cohort study.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42812269/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Older adults (aged 65 years or older) undergoing cataract surgery
+- Intervention: Poor postoperative best-corrected visual acuity (BCVA) and baseline loneliness (UCLA Loneliness Scale)
+- Comparator: Good postoperative best-corrected visual acuity (BCVA) and no baseline loneliness
+- Outcome: Cognitive impairment at 6 months (measured by education-adjusted Montreal Cognitive Assessment [MoCA])
+- Study design: Retrospective cohort study
+- Notes: The study specifically looks at the joint association/interaction of two factors rather than a single intervention; 'poor' vs 'good' BCVA thresholds are not explicitly defined in the abstract text.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Older adults undergoing ophthalmic surgery
+- Intervention: Postoperative visual impairment and social isolation or loneliness
+- Outcome: Cognitive impairment or decline
+- Why widened: Widened cataract surgery to ophthalmic surgery to capture similar perioperative populations; broadened loneliness to include social isolation; generalized the specific MoCA 6-month outcome to any validated cognitive impairment measure to allow for meta-analysis across different follow-up periods and instruments.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~1
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Older+adults+%28aged+65+years+or+older%29+undergoing+cataract+surgery+Poor+postoperative+best-corrected+visual+acuity+%28BCVA%29+and+baseline+loneliness+%28UCLA+Loneliness+Scale%29+Cognitive+impairment+at+6+months+%28measured+by+education-adjusted+Montreal+Cognitive+Assessment+%5BMoCA%5D%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Older+adults+%28aged+65+years+or+older%29+undergoing+cataract+surgery+Poor+postoperative+best-corrected+visual+acuity+%28BCVA%29+and+baseline+loneliness+%28UCLA+Loneliness+Scale%29+Cognitive+impairment+at+6+months+%28measured+by+education-adjusted+Montreal+Cognitive+Assessment+%5BMoCA%5D%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22cataract+surgery%22+OR+%22cataract+extraction%22%29+AND+%22loneliness%22+AND+%22visual+acuity%22+AND+%28%22MoCA%22+OR+%22cognitive+impairment%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22ophthalmologic+surgical+procedures%22+OR+%22cataract+extraction%22%29+AND+%28%22loneliness%22+OR+%22social+isolation%22%29+AND+%28%22vision%2C+low%22+OR+%22visual+acuity%22%29+AND+%28%22cognitive+dysfunction%22+OR+%22dementia%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+**Also similar, via Semantic Scholar (free, broader net -- title-level only):**
+- Joint association of postoperative visual acuity status and baseline loneliness with cognitive impairment after cataract surgery in older adults: a retrospective cohort study (2026, Frontiers in Medicine) -- https://www.semanticscholar.org/paper/6584c797f241a6f852257fa6c425076c9597be53
+
+---
+
+## Preliminary clinical and structural outcomes of a standardized ultrasound-guided diagnostic and interventional protocol for refractory adhesive capsulitis.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42812219/  
+**Published:** 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
