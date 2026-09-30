@@ -222,7 +222,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Comprehensive Review of Pigtail Catheter Management** -- JAMA Surgery, Wed, 16 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854293
 
 
-## ⚠ 88 new systematic review/meta-analysis published in your journals
+## ⚠ 89 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -302,6 +302,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Comparative effectiveness and dose-response relationship of exercise-based interventions for muscle mass in older women with sarcopenia: a systematic review and network meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42712944/
 - **Prognostic effect of the preoperative albumin-to-globulin ratio bladder cancer: a meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42712354/
 - **Insights into the relationship between menopausal timing and risk of cardiovascular disease: a systematic review and meta-analysis of Mendelian randomization analyses.** -- Systematic Reviews, Aug 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736567/
+- **Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42810793/
 - **Bright light therapy and circadian rhythm regulation for delirium prevention in hospitalised adults: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42805655/
 - **Alzheimer's disease and related dementias in South and Southeast Asia: a systematic review and meta-analysis of epidemiology and associated factors.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778253/
 - **Management of immune-related cutaneous adverse events associated with immune checkpoint inhibitors in patients with cancer: an evidence summary.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42778248/
@@ -316,112 +317,706 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Effect of intradialytic exercise on cardiovascular structural and functional parameters in maintenance haemodialysis: a systematic review and meta-analysis.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42716681/
 
 
-12 new RCT-type article(s) found.
+21 new RCT-type article(s) found.
 
-## Rapid community "Healthy Heart" screening to identify people at high risk of cardiovascular events.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809611/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Time to recovery and its predictors among children aged 6 to 59 months with uncomplicated severe acute malnutrition treated in outpatient therapeutic programs in Adet Woreda, Central Zone of Tigray, Northern Ethiopia: A retrospective cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809579/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Exploring the relationship between HIV Testing frequency and sexual behavior, prevention prophylaxis use among MSM in Southern China.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809564/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Lethal Sudan virus infection in IFNAR-/- mice is characterized by key inflammatory features of filovirus disease.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809562/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Efficacy and safety of T-DXd versus Other HER2-targeted therapies in second-line and later settings for HER2-positive metastatic breast cancer: A Bayesian network meta-analysis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809558/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Rising performance-efficiency demands in female junior tennis: A longitudinal analysis of ITF World Tennis Tour Juniors rankings, 2004-2025.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809557/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Efficacy and safety of immune checkpoint inhibitors combined with TKIs for recurrent or metastatic cervical cancer with PIK3CA mutation.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809552/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## What is the cost of dedication to teaching? A school-based longitudinal quantitative study on habits and quality of life.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809548/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Prognostic impact of postoperative complications among elderly patients with gastric cancer.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809545/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Analysis of urinary kidney-specific cell-free DNA in preeclampsia.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809538/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Peripheral blood transcriptomes and a single-cell atlas suggest a monocyte-associated immune recovery-failure axis in STEMI.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809537/  
-**Published:** 2026
-
-_PICO draft failed: Gemini request failed with HTTP 404._
-
----
-
-## Metabolic status modifies skeletal response to active vitamin D: A post hoc analysis of the DPVD randomized trial.
-**Journal:** Journal of Clinical Endocrinology & Metabolism  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42809706/  
+## Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial.
+**Journal:** The Lancet  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810372/  
 **Published:** Sep 2026
 
-_PICO draft failed: Gemini request failed with HTTP 404._
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (aged ≥18 years) with obesity (BMI ≥27 kg/m²) and type 2 diabetes
+- Intervention: Retatrutide (4 mg, 9 mg, or 12 mg)
+- Comparator: Placebo
+- Outcome: Bodyweight and glycemic control
+- Study design: Double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial
+- Notes: The abstract text provided cuts off mid-sentence regarding the specific BMI inclusion threshold, though the title and results confirm the population has obesity and type 2 diabetes. Specific primary outcome timepoints (e.g., 52 or 72 weeks) are not explicitly stated in the provided text.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with obesity or overweight and type 2 diabetes
+- Intervention: Triple GIP, GLP-1, and glucagon receptor agonists
+- Outcome: Weight loss and glycemic management
+- Why widened: Widened the specific drug (retatrutide) to its pharmacological class (triple receptor agonists) to allow for comparison with similar multi-incretin therapies. Broadened specific outcomes to the general clinical goals of weight and glucose management.
+
+**Signal:** WORTH A CLOSER LOOK: ~45 on the narrow PICO, ~58 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~45
+- Broadened PICO pool: ~58
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28aged+%E2%89%A518+years%29+with+obesity+%28BMI+%E2%89%A527+kg%2Fm%C2%B2%29+and+type+2+diabetes+Retatrutide+%284+mg%2C+9+mg%2C+or+12+mg%29+Bodyweight+and+glycemic+control
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28aged+%E2%89%A518+years%29+with+obesity+%28BMI+%E2%89%A527+kg%2Fm%C2%B2%29+and+type+2+diabetes+Retatrutide+%284+mg%2C+9+mg%2C+or+12+mg%29+Bodyweight+and+glycemic+control+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=Retatrutide+AND+obesity+AND+%22diabetes+mellitus%2C+type+2%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22retatrutide%22+OR+%22triple+agonist%22+OR+%22GIP%2FGLP-1%2Fglucagon+receptor+agonist%22%29+AND+obesity+AND+%22diabetes+mellitus%2C+type+2%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Respiratory-hypoxic burden and multimorbidity-related vulnerability are distinct dimensions of obstructive sleep apnea: A retrospective cohort analysis.
+**Journal:** European Journal of Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810912/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Untreated adults with obstructive sleep apnea (OSA)
+- Intervention: Multidimensional assessment using Principal Component Analysis (PCA) and clustering of respiratory (AHI, oximetry), anthropometric (obesity), and multimorbidity (Cumulative Illness Rating Scale) metrics
+- Comparator: unclear
+- Outcome: Identification of latent severity dimensions (respiratory-hypoxic burden vs. multimorbidity-related vulnerability) and clinical phenotypes
+- Study design: Retrospective cohort analysis
+- Notes: The study is an exploratory cluster analysis rather than a trial; there is no therapeutic intervention or control group. The 'intervention' refers to the analytical framework used to categorize patients.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with obstructive sleep apnea
+- Intervention: Clinical phenotyping or cluster analysis using physiological and comorbidity data
+- Outcome: Identification of clinical subtypes or phenotypes of OSA
+- Why widened: Broadened the population by removing the 'untreated' requirement to include a wider clinical spectrum. Generalized the specific PCA and CIRS-based methodology to the broader concept of 'clinical phenotyping' to allow for comparison with other studies investigating OSA heterogeneity.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~383 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~383
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Untreated+adults+with+obstructive+sleep+apnea+%28OSA%29+Multidimensional+assessment+using+Principal+Component+Analysis+%28PCA%29+and+clustering+of+respiratory+%28AHI%2C+oximetry%29%2C+anthropometric+%28obesity%29%2C+and+multimorbidity+%28Cumulative+Illness+Rating+Scale%29+metrics+Identification+of+latent+severity+dimensions+%28respiratory-hypoxic+burden+vs.+multimorbidity-related+vulnerability%29+and+clinical+phenotypes
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Untreated+adults+with+obstructive+sleep+apnea+%28OSA%29+Multidimensional+assessment+using+Principal+Component+Analysis+%28PCA%29+and+clustering+of+respiratory+%28AHI%2C+oximetry%29%2C+anthropometric+%28obesity%29%2C+and+multimorbidity+%28Cumulative+Illness+Rating+Scale%29+metrics+Identification+of+latent+severity+dimensions+%28respiratory-hypoxic+burden+vs.+multimorbidity-related+vulnerability%29+and+clinical+phenotypes+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sleep+Apnea%2C+Obstructive%22%5BMesh%5D%29+AND+%28%22Principal+Component+Analysis%22+OR+%22Cluster+Analysis%22%29+AND+%28%22Cumulative+Illness+Rating+Scale%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sleep+Apnea%2C+Obstructive%22%5BMesh%5D%29+AND+%28%22Phenotype%22%5BMesh%5D+OR+%22Cluster+Analysis%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Small airway disease and its association with respiratory symptoms and restrictive ventilation pattern in systemic sclerosis.
+**Journal:** American Journal of Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810493/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with systemic sclerosis
+- Intervention: Small airway disease (defined by pulmonary function tests and high-resolution computed tomography)
+- Comparator: Systemic sclerosis patients without small airway disease
+- Outcome: Respiratory symptoms, NYHA functional class, pulmonary function test values, interstitial lung disease progression, and mortality
+- Study design: Prospective cohort study (cross-sectional and longitudinal analyses)
+- Notes: The abstract notes that the prevalence of the 'intervention' (small airway disease) varied significantly (14-54%) depending on the specific PFT or HRCT definition used.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with systemic sclerosis
+- Intervention: Airway involvement (including small airway disease, bronchiolitis, or airflow obstruction)
+- Outcome: Clinical symptoms, lung function decline, and survival
+- Why widened: Broadened 'small airway disease' to include general airway involvement and obstructive patterns to capture related phenotypes like bronchiolitis which are often grouped in SSc literature. Grouped specific PFT and symptom metrics into general clinical and survival outcomes.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+systemic+sclerosis+Small+airway+disease+%28defined+by+pulmonary+function+tests+and+high-resolution+computed+tomography%29+Respiratory+symptoms%2C+NYHA+functional+class%2C+pulmonary+function+test+values%2C+interstitial+lung+disease+progression%2C+and+mortality
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+systemic+sclerosis+Small+airway+disease+%28defined+by+pulmonary+function+tests+and+high-resolution+computed+tomography%29+Respiratory+symptoms%2C+NYHA+functional+class%2C+pulmonary+function+test+values%2C+interstitial+lung+disease+progression%2C+and+mortality+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22systemic+sclerosis%22%5BMeSH+Terms%5D%29+AND+%28%22small+airway+disease%22+OR+%22bronchiolitis%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22systemic+sclerosis%22%5BMeSH+Terms%5D%29+AND+%28%22lung+diseases%2C+obstructive%22%5BMeSH+Terms%5D+OR+%22respiratory+function+tests%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effectiveness of small-quantity versus medium-quantity lipid-based nutrient supplements for prevention of undernutrition in young children: protocol for an individually randomised, parallel-group, non-inferiority trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810807/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Children aged 6-7.5 months enrolled in the Benazir Nashonuma Programme (BNP) in Dadu and Peshawar districts, Pakistan.
+- Intervention: Small-quantity lipid-based nutrient supplements (SQ-LNS, 20 g/day) for 6 months.
+- Comparator: Medium-quantity lipid-based nutrient supplements (MQ-LNS, 50 g/day) for 6 months.
+- Outcome: Stunting (primary); wasting, underweight, anthropometric z-scores, morbidity, and anaemia (secondary).
+- Study design: Individually randomised, parallel-group, non-inferiority trial.
+- Notes: The abstract is a protocol for a trial; specific enrollment criteria for the BNP program (e.g., poverty level) are implied but not detailed.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Infants and young children (6-24 months) at risk of undernutrition in low- and middle-income countries.
+- Intervention: Small-quantity lipid-based nutrient supplements (SQ-LNS).
+- Outcome: Growth outcomes (stunting, wasting, underweight) and micronutrient status (anaemia).
+- Why widened: Widened the population from specific districts in Pakistan to the general age group (6-24 months) typically targeted for LNS in resource-limited settings. Generalized the specific dosages (20g vs 50g) to the broader categories of SQ-LNS and MQ-LNS. Grouped specific anthropometric measures into 'growth outcomes' to facilitate pooling with studies using different primary growth metrics.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~116 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~116
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+aged+6-7.5+months+enrolled+in+the+Benazir+Nashonuma+Programme+%28BNP%29+in+Dadu+and+Peshawar+districts%2C+Pakistan.+Small-quantity+lipid-based+nutrient+supplements+%28SQ-LNS%2C+20+g%2Fday%29+for+6+months.+Stunting+%28primary%29%3B+wasting%2C+underweight%2C+anthropometric+z-scores%2C+morbidity%2C+and+anaemia+%28secondary%29.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+aged+6-7.5+months+enrolled+in+the+Benazir+Nashonuma+Programme+%28BNP%29+in+Dadu+and+Peshawar+districts%2C+Pakistan.+Small-quantity+lipid-based+nutrient+supplements+%28SQ-LNS%2C+20+g%2Fday%29+for+6+months.+Stunting+%28primary%29%3B+wasting%2C+underweight%2C+anthropometric+z-scores%2C+morbidity%2C+and+anaemia+%28secondary%29.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22SQ-LNS%22+OR+%22small-quantity+lipid-based+nutrient+supplements%22%29+AND+%28%22MQ-LNS%22+OR+%22medium-quantity+lipid-based+nutrient+supplements%22%29+AND+Pakistan
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22lipid-based+nutrient+supplements%22+OR+%22LNS%22%29+AND+%28%22undernutrition%22+OR+%22stunting%22+OR+%22wasting%22%29+AND+%22children%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effect of strengths-based, tiered, accessible resources and supports (STARS) for Kids project, a codesigned hybrid service delivery framework to identify and support child development, parent mental health and psychosocial needs among parents and carers of children aged 6 months to 3 years: a randomised controlled trial protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810805/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Parents and carers of children aged 6 months to 3 years in multicultural, regional/Aboriginal, or low socioeconomic sites in Australia.
+- Intervention: STARS for Kids (Strengths-based, Tiered, Accessible Resources and Supports) tiered care model.
+- Comparator: Enhanced usual care.
+- Outcome: Parent or carer-reported completion of child developmental checks.
+- Study design: Multisite, individually randomised controlled trial (protocol).
+- Notes: The abstract is a study protocol, so no results are reported. The specific components of 'enhanced usual care' and the exact nature of the 'tiered' interventions in the STARS model are not fully detailed in the abstract.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Parents and carers of children in the first 2000 days of life (pregnancy to school age) from disadvantaged or priority populations.
+- Intervention: Tiered service delivery models or proportionate universalism frameworks for early childhood development.
+- Outcome: Engagement with early childhood developmental services and improvements in child/parental health outcomes.
+- Why widened: The population was widened from the specific 6m-3y age range to the 'first 2000 days' (0-5 years) to capture the full early childhood period. The intervention was broadened from the specific 'STARS' brand to the underlying 'proportionate universalism' framework to allow for pooling with other tiered service models. The outcome was widened from specific check completion to general service engagement and health outcomes.
+
+**Signal:** PROBABLY TOO THIN: only ~1 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~1
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Parents+and+carers+of+children+aged+6+months+to+3+years+in+multicultural%2C+regional%2FAboriginal%2C+or+low+socioeconomic+sites+in+Australia.+STARS+for+Kids+%28Strengths-based%2C+Tiered%2C+Accessible+Resources+and+Supports%29+tiered+care+model.+Parent+or+carer-reported+completion+of+child+developmental+checks.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Parents+and+carers+of+children+aged+6+months+to+3+years+in+multicultural%2C+regional%2FAboriginal%2C+or+low+socioeconomic+sites+in+Australia.+STARS+for+Kids+%28Strengths-based%2C+Tiered%2C+Accessible+Resources+and+Supports%29+tiered+care+model.+Parent+or+carer-reported+completion+of+child+developmental+checks.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22STARS+for+Kids%22+AND+%22randomized+controlled+trial%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22proportionate+universalism%22+OR+%22tiered+care%22%29+AND+%22child+development%22+AND+%22parental+mental+health%22+AND+%22randomized+controlled+trial%22
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Natural history study of type 1 diabetes risk in adults (T1DRA): protocol for screening and follow-up of UK adults.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810803/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: UK adults (general population and relatives of people with Type 1 Diabetes)
+- Intervention: Screening for islet autoantibodies (GADA, IA-2A, ZnT8A, IAA) using remote capillary blood sampling followed by longitudinal monitoring and education for those positive
+- Comparator: unclear
+- Outcome: Risk of future type 1 diabetes (progression to clinical disease) and autoantibody characteristics (affinity, positivity)
+- Study design: Prospective natural history study / Screening protocol
+- Notes: The abstract describes a study protocol rather than results. No explicit control group is mentioned as the study focuses on natural history and screening efficacy.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults at risk for Type 1 Diabetes
+- Intervention: Islet autoantibody screening and longitudinal monitoring
+- Outcome: Incidence of Type 1 Diabetes and progression from autoimmunity to clinical disease
+- Why widened: Widened population from UK-specific to general adults to allow for global meta-analysis. Generalized specific assay types (LIPS/RBA) and remote sampling to general autoantibody screening to include other methodologies. Broadened outcome to include general progression and incidence rates.
+
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~338 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~338
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=UK+adults+%28general+population+and+relatives+of+people+with+Type+1+Diabetes%29+Screening+for+islet+autoantibodies+%28GADA%2C+IA-2A%2C+ZnT8A%2C+IAA%29+using+remote+capillary+blood+sampling+followed+by+longitudinal+monitoring+and+education+for+those+positive+Risk+of+future+type+1+diabetes+%28progression+to+clinical+disease%29+and+autoantibody+characteristics+%28affinity%2C+positivity%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=UK+adults+%28general+population+and+relatives+of+people+with+Type+1+Diabetes%29+Screening+for+islet+autoantibodies+%28GADA%2C+IA-2A%2C+ZnT8A%2C+IAA%29+using+remote+capillary+blood+sampling+followed+by+longitudinal+monitoring+and+education+for+those+positive+Risk+of+future+type+1+diabetes+%28progression+to+clinical+disease%29+and+autoantibody+characteristics+%28affinity%2C+positivity%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22T1DRA%22+OR+%22Natural+history+study+of+type+1+diabetes+risk+in+adults%22%29+AND+%22islet+autoantibodies%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetes+Mellitus%2C+Type+1%22%5BMeSH%5D+AND+%22Adult%22%5BMeSH%5D+AND+%22Autoantibodies%22%5BMeSH%5D+AND+%28%22Screening%22+OR+%22Natural+History%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Melatonin to improve sleep in patients undergoing major surgery: protocol for a double-blind, randomised placebo-controlled trial (MELROSE).
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810800/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults undergoing elective major abdominal or orthopaedic surgery with an expected hospital stay of more than 48 hours
+- Intervention: Melatonin (5 mg sublingual wafer) administered the night before surgery and nightly postoperatively at 21:00 hours for up to 7 days or until discharge
+- Comparator: Placebo
+- Outcome: Raw Patient-Reported Outcome Measurement Information System (PROMIS) Sleep Disturbance 8a score on postoperative day 3
+- Study design: Double-blind, randomised placebo-controlled trial
+- Notes: The abstract is a trial protocol and provides specific details for all PICO elements.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults undergoing major surgery
+- Intervention: Perioperative melatonin
+- Outcome: Postoperative sleep quality or sleep disturbance
+- Why widened: Broadened surgery types to include all major procedures beyond abdominal/orthopaedic; widened melatonin intervention to include any dose or administration route; generalized the outcome from a specific scale (PROMIS) and timepoint (day 3) to any validated sleep quality measure to facilitate meta-analysis across different study protocols.
+
+**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~56 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~0
+- Broadened PICO pool: ~56
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+undergoing+elective+major+abdominal+or+orthopaedic+surgery+with+an+expected+hospital+stay+of+more+than+48+hours+Melatonin+%285+mg+sublingual+wafer%29+administered+the+night+before+surgery+and+nightly+postoperatively+at+21%3A00+hours+for+up+to+7+days+or+until+discharge+Raw+Patient-Reported+Outcome+Measurement+Information+System+%28PROMIS%29+Sleep+Disturbance+8a+score+on+postoperative+day+3
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+undergoing+elective+major+abdominal+or+orthopaedic+surgery+with+an+expected+hospital+stay+of+more+than+48+hours+Melatonin+%285+mg+sublingual+wafer%29+administered+the+night+before+surgery+and+nightly+postoperatively+at+21%3A00+hours+for+up+to+7+days+or+until+discharge+Raw+Patient-Reported+Outcome+Measurement+Information+System+%28PROMIS%29+Sleep+Disturbance+8a+score+on+postoperative+day+3+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Melatonin%22%5BMesh%5D+OR+melatonin%29+AND+%28%22Abdominal+Surgery%22+OR+%22Orthopedic+Procedures%22%5BMesh%5D%29+AND+%22PROMIS%22+AND+%22randomized+controlled+trial%22%5BPublication+Type%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Melatonin%22%5BMesh%5D+OR+melatonin%29+AND+%28%22Surgical+Procedures%2C+Operative%22%5BMesh%5D+OR+surgery%29+AND+%28%22Sleep%22%5BMesh%5D+OR+%22Sleep+Wake+Disorders%22%5BMesh%5D+OR+sleep+quality%29+AND+%22randomized+controlled+trial%22%5BPublication+Type%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Multimorbidity, functional impairment and health-related quality of life in postural orthostatic tachycardia syndrome: findings from an Australian observational cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810796/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults and older adolescents (aged 16 years and older) with physician-confirmed Postural Orthostatic Tachycardia Syndrome (POTS) in Australia.
+- Intervention: High autonomic symptom burden as measured by the Composite Autonomic Symptom Score (COMPASS-31).
+- Comparator: Lower autonomic symptom burden as measured by the COMPASS-31.
+- Outcome: Health-related quality of life (EQ-5D), fatigue severity (FSS), gastrointestinal symptoms (GCSI), healthcare utilization, and diagnostic delay.
+- Study design: Cross-sectional observational cohort study.
+- Notes: The study is observational and lacks a non-POTS control group; comparisons are internal based on symptom severity scores. The 'intervention' is an exposure/stratification based on symptom burden rather than a therapeutic intervention.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients of any age with Postural Orthostatic Tachycardia Syndrome (POTS).
+- Intervention: Clinical assessment of autonomic symptom severity.
+- Outcome: Health-related quality of life, functional impairment, and healthcare resource utilization.
+- Why widened: Removed geographic (Australia) and age (>=16) restrictions to include the broader POTS population. Generalized specific symptom scales (COMPASS-31, FSS, GCSI) to 'autonomic symptom severity' and 'functional impairment' to allow for pooling with studies using alternative validated instruments.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~76 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~76
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+and+older+adolescents+%28aged+16+years+and+older%29+with+physician-confirmed+Postural+Orthostatic+Tachycardia+Syndrome+%28POTS%29+in+Australia.+High+autonomic+symptom+burden+as+measured+by+the+Composite+Autonomic+Symptom+Score+%28COMPASS-31%29.+Health-related+quality+of+life+%28EQ-5D%29%2C+fatigue+severity+%28FSS%29%2C+gastrointestinal+symptoms+%28GCSI%29%2C+healthcare+utilization%2C+and+diagnostic+delay.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+and+older+adolescents+%28aged+16+years+and+older%29+with+physician-confirmed+Postural+Orthostatic+Tachycardia+Syndrome+%28POTS%29+in+Australia.+High+autonomic+symptom+burden+as+measured+by+the+Composite+Autonomic+Symptom+Score+%28COMPASS-31%29.+Health-related+quality+of+life+%28EQ-5D%29%2C+fatigue+severity+%28FSS%29%2C+gastrointestinal+symptoms+%28GCSI%29%2C+healthcare+utilization%2C+and+diagnostic+delay.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Postural+Orthostatic+Tachycardia+Syndrome%22%5BMesh%5D%29+AND+Australia+AND+COMPASS-31
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Postural+Orthostatic+Tachycardia+Syndrome%22%5BMesh%5D%29+AND+%28%22Quality+of+Life%22%5BMesh%5D+OR+%22Symptom+Assessment%22%5BMesh%5D+OR+%22Activities+of+Daily+Living%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Machine learning methods and schizophrenia spectrum disorders: a scoping review.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810795/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with schizophrenia spectrum disorders (SSDs)
+- Intervention: Machine learning (ML) methods (including predictive tools and treatment algorithms)
+- Comparator: unclear
+- Outcome: Clinical and functional outcomes (including relapse, remission, symptom severity, suicide risk, treatment response, and real-world functioning)
+- Study design: Scoping review
+- Notes: The abstract describes a scoping review mapping the field rather than a comparative clinical trial; therefore, a specific comparator is not defined in the inclusion criteria.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with psychotic disorders
+- Intervention: Artificial intelligence and machine learning applications
+- Outcome: Clinical, functional, and behavioral outcomes
+- Why widened: Widened 'Schizophrenia spectrum disorders' to 'Psychotic disorders' to include related conditions often studied alongside SSD. Widened 'Machine learning' to 'Artificial intelligence' to capture a broader range of algorithmic modeling. Grouped specific outcomes into 'Clinical, functional, and behavioral' categories to allow for pooling of diverse psychiatric metrics.
+
+**Signal:** WORTH A CLOSER LOOK: ~772 on the narrow PICO, ~462 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~772
+- Broadened PICO pool: ~462
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+schizophrenia+spectrum+disorders+%28SSDs%29+Machine+learning+%28ML%29+methods+%28including+predictive+tools+and+treatment+algorithms%29+Clinical+and+functional+outcomes+%28including+relapse%2C+remission%2C+symptom+severity%2C+suicide+risk%2C+treatment+response%2C+and+real-world+functioning%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+schizophrenia+spectrum+disorders+%28SSDs%29+Machine+learning+%28ML%29+methods+%28including+predictive+tools+and+treatment+algorithms%29+Clinical+and+functional+outcomes+%28including+relapse%2C+remission%2C+symptom+severity%2C+suicide+risk%2C+treatment+response%2C+and+real-world+functioning%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Schizophrenia+Spectrum+and+Other+Psychotic+Disorders%22%5BMeSH%5D%29+AND+%22Machine+Learning%22%5BMeSH%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Psychotic+Disorders%22%5BMeSH%5D%29+AND+%28%22Artificial+Intelligence%22%5BMeSH%5D+OR+%22Algorithms%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Initial vascular access type and associated factors among incident haemodialysis patients: a multicentre retrospective observational study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810794/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Incident haemodialysis patients in Taizhou, China
+- Intervention: Initial vascular access via arteriovenous fistula (AVF)
+- Comparator: Initial vascular access via central venous catheter (CVC)
+- Outcome: Factors associated with initial AVF use (haemoglobin, albumin, calcium, CRP) and biochemical/clinical status at 3 months
+- Study design: Multicentre retrospective observational study
+- Notes: The study is primarily an association study of factors predicting access type; secondary outcomes at 3 months are exploratory and the abstract notes that data on mortality, patency, and infection were unavailable.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Incident end-stage renal disease patients starting haemodialysis
+- Intervention: Permanent vascular access (arteriovenous fistula or graft) at dialysis initiation
+- Outcome: Predictors of initial access type and subsequent clinical outcomes (including dialysis adequacy, patency, and mortality)
+- Why widened: Broadened population to all incident HD patients regardless of geography. Broadened intervention to include all permanent access types (AVF/AVG) as they represent the same clinical goal of avoiding CVCs. Broadened outcomes to include standard dialysis metrics like patency and mortality which are clinically relevant to the choice of initial access.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~13 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~13
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Incident+haemodialysis+patients+in+Taizhou%2C+China+Initial+vascular+access+via+arteriovenous+fistula+%28AVF%29+Factors+associated+with+initial+AVF+use+%28haemoglobin%2C+albumin%2C+calcium%2C+CRP%29+and+biochemical%2Fclinical+status+at+3+months
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Incident+haemodialysis+patients+in+Taizhou%2C+China+Initial+vascular+access+via+arteriovenous+fistula+%28AVF%29+Factors+associated+with+initial+AVF+use+%28haemoglobin%2C+albumin%2C+calcium%2C+CRP%29+and+biochemical%2Fclinical+status+at+3+months+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22incident+haemodialysis%22%29+AND+%28%22arteriovenous+fistula%22%29+AND+%28%22central+venous+catheter%22%29+AND+%28%22initial+access%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Renal+Dialysis%22%5BMeSH%5D%29+AND+%28%22Arteriovenous+Fistula%22%5BMeSH%5D+OR+%22Vascular+Access+Devices%22%5BMeSH%5D%29+AND+%28%22initial+access%22+OR+%22first+access%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Sarcopenia in Indian adults with type 2 diabetes: a systematic review and meta-analysis of prevalence and associated factors.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810793/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Indian adults (≥18 years) with type 2 diabetes mellitus (T2DM)
+- Intervention: Sarcopenia (diagnosed by Asian Working Group for Sarcopenia [AWGS] criteria)
+- Comparator: unclear
+- Outcome: Pooled prevalence of sarcopenia phenotypes and associated factors
+- Study design: Systematic review and meta-analysis of cross-sectional studies
+- Notes: As a prevalence meta-analysis, there is no experimental intervention or control group. The 'intervention' field here refers to the condition being measured.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with type 2 diabetes mellitus
+- Intervention: Sarcopenia (any standardized diagnostic criteria)
+- Outcome: Prevalence of sarcopenia and associated risk factors
+- Why widened: The population was widened from Indian adults to all adults with T2DM to allow for global or regional comparisons. The intervention (condition) was widened from AWGS-specific criteria to any standardized diagnostic criteria (such as EWGSOP or FNIH) to include studies using different international consensus definitions.
+
+**Signal:** WORTH A CLOSER LOOK: ~43 on the narrow PICO, ~1158 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~43
+- Broadened PICO pool: ~1158
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Indian+adults+%28%E2%89%A518+years%29+with+type+2+diabetes+mellitus+%28T2DM%29+Sarcopenia+%28diagnosed+by+Asian+Working+Group+for+Sarcopenia+%5BAWGS%5D+criteria%29+Pooled+prevalence+of+sarcopenia+phenotypes+and+associated+factors
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Indian+adults+%28%E2%89%A518+years%29+with+type+2+diabetes+mellitus+%28T2DM%29+Sarcopenia+%28diagnosed+by+Asian+Working+Group+for+Sarcopenia+%5BAWGS%5D+criteria%29+Pooled+prevalence+of+sarcopenia+phenotypes+and+associated+factors+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sarcopenia%22%5BMesh%5D+OR+sarcopenia%29+AND+%28%22Diabetes+Mellitus%2C+Type+2%22%5BMesh%5D+OR+%22type+2+diabetes%22%29+AND+India
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Sarcopenia%22%5BMesh%5D+OR+sarcopenia%29+AND+%28%22Diabetes+Mellitus%2C+Type+2%22%5BMesh%5D+OR+%22type+2+diabetes%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## One-stage versus two-stage video-assisted thoracic surgery for synchronous bilateral pulmonary nodules: protocol for a prospective, multicentre, randomised controlled clinical trial in China (OTVATS-2).
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810792/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with synchronous bilateral pulmonary nodules
+- Intervention: One-stage video-assisted thoracic surgery (VATS)
+- Comparator: Two-stage video-assisted thoracic surgery (VATS)
+- Outcome: Perioperative complication rate within 30 days
+- Study design: Prospective, multicentre, randomised controlled clinical trial
+- Notes: The abstract is a study protocol for a trial starting in 2025; specific surgical extent (e.g., wedge resection vs. lobectomy) and nodule characteristics (e.g., size, solid vs. subsolid) are not detailed.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with synchronous bilateral pulmonary lesions or suspected multiple primary lung cancers
+- Intervention: One-stage (simultaneous) surgical resection (including VATS and RATS)
+- Outcome: Perioperative morbidity and long-term survival (Overall Survival/Disease-Free Survival)
+- Why widened: Broadened VATS to include other minimally invasive surgical resections (like RATS) to account for technological variations. Broadened the primary outcome to include both short-term morbidity and long-term survival to capture the full clinical impact of the staging strategy across similar studies.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~14 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~14
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+synchronous+bilateral+pulmonary+nodules+One-stage+video-assisted+thoracic+surgery+%28VATS%29+Perioperative+complication+rate+within+30+days
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+synchronous+bilateral+pulmonary+nodules+One-stage+video-assisted+thoracic+surgery+%28VATS%29+Perioperative+complication+rate+within+30+days+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22one-stage%22+OR+%22simultaneous%22%29+AND+%28%22two-stage%22+OR+%22staged%22%29+AND+%22VATS%22+AND+%22bilateral+pulmonary+nodules%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22one-stage%22+OR+%22simultaneous%22%29+AND+%28%22two-stage%22+OR+%22staged%22%29+AND+%28%22thoracic+surgery%22%5BMeSH%5D+OR+%22VATS%22+OR+%22resection%22%29+AND+%22bilateral%22+AND+%28%22lung+nodules%22+OR+%22lung+neoplasms%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effectiveness of non-pharmacological therapies for poststroke aphasia: a protocol of a systematic review and network meta-analysis.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810790/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Understanding the impact of perineal reconstruction after extended margin cancer surgery on longer-term quality of life, morbidity and health economic outcomes: protocol for the UK REMACS observational cohort study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810789/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with advanced or recurrent pelvic cancers undergoing extended margin cancer surgery (EMCS)
+- Intervention: Perineal reconstruction using myocutaneous flaps
+- Comparator: Perineal reconstruction using biological meshes
+- Outcome: 12-month Quality of Life (EORTC-QLQ-C30 global health score), surgical complications (Clavien-Dindo), and health economic outcomes
+- Study design: Multi-centre observational cohort study
+- Notes: The abstract describes a study protocol (REMACS) rather than completed results. The primary comparison is specified as flap versus mesh reconstruction.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients undergoing major pelvic resection (e.g., pelvic exenteration or EMCS) for pelvic malignancies
+- Intervention: Myocutaneous flap reconstruction of the perineal/pelvic floor defect
+- Outcome: Postoperative quality of life and surgical site complications (e.g., wound breakdown, abscess, or empty pelvis syndrome)
+- Why widened: Widened 'extended margin cancer surgery' to include 'pelvic exenteration' as both result in the 'empty pelvis syndrome' described. Generalized specific QoL instruments to 'postoperative quality of life' to allow for pooling with studies using different validated scales.
+
+**Signal:** WORTH A CLOSER LOOK: ~3 on the narrow PICO, ~32 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~3
+- Broadened PICO pool: ~32
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+advanced+or+recurrent+pelvic+cancers+undergoing+extended+margin+cancer+surgery+%28EMCS%29+Perineal+reconstruction+using+myocutaneous+flaps+12-month+Quality+of+Life+%28EORTC-QLQ-C30+global+health+score%29%2C+surgical+complications+%28Clavien-Dindo%29%2C+and+health+economic+outcomes
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+advanced+or+recurrent+pelvic+cancers+undergoing+extended+margin+cancer+surgery+%28EMCS%29+Perineal+reconstruction+using+myocutaneous+flaps+12-month+Quality+of+Life+%28EORTC-QLQ-C30+global+health+score%29%2C+surgical+complications+%28Clavien-Dindo%29%2C+and+health+economic+outcomes+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22extended+margin+cancer+surgery%22+OR+%22EMCS%22%29+AND+%22perineal+reconstruction%22+AND+%28%22flap%22+OR+%22mesh%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22pelvic+exenteration%22+OR+%22extended+margin+cancer+surgery%22%29+AND+%22perineal+reconstruction%22+AND+%28%22Surgical+Flaps%22%5BMeSH%5D+OR+%22Surgical+Mesh%22%5BMeSH%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Exploring UK breastmilk donors' perspectives on breastfeeding as a protective factor against breast cancer: a qualitative study.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810788/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: UK breastmilk donors recruited from the Hearts Milk Bank
+- Intervention: Awareness and perspectives on breastfeeding as a protective factor against breast cancer
+- Comparator: none
+- Outcome: Qualitative themes regarding awareness gaps, risk perception, and preferences for maternal-focused health communication
+- Study design: Qualitative study (semistructured interviews and reflexive thematic analysis)
+- Notes: This is a qualitative descriptive study, so there is no clinical intervention or control group in the traditional sense.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Breastfeeding women
+- Intervention: Health communication regarding maternal health benefits of breastfeeding
+- Outcome: Awareness, knowledge, and attitudes toward maternal health benefits of breastfeeding
+- Why widened: Population was widened from 'milk bank donors' to 'breastfeeding women' because the authors explicitly state their findings have implications for the general breastfeeding population. The intervention was widened from 'breast cancer risk' to 'maternal health benefits' to encompass the broader category of postnatal health messaging discussed in the study.
+
+**Signal:** PROBABLY TOO THIN: only ~0 studies even on the broadened PICO. Likely not enough for meaningful pooling yet.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~0
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=UK+breastmilk+donors+recruited+from+the+Hearts+Milk+Bank+Awareness+and+perspectives+on+breastfeeding+as+a+protective+factor+against+breast+cancer+Qualitative+themes+regarding+awareness+gaps%2C+risk+perception%2C+and+preferences+for+maternal-focused+health+communication
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=UK+breastmilk+donors+recruited+from+the+Hearts+Milk+Bank+Awareness+and+perspectives+on+breastfeeding+as+a+protective+factor+against+breast+cancer+Qualitative+themes+regarding+awareness+gaps%2C+risk+perception%2C+and+preferences+for+maternal-focused+health+communication+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Milk+Banks%22%5BMesh%5D+OR+%22milk+donors%22%29+AND+%22Breast+Neoplasms%22%5BMesh%5D+AND+%22Qualitative+Research%22%5BMesh%5D
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Breast+Feeding%22%5BMesh%5D+OR+%22Lactation%22%5BMesh%5D%29+AND+%22Health+Communication%22%5BMesh%5D+AND+%22Maternal+Health%22%5BMesh%5D+AND+%22Qualitative+Research%22%5BMesh%5D
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Cohort profile update: the Finnish Genetics of Pre-eclampsia Consortium (FINNPEC).
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810786/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Women with a history of pre-eclampsia (8-12 years postpartum) and their families (partners and infants)
+- Intervention: 12-month lifestyle intervention
+- Comparator: Control families (standard care or no intervention)
+- Outcome: Mitigation of cardiovascular disease (CVD) risk
+- Study design: Randomized controlled trial (within a longitudinal subgroup of a larger cohort)
+- Notes: The abstract describes the FINNCARE study as a subgroup RCT within the larger FINNPEC cohort. Specific components of the lifestyle intervention and the exact metrics for CVD risk are not detailed in the abstract.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Women with a history of hypertensive disorders of pregnancy and their families
+- Intervention: Lifestyle interventions (including diet, exercise, or behavioral counseling)
+- Outcome: Cardiovascular health outcomes and risk factor modification
+- Why widened: Broadened 'pre-eclampsia' to 'hypertensive disorders of pregnancy' as these conditions share similar long-term cardiovascular risk profiles. Generalized the specific '12-month lifestyle intervention' to all lifestyle-based strategies to allow for variations in duration and content. Expanded 'CVD risk' to 'cardiovascular health outcomes' to include both clinical events and surrogate markers like blood pressure or lipid levels.
+
+**Signal:** WORTH A CLOSER LOOK: ~7 on the narrow PICO, ~125 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~7
+- Broadened PICO pool: ~125
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Women+with+a+history+of+pre-eclampsia+%288-12+years+postpartum%29+and+their+families+%28partners+and+infants%29+12-month+lifestyle+intervention+Mitigation+of+cardiovascular+disease+%28CVD%29+risk
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Women+with+a+history+of+pre-eclampsia+%288-12+years+postpartum%29+and+their+families+%28partners+and+infants%29+12-month+lifestyle+intervention+Mitigation+of+cardiovascular+disease+%28CVD%29+risk+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Pre-eclampsia%22%5BMesh%5D%29+AND+%22lifestyle+intervention%22+AND+%22cardiovascular+disease%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Hypertension%2C+Pregnancy-Induced%22%5BMesh%5D%29+AND+%28%22Life+Style%22%5BMesh%5D+OR+%22Healthy+Lifestyle%22%29+AND+%28%22Cardiovascular+Diseases%22%5BMesh%5D+OR+%22Risk+Factors%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Single-arm, multicentre phase II trial of sintilimab plus platinum-based doublet chemotherapy followed by adaptive radiotherapy strategy for patients with unresectable stage III non-small-cell lung cancer in China: the ART-LUNG 01 study protocol.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810785/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients in China with histologically or cytologically confirmed unresectable stage III non-small-cell lung cancer (NSCLC), without sensitising mutations, and ECOG performance status 0-1
+- Intervention: Induction sintilimab (200 mg) plus platinum-based doublet chemotherapy (2 cycles), followed by definitive concurrent chemoradiotherapy (cCRT) with adaptive radiotherapy (V20 ≤20%) and two additional cycles of sintilimab/chemotherapy, followed by consolidation sintilimab for up to 1 year
+- Comparator: unclear
+- Outcome: Efficacy and safety (specific primary endpoint not stated in abstract)
+- Study design: Prospective, multicentre, single-arm phase II trial
+- Notes: The abstract does not explicitly name the primary endpoint (e.g., PFS or OS), only stating 'efficacy and safety'. As a single-arm trial, there is no active comparator group.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with unresectable stage III non-small-cell lung cancer (NSCLC)
+- Intervention: PD-1/PD-L1 inhibitors combined with platinum-based chemotherapy and radiotherapy (including induction and consolidation phases)
+- Outcome: Survival outcomes (PFS, OS) and treatment-related toxicity
+- Why widened: Widened sintilimab to the broader class of PD-1/PD-L1 inhibitors as several agents are used in this clinical space. Removed geographic (China) and specific mutation constraints to reflect the general unresectable stage III NSCLC population. Generalized the specific adaptive radiotherapy protocol to radiotherapy to allow for pooling with other concurrent/consolidation strategies.
+
+**Signal:** WORTH A CLOSER LOOK: ~2 on the narrow PICO, ~5 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~2
+- Broadened PICO pool: ~5
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+in+China+with+histologically+or+cytologically+confirmed+unresectable+stage+III+non-small-cell+lung+cancer+%28NSCLC%29%2C+without+sensitising+mutations%2C+and+ECOG+performance+status+0-1+Induction+sintilimab+%28200+mg%29+plus+platinum-based+doublet+chemotherapy+%282+cycles%29%2C+followed+by+definitive+concurrent+chemoradiotherapy+%28cCRT%29+with+adaptive+radiotherapy+%28V20+%E2%89%A420%25%29+and+two+additional+cycles+of+sintilimab%2Fchemotherapy%2C+followed+by+consolidation+sintilimab+for+up+to+1+year+Efficacy+and+safety+%28specific+primary+endpoint+not+stated+in+abstract%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+in+China+with+histologically+or+cytologically+confirmed+unresectable+stage+III+non-small-cell+lung+cancer+%28NSCLC%29%2C+without+sensitising+mutations%2C+and+ECOG+performance+status+0-1+Induction+sintilimab+%28200+mg%29+plus+platinum-based+doublet+chemotherapy+%282+cycles%29%2C+followed+by+definitive+concurrent+chemoradiotherapy+%28cCRT%29+with+adaptive+radiotherapy+%28V20+%E2%89%A420%25%29+and+two+additional+cycles+of+sintilimab%2Fchemotherapy%2C+followed+by+consolidation+sintilimab+for+up+to+1+year+Efficacy+and+safety+%28specific+primary+endpoint+not+stated+in+abstract%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=sintilimab+AND+%22adaptive+radiotherapy%22+AND+%22stage+III%22+AND+NSCLC
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Programmed+Cell+Death+1+Receptor%2Fantagonists+and+inhibitors%22%5BMesh%5D+OR+%22PD-1+inhibitor%22%29+AND+%22Carcinoma%2C+Non-Small-Cell+Lung%22%5BMesh%5D+AND+%22Radiotherapy%22%5BMesh%5D+AND+unresectable
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Effects of Virtual Reality on PostOperative WEllbeing and recovery (POWER of VR) in children and adolescents undergoing major surgery: study protocol for a prospective, multicentre randomised controlled trial.
+**Journal:** BMJ Open  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810784/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: children and adolescents aged 6-18 undergoing major surgery with expected moderate to severe postoperative pain
+- Intervention: Virtual reality (VR) intervention plus care as usual (CAU) during the first 3 days postoperatively
+- Comparator: Care as usual (CAU) alone
+- Outcome: Rate of change in postoperative pain scores (Numeric Rating Scale Pain) during the first 3 days postoperatively
+- Study design: Multicentre, prospective, unblinded randomised controlled trial
+- Notes: The abstract does not specify the exact types of 'major surgery' included, though it notes they are performed in tertiary academic children's hospitals.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Pediatric patients (children and adolescents) undergoing surgery
+- Intervention: Virtual reality (VR) as an adjunct to standard postoperative care
+- Outcome: Postoperative pain intensity and analgesic consumption
+- Why widened: Broadened 'major surgery' to any surgery to allow for pooling across different surgical types in pediatrics; removed the specific 3-day intervention window to include various VR protocols; widened the specific NRS rate-of-change outcome to general postoperative pain and opioid use which are standard across trials.
+
+**Signal:** WORTH A CLOSER LOOK: ~1 on the narrow PICO, ~28 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~1
+- Broadened PICO pool: ~28
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=children+and+adolescents+aged+6-18+undergoing+major+surgery+with+expected+moderate+to+severe+postoperative+pain+Virtual+reality+%28VR%29+intervention+plus+care+as+usual+%28CAU%29+during+the+first+3+days+postoperatively+Rate+of+change+in+postoperative+pain+scores+%28Numeric+Rating+Scale+Pain%29+during+the+first+3+days+postoperatively
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=children+and+adolescents+aged+6-18+undergoing+major+surgery+with+expected+moderate+to+severe+postoperative+pain+Virtual+reality+%28VR%29+intervention+plus+care+as+usual+%28CAU%29+during+the+first+3+days+postoperatively+Rate+of+change+in+postoperative+pain+scores+%28Numeric+Rating+Scale+Pain%29+during+the+first+3+days+postoperatively+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Virtual+Reality%22%5BMeSH%5D+OR+%22Virtual+Reality%22%29+AND+%22Postoperative+Pain%22%5BMeSH%5D+AND+%28%22Child%22%5BMeSH%5D+OR+%22Adolescent%22%5BMeSH%5D%29+AND+%22major+surgery%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Virtual+Reality%22%5BMeSH%5D%29+AND+%28%22Postoperative+Pain%22%5BMeSH%5D+OR+%22Pain%2C+Postoperative%22%29+AND+%28%22Pediatrics%22%5BMeSH%5D+OR+%22Child%22+OR+%22Adolescent%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Hypothermic oxygenated and normothermic machine perfusion mitigate innate systemic and hepatic inflammation after liver transplantation.
+**Journal:** Gut  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810848/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Recipients of extended criteria donor (ECD) livers from brain-dead donors
+- Intervention: End-ischaemic hypothermic oxygenated machine perfusion (HOPE) or end-ischaemic normothermic machine perfusion (NMP)
+- Comparator: Static cold storage (SCS)
+- Outcome: Hepatic and systemic immune responses, specifically neutrophil infiltration, myeloid cell phenotypic modulation, and peripheral lymphocyte kinetics
+- Study design: Randomized controlled trial (mechanistic substudy)
+- Notes: The abstract provides clear details on the population, intervention arms, and the randomized nature of the study. Outcomes are focused on immunological mechanisms rather than long-term clinical survival.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Liver transplant recipients
+- Intervention: Ex vivo machine perfusion
+- Outcome: Ischaemia-reperfusion injury and post-transplant inflammatory response
+- Why widened: The population was broadened from specific donor types (ECD/brain-dead) to all liver transplant recipients. The interventions (HOPE/NMP) were grouped under the general class of machine perfusion. Specific immunological markers were broadened to the clinical concept of ischemia-reperfusion injury and general inflammation to allow for meta-analysis with studies using different biomarkers.
+
+**Signal:** WORTH A CLOSER LOOK: ~17 on the narrow PICO, ~23 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~17
+- Broadened PICO pool: ~23
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Recipients+of+extended+criteria+donor+%28ECD%29+livers+from+brain-dead+donors+End-ischaemic+hypothermic+oxygenated+machine+perfusion+%28HOPE%29+or+end-ischaemic+normothermic+machine+perfusion+%28NMP%29+Hepatic+and+systemic+immune+responses%2C+specifically+neutrophil+infiltration%2C+myeloid+cell+phenotypic+modulation%2C+and+peripheral+lymphocyte+kinetics
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Recipients+of+extended+criteria+donor+%28ECD%29+livers+from+brain-dead+donors+End-ischaemic+hypothermic+oxygenated+machine+perfusion+%28HOPE%29+or+end-ischaemic+normothermic+machine+perfusion+%28NMP%29+Hepatic+and+systemic+immune+responses%2C+specifically+neutrophil+infiltration%2C+myeloid+cell+phenotypic+modulation%2C+and+peripheral+lymphocyte+kinetics+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Liver+Transplantation%22%5BMesh%5D%29+AND+%28%22Machine+Perfusion%22+OR+%22HOPE%22+OR+%22NMP%22%29+AND+%28%22Static+Cold+Storage%22%29+AND+%28%22Inflammation%22+OR+%22Neutrophils%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Liver+Transplantation%22%5BMesh%5D%29+AND+%28%22Perfusion%22%5BMesh%5D+OR+%22Machine+Perfusion%22%29+AND+%28%22Ischemia-Reperfusion+Injury%22%5BMesh%5D+OR+%22Inflammation%22%5BMesh%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
+
+## Glycemic and psychosocial outcomes of automated insulin delivery in older and high-risk populations with type 1 diabetes: a systematic review and meta-analysis.
+**Journal:** Journal of Clinical Endocrinology & Metabolism  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810730/  
+**Published:** Sep 2026
+
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
+
+---
+
+## Petrelintide, a human amylin analogue for the treatment of obesity (ZUPREME 1): a randomised, double-blind, placebo-controlled, phase 2 trial.
+**Journal:** The Lancet Diabetes & Endocrinology  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42810355/  
+**Published:** Sep 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Adults (aged >= 18 years) without type 2 diabetes with a BMI of at least 30 kg/m²
+- Intervention: Once-weekly petrelintide (doses 1.0 mg, 2.5 mg, 5.0 mg, 7.0 mg, or 9.0 mg)
+- Comparator: Placebo
+- Outcome: Weight reduction and safety/tolerability (specifically gastrointestinal tolerability)
+- Study design: Multicentre, randomised, double-blind, placebo-controlled, phase 2 trial
+- Notes: The abstract states weight reduction was 'clinically meaningful' but does not provide the specific numerical primary endpoint results (e.g., mean percentage change) or the specific duration of the follow-up in the text provided.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Adults with obesity or overweight
+- Intervention: Long-acting amylin analogues
+- Outcome: Change in body weight and incidence of adverse events
+- Why widened: The intervention was widened from a specific drug (petrelintide) to the drug class (amylin analogues) to allow for potential pooling with similar agents like cagrilintide. The population was widened to include overweight individuals (BMI >= 25 or 27) to match standard obesity trial inclusion criteria. Outcomes were generalized to standard weight change and safety metrics.
+
+**Signal:** WORTH A CLOSER LOOK: ~8 on the narrow PICO, ~42 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~8
+- Broadened PICO pool: ~42
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+%28aged+%3E%3D+18+years%29+without+type+2+diabetes+with+a+BMI+of+at+least+30+kg%2Fm%C2%B2+Once-weekly+petrelintide+%28doses+1.0+mg%2C+2.5+mg%2C+5.0+mg%2C+7.0+mg%2C+or+9.0+mg%29+Weight+reduction+and+safety%2Ftolerability+%28specifically+gastrointestinal+tolerability%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+%28aged+%3E%3D+18+years%29+without+type+2+diabetes+with+a+BMI+of+at+least+30+kg%2Fm%C2%B2+Once-weekly+petrelintide+%28doses+1.0+mg%2C+2.5+mg%2C+5.0+mg%2C+7.0+mg%2C+or+9.0+mg%29+Weight+reduction+and+safety%2Ftolerability+%28specifically+gastrointestinal+tolerability%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=petrelintide+AND+obesity
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22amylin+receptor+agonists%22%5BMeSH+Terms%5D+OR+%22amylin+analogues%22%29+AND+%28%22obesity%22%5BMeSH+Terms%5D+OR+%22overweight%22%5BMeSH+Terms%5D%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
