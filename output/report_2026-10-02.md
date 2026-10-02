@@ -174,7 +174,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 78 new systematic review/meta-analysis published in your journals
+## ⚠ 80 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -189,6 +189,8 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Meta-analysis of PAX1/JAM3 methylation performance in high-risk HPV-positive women.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42760652/
 - **Correlation between MMP-3-1171 5A/6A polymorphism and the risk of Alzheimer's disease: A meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42742624/
 - **Incidence and risk factors for lower-extremity deep vein thrombosis in postoperative patients with spontaneous intracerebral hemorrhage: A systematic review and meta-analysis.** -- Medicine (Baltimore), Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42736741/
+- **Factors influencing access to green health prescribing in primary care for older adults - a qualitative systematic review.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823709/
+- **Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.** -- BMC Medicine, Oct 2026 -- https://pubmed.ncbi.nlm.nih.gov/42823701/
 - **The effectiveness of digital therapeutics in improving sleep quality: a systematic review and network meta-analysis.** -- BMC Medicine, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42806363/
 - **Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42821532/
 - **Deep learning for cardiac CT segmentation for congenital heart disease: A systematic review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42809584/
@@ -258,436 +260,85 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 
 
-30 new RCT-type article(s) found.
+3 new RCT-type article(s) found.
 
-## Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes.
-**Journal:** New England Journal of Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42820639/  
+## The Diagnostic Yield of Whole-Body MRI as a Multi-disease Screening Modality: A Systematic Review and Meta-analysis.
+**Journal:** Journal of General Internal Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823587/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Adults with type 2 diabetes and a body-mass index (BMI) of 27 or more
-- Intervention: Once-weekly subcutaneous survodutide (3.6 mg or 6.0 mg)
-- Comparator: Placebo once weekly
-- Outcome: Percent change in body weight and reduction in body weight of at least 5% from baseline to week 76
-- Study design: Multinational, double-blind, phase 3 randomized controlled trial
-- Notes: The abstract provides specific doses, population criteria, and primary endpoints clearly.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults with type 2 diabetes and overweight or obesity
-- Intervention: Glucagon receptor and GLP-1 receptor dual agonists
-- Outcome: Weight loss and glycemic control
-- Why widened: Broadened the specific drug (survodutide) to its pharmacological class (Glucagon/GLP-1 dual agonists) and expanded the outcome from a specific 76-week timepoint to general weight and glycemic metrics to facilitate meta-analysis across similar agents and trial durations.
-
-**Signal:** WORTH A CLOSER LOOK: ~28 on the narrow PICO, ~82 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~28
-- Broadened PICO pool: ~82
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Adults+with+type+2+diabetes+and+a+body-mass+index+%28BMI%29+of+27+or+more+Once-weekly+subcutaneous+survodutide+%283.6+mg+or+6.0+mg%29+Percent+change+in+body+weight+and+reduction+in+body+weight+of+at+least+5%25+from+baseline+to+week+76
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Adults+with+type+2+diabetes+and+a+body-mass+index+%28BMI%29+of+27+or+more+Once-weekly+subcutaneous+survodutide+%283.6+mg+or+6.0+mg%29+Percent+change+in+body+weight+and+reduction+in+body+weight+of+at+least+5%25+from+baseline+to+week+76+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=survodutide+AND+%28obesity+OR+overweight%29+AND+%22diabetes+mellitus%2C+type+2%22
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22glucagon+receptor%22+AND+%22glucagon-like+peptide-1+receptor%22%29+AND+agonists+AND+%28obesity+OR+overweight%29+AND+%22diabetes+mellitus%2C+type+2%22
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Increased Rates of Hip Fractures Associated With Longer Spaceflight Durations.
-**Journal:** Mayo Clinic Proceedings  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42820897/  
-**Published:** Oct 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Astronauts
-- Intervention: Long-duration spaceflight (LD-SF), defined as missions greater than 90 days
-- Comparator: Non-long-duration spaceflight (non-LD-SF) or no spaceflight exposure
-- Outcome: Incidence rate of hip fractures
-- Study design: Retrospective cohort study (survey-based analysis with count regression modeling)
-- Notes: The abstract clearly defines the exposure threshold (90 days) and the specific outcome (hip fractures). Surveillance period for the survey was 2018-2022.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Space travelers (including astronauts and cosmonauts)
-- Intervention: Spaceflight exposure (microgravity)
-- Outcome: Fragility fractures or skeletal injuries
-- Why widened: Population widened from 'Astronauts' to 'Space travelers' to include international/commercial equivalents. Intervention widened from a specific duration (>90 days) to any spaceflight exposure to capture dose-response data. Outcome widened from 'hip fractures' to 'fragility fractures' to include other skeletal sites affected by bone mineral density loss in microgravity.
-
-**Signal:** WORTH A CLOSER LOOK: ~0 on the narrow PICO, ~202 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~0
-- Broadened PICO pool: ~202
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Astronauts+Long-duration+spaceflight+%28LD-SF%29%2C+defined+as+missions+greater+than+90+days+Incidence+rate+of+hip+fractures
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Astronauts+Long-duration+spaceflight+%28LD-SF%29%2C+defined+as+missions+greater+than+90+days+Incidence+rate+of+hip+fractures+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Astronauts%22%5BMeSH%5D%29+AND+%28%22Space+Flight%22%5BMeSH%5D%29+AND+%28%22Hip+Fractures%22%5BMeSH%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Astronauts%22%5BMeSH%5D+OR+%22Space+Flight%22%5BMeSH%5D%29+AND+%28%22Fractures%2C+Bone%22%5BMeSH%5D+OR+%22Bone+Density%22%5BMeSH%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Timing of Do-Not-Resuscitate Order Establishment Varies by Illness Trajectory and Clinical Context in Children Receiving Palliative Care: A Retrospective Cohort Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42820092/  
-**Published:** Aug 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Children receiving hospital-based pediatric palliative care (PPC) consultation at a quaternary children's hospital.
-- Intervention: Pediatric palliative care (PPC) consultation.
+- Population: individuals without an evidence-based indication for whole-body magnetic resonance imaging (WBMRI)
+- Intervention: Whole-body magnetic resonance imaging (WBMRI)
 - Comparator: unclear
-- Outcome: Time from first PPC consultation to formal Do-Not-Resuscitate (DNR) order establishment.
-- Study design: Retrospective cohort study
-- Notes: The study is a retrospective observational cohort focusing on factors associated with the timing of an event rather than a comparative intervention study.
+- Outcome: pooled proportions of individuals with no clinical findings, any clinical finding, non-malignant actionable findings requiring subsequent diagnostic workup, and new cancer diagnoses
+- Study design: Systematic review and meta-analysis of heterogeneous studies
+- Notes: The abstract does not explicitly state a comparator group (e.g., no screening or standard care). The population is defined by the absence of an indication rather than specific demographic characteristics.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Pediatric patients with life-limiting or life-threatening illnesses.
-- Intervention: Palliative care services or end-of-life care consultation.
-- Outcome: Timing of advance care planning or medical orders for life-sustaining treatment (e.g., DNR, DNI).
-- Why widened: The population was widened from those specifically receiving a consultation to the general clinical group of children with life-limiting conditions. The intervention was widened to include general palliative services. The outcome was broadened from DNR orders to the family of advance care planning/orders to capture similar clinical decision-making milestones.
+- Population: Asymptomatic adults or general population undergoing health screening
+- Intervention: Whole-body MRI screening
+- Outcome: Diagnostic yield, incidental findings, and downstream clinical utility (follow-up tests and procedures)
+- Why widened: The population was broadened from 'no evidence-based indication' to 'asymptomatic health screening' to reflect the clinical intent. Outcomes were grouped into the broader categories of diagnostic yield and clinical utility to allow for inclusion of studies focusing on cost-effectiveness or psychological impact of screening.
 
-**Signal:** WORTH A CLOSER LOOK: ~2 on the narrow PICO, ~484 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~4 on the narrow PICO, ~162 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~2
-- Broadened PICO pool: ~484
+- Narrow PICO pool: ~4
+- Broadened PICO pool: ~162
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+receiving+hospital-based+pediatric+palliative+care+%28PPC%29+consultation+at+a+quaternary+children%27s+hospital.+Pediatric+palliative+care+%28PPC%29+consultation.+Time+from+first+PPC+consultation+to+formal+Do-Not-Resuscitate+%28DNR%29+order+establishment.
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+receiving+hospital-based+pediatric+palliative+care+%28PPC%29+consultation+at+a+quaternary+children%27s+hospital.+Pediatric+palliative+care+%28PPC%29+consultation.+Time+from+first+PPC+consultation+to+formal+Do-Not-Resuscitate+%28DNR%29+order+establishment.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Palliative+Care%22%5BMeSH%5D%29+AND+%28%22Resuscitation+Orders%22%5BMeSH%5D%29+AND+%28%22Pediatrics%22%5BMeSH%5D%29+AND+timing
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Palliative+Care%22%5BMeSH%5D+OR+%22Terminal+Care%22%5BMeSH%5D%29+AND+%28%22Advance+Care+Planning%22%5BMeSH%5D+OR+%22Resuscitation+Orders%22%5BMeSH%5D%29+AND+%28%22Pediatrics%22%5BMeSH%5D+OR+%22Child%22%5BMeSH%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=individuals+without+an+evidence-based+indication+for+whole-body+magnetic+resonance+imaging+%28WBMRI%29+Whole-body+magnetic+resonance+imaging+%28WBMRI%29+pooled+proportions+of+individuals+with+no+clinical+findings%2C+any+clinical+finding%2C+non-malignant+actionable+findings+requiring+subsequent+diagnostic+workup%2C+and+new+cancer+diagnoses
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=individuals+without+an+evidence-based+indication+for+whole-body+magnetic+resonance+imaging+%28WBMRI%29+Whole-body+magnetic+resonance+imaging+%28WBMRI%29+pooled+proportions+of+individuals+with+no+clinical+findings%2C+any+clinical+finding%2C+non-malignant+actionable+findings+requiring+subsequent+diagnostic+workup%2C+and+new+cancer+diagnoses+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Whole+Body+Imaging%22%5BMesh%5D+OR+%22whole-body+MRI%22%29+AND+%22screening%22+AND+%22diagnostic+yield%22
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Whole+Body+Imaging%22%5BMesh%5D+OR+%22Magnetic+Resonance+Imaging%22%5BMesh%5D%29+AND+%28%22Mass+Screening%22%5BMesh%5D+OR+%22screening%22%29+AND+%28%22Incidental+Findings%22%5BMesh%5D+OR+%22diagnostic+yield%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Comparative Evaluation of the Effectiveness of At-Home Dental Bleaching Using Different Concentrations of Carbamide Peroxide for Different Time Intervals: A Randomized Clinical Trial.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42820088/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## From Ion to Iron: A Focused Narrative Literature Review of Magnesium Supplementation for Muscle Strength and Recovery.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42820058/  
-**Published:** Aug 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Physically active individuals and athletes
-- Intervention: Magnesium supplementation
-- Comparator: Placebo or lower dietary magnesium intake
-- Outcome: Muscle strength, exercise performance (VO2max, sprint power), muscle recovery (soreness, markers of damage), body composition, and inflammatory markers (hs-CRP, TNF-alpha, IL-6)
-- Study design: Narrative literature review of randomized controlled trials and observational studies
-- Notes: The abstract summarizes a review of 10 studies; specific demographics like age, sex, and baseline fitness of the participants in the primary studies are not explicitly detailed.
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Adults
-- Intervention: Magnesium intake (supplemental or dietary)
-- Outcome: Musculoskeletal health, physical performance, and systemic inflammatory status
-- Why widened: Population was broadened from athletes to all adults to capture general muscle health and aging-related muscle mass findings mentioned in the observational studies. Intervention was widened to include dietary intake to encompass the observational evidence. Outcomes were grouped into broader clinical families (musculoskeletal health and inflammation) to allow for meta-analytic pooling of diverse performance and biochemical metrics.
-
-**Signal:** WORTH A CLOSER LOOK: ~15 on the narrow PICO, ~44 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~15
-- Broadened PICO pool: ~44
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Physically+active+individuals+and+athletes+Magnesium+supplementation+Muscle+strength%2C+exercise+performance+%28VO2max%2C+sprint+power%29%2C+muscle+recovery+%28soreness%2C+markers+of+damage%29%2C+body+composition%2C+and+inflammatory+markers+%28hs-CRP%2C+TNF-alpha%2C+IL-6%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Physically+active+individuals+and+athletes+Magnesium+supplementation+Muscle+strength%2C+exercise+performance+%28VO2max%2C+sprint+power%29%2C+muscle+recovery+%28soreness%2C+markers+of+damage%29%2C+body+composition%2C+and+inflammatory+markers+%28hs-CRP%2C+TNF-alpha%2C+IL-6%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22magnesium%22%5BMeSH+Terms%5D+OR+%22magnesium%22%5BTitle%5D%29+AND+%28%22muscle+strength%22%5BMeSH+Terms%5D+OR+%22muscle+recovery%22%5BTitle%5D%29+AND+%22dietary+supplements%22%5BMeSH+Terms%5D
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22magnesium%22%5BMeSH+Terms%5D%29+AND+%28%22muscle%2C+skeletal%22%5BMeSH+Terms%5D+OR+%22musculoskeletal+physiological+phenomena%22%5BMeSH+Terms%5D%29+AND+%28%22inflammation%22%5BMeSH+Terms%5D+OR+%22recovery+of+function%22%5BMeSH+Terms%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Peri-Extubation Dexamethasone to Prevent Post-extubation Airway Obstruction in Critically Ill Children: A Systematic Review of Randomized Trials Across Heterogeneous Populations, Regimens, and Outcomes.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42819975/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Pre-emptive Dexmedetomidine Versus Magnesium Sulfate for Postoperative Analgesia in Nasal Surgery: A Prospective Comparative Study.
-**Journal:** Cureus  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42819953/  
-**Published:** Aug 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Protocol for the REVELIO test-track pilot study: A randomised, controlled, single-centre trial in healthy recreational cannabis users investigating real-time in-vehicle detection of cannabis-impaired driving.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821661/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Predicting COVID-19 infection among older Syrian refugees in Lebanon: A multi-wave survey.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821604/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Enhancing neurodivergent student success through wellbeing: Protocol for a quasi-experimental evaluation of the Tuned In Connect program across three Australian universities.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821601/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Transcription factor activity divergence across muscle atrophy conditions: A comparative analysis of spaceflight, aging, and disuse using decoupleR.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821571/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Genomic and clinical determinants of response to Azacitidine plus venetoclax in acute myeloid leukemia: Results from the HM-SCREEN-Japan 02 study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821569/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Disease-first public-data integration with local virtual knockout prioritizes shared proteins linking osteoarthritis and osteoporosis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821566/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Long-term oncologic outcomes associated with clinically significant anastomotic leakage after curative colorectal cancer surgery: Stage- and location-stratified analyses.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821563/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Rehospitalization due to COVID-19 reinfection in Rio de Janeiro, 2020-2022: Associations with vaccination status, sociodemographic and clinical factors.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821558/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Cross-national and historical variation in relative age effects in professional football.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821552/  
-**Published:** 2026
-
-**Draft PICO (unverified -- confirm against abstract):**
-- Population: Male professional footballers (n=49,578) from 44 national systems across five birth cohorts (1985-2009)
-- Intervention: Birth date early in the selection year (Relative Age)
-- Comparator: Birth date late in the selection year
-- Outcome: Relative age effect (RAE) magnitude, measured as birth-quarter imbalances/gaps in representation
-- Study design: Cross-national and historical cohort analysis
-- Notes: This is a descriptive observational study of a phenomenon (RAE) rather than a clinical intervention. The 'intervention' is an exposure (birth timing).
-
-**Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Professional athletes
-- Intervention: Relative age (birth date relative to selection cutoff)
-- Outcome: Relative age effect (RAE) or selection bias
-- Why widened: Widened population from male footballers to all professional athletes to capture the broader sports science phenomenon. Widened outcome to general selection bias to encompass various metrics of RAE beyond birth-quarter gaps.
-
-**Signal:** WORTH A CLOSER LOOK: ~44 on the narrow PICO, ~196 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
-
-**Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~44
-- Broadened PICO pool: ~196
-- Existing reviews found: 0
-
-**Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Male+professional+footballers+%28n%3D49%2C578%29+from+44+national+systems+across+five+birth+cohorts+%281985-2009%29+Birth+date+early+in+the+selection+year+%28Relative+Age%29+Relative+age+effect+%28RAE%29+magnitude%2C+measured+as+birth-quarter+imbalances%2Fgaps+in+representation
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Male+professional+footballers+%28n%3D49%2C578%29+from+44+national+systems+across+five+birth+cohorts+%281985-2009%29+Birth+date+early+in+the+selection+year+%28Relative+Age%29+Relative+age+effect+%28RAE%29+magnitude%2C+measured+as+birth-quarter+imbalances%2Fgaps+in+representation+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Relative+age+effect%22%5BTitle%2FAbstract%5D%29+AND+%28%22football%22%5BTitle%2FAbstract%5D+OR+%22soccer%22%5BTitle%2FAbstract%5D%29+AND+%28%22professional%22%5BTitle%2FAbstract%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Relative+age+effect%22%5BTitle%2FAbstract%5D%29+AND+%28%22Sports%22%5BMeSH+Terms%5D+OR+%22Athletes%22%5BMeSH+Terms%5D%29
-
-_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
-
----
-
-## Distinct NGS mutational landscape and prognostic implications in early-onset colorectal cancer: A dual-cohort analysis of TCGA PanCancer Atlas and MSK-IMPACT 50K.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821536/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821532/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study.
-**Journal:** PLOS ONE  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821530/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Transcutaneous auricular vagus nerve stimulation after cesarean delivery: current evidence and trial design priorities.
-**Journal:** Frontiers in Medicine  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42819791/  
-**Published:** 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Relationship between positive psychological traits, perceived spousal support and head and neck cancer-specific health-related quality of life: a cross-sectional study in oncology treatment settings.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823118/  
+## Neuropsychiatric outcomes after montelukast versus inhaled corticosteroids in pediatric asthma: a pooled birth cohort study.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823762/  
 **Published:** Oct 2026
 
 **Draft PICO (unverified -- confirm against abstract):**
-- Population: Patients with head and neck cancer (HNC) in oncology treatment settings in Malaysia
-- Intervention: Positive psychological traits (optimism, posttraumatic growth, hope) and perceived spousal support
-- Comparator: unclear
-- Outcome: Head and neck cancer-specific health-related quality of life (measured by EORTC QLQ-HN35)
-- Study design: Cross-sectional study
-- Notes: The study is observational/correlational; there is no experimental intervention or control group. The 'intervention' fields represent psychological exposures/predictors.
+- Population: Children (aged 1 to <18 years) with a first incident diagnosis of asthma.
+- Intervention: Montelukast monotherapy as initial asthma controller therapy.
+- Comparator: Inhaled corticosteroids (ICS) monotherapy as initial asthma controller therapy.
+- Outcome: Neuropsychiatric events, specifically ADHD, sleep disorders, mood disorders, anxiety disorders, and oppositional defiant and conduct disorders.
+- Study design: Pooled analysis of two birth cohorts (observational cohort study).
+- Notes: The abstract is highly specific regarding the age range, medication status (monotherapy), and specific psychiatric diagnoses.
 
 **Broadened PICO (for pooling purposes -- sanity check this):**
-- Population: Patients with head and neck cancer
-- Intervention: Positive psychological factors and social support
-- Outcome: Health-related quality of life (HRQOL)
-- Why widened: Widened specific psychological traits (optimism, hope, PTG) to general positive psychological factors and spousal support to general social support. Broadened HNC-specific quality of life to general health-related quality of life to include studies using generic QOL instruments. Removed the geographic restriction (Malaysia) to capture the broader clinical population.
+- Population: Pediatric patients (under 18 years) with asthma.
+- Intervention: Leukotriene receptor antagonists (LTRAs).
+- Outcome: Neuropsychiatric adverse events.
+- Why widened: Widened montelukast to the drug class (LTRAs) to capture potential class effects; generalized the population from 'incident diagnosis' to all pediatric asthma patients; grouped specific psychiatric diagnoses into the broader category of neuropsychiatric adverse events to allow for pooling of various behavioral or mental health outcomes.
 
-**Signal:** WORTH A CLOSER LOOK: ~98 on the narrow PICO, ~420 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+**Signal:** WORTH A CLOSER LOOK: ~38 on the narrow PICO, ~14 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
 
 **Pool counts (keyword-based, not verified):**
-- Narrow PICO pool: ~98
-- Broadened PICO pool: ~420
+- Narrow PICO pool: ~38
+- Broadened PICO pool: ~14
 - Existing reviews found: 0
 
 **Before doing anything else, check:**
-- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+head+and+neck+cancer+%28HNC%29+in+oncology+treatment+settings+in+Malaysia+Positive+psychological+traits+%28optimism%2C+posttraumatic+growth%2C+hope%29+and+perceived+spousal+support+Head+and+neck+cancer-specific+health-related+quality+of+life+%28measured+by+EORTC+QLQ-HN35%29
-- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+head+and+neck+cancer+%28HNC%29+in+oncology+treatment+settings+in+Malaysia+Positive+psychological+traits+%28optimism%2C+posttraumatic+growth%2C+hope%29+and+perceived+spousal+support+Head+and+neck+cancer-specific+health-related+quality+of+life+%28measured+by+EORTC+QLQ-HN35%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
-- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Head+and+Neck+Neoplasms%22%5BMesh%5D%29+AND+%28optimism+OR+hope+OR+%22posttraumatic+growth%22+OR+%22spousal+support%22%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29
-- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Head+and+Neck+Neoplasms%22%5BMesh%5D%29+AND+%28%22Social+Support%22%5BMesh%5D+OR+%22Adaptation%2C+Psychological%22%5BMesh%5D+OR+%22Optimism%22%5BMesh%5D%29+AND+%28%22Quality+of+Life%22%5BMesh%5D%29
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Children+%28aged+1+to+%3C18+years%29+with+a+first+incident+diagnosis+of+asthma.+Montelukast+monotherapy+as+initial+asthma+controller+therapy.+Neuropsychiatric+events%2C+specifically+ADHD%2C+sleep+disorders%2C+mood+disorders%2C+anxiety+disorders%2C+and+oppositional+defiant+and+conduct+disorders.
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Children+%28aged+1+to+%3C18+years%29+with+a+first+incident+diagnosis+of+asthma.+Montelukast+monotherapy+as+initial+asthma+controller+therapy.+Neuropsychiatric+events%2C+specifically+ADHD%2C+sleep+disorders%2C+mood+disorders%2C+anxiety+disorders%2C+and+oppositional+defiant+and+conduct+disorders.+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22montelukast%22%5BMeSH+Terms%5D+OR+%22montelukast%22%29+AND+%28%22asthma%22%5BMeSH+Terms%5D+OR+%22asthma%22%29+AND+%28%22child%22%5BMeSH+Terms%5D+OR+%22pediatric%22%29+AND+%28%22ADHD%22+OR+%22sleep+disorders%22+OR+%22neuropsychiatric%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22leukotriene+antagonists%22%5BMeSH+Terms%5D+OR+%22LTRAs%22%29+AND+%28%22asthma%22%5BMeSH+Terms%5D%29+AND+%28%22child%22%5BMeSH+Terms%5D+OR+%22adolescent%22%5BMeSH+Terms%5D%29+AND+%28%22mental+disorders%22%5BMeSH+Terms%5D+OR+%22neuropsychiatric%22%29
 
 _These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
 
 ---
 
-## Diagnostic accuracy of a DenseNet-121 deep learning algorithm for chest radiograph triage in health assessment applicants: a prospective shadow-mode validation study in Nepal.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823116/  
+## Effectiveness of green health prescribing and nature-based interventions in primary care and community settings for older adults: a systematic review of health, wellbeing and social outcomes.
+**Journal:** BMC Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823701/  
 **Published:** Oct 2026
 
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Adaptation and feasibility assessment of a school-based Suicide Prevention Intervention for Adolescents (SPREAD Study) in Nigeria: protocol for a cluster randomised controlled feasibility trial.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823112/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Tirzepatide safety in EudraVigilance: descriptive and disproportionality analysis of preferred terms related to suboptimal treatment outcomes and drug-use-related issues.
-**Journal:** BMJ Open  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823110/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Clinical impact of prospective circulating tumour DNA testing for minimal residual disease in colorectal cancer: the INTERCEPT programme experience.
-**Journal:** Gut  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42823331/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Efficacy and safety of low-dose IL-2 in people with newly diagnosed type 1 diabetes (DIABIL-2): a double-blind, multicentre, randomised, placebo-controlled, phase 2b trial.
-**Journal:** The Lancet Diabetes & Endocrinology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42822480/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Genetic Susceptibility in Relative Maternal Protection From Type 1 Diabetes.
-**Journal:** Diabetes Care  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821443/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.
-**Journal:** JAMA Oncology  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821267/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Testosterone Inhibition and Risk of Laryngeal and Hypopharyngeal Squamous Cell Carcinoma in Men.
-**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821291/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
-
----
-
-## Long-Term Opioid Use Following Radiation or Chemoradiation for Head and Neck Cancer.
-**Journal:** JAMA Otolaryngology-Head & Neck Surgery  
-**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42821288/  
-**Published:** Oct 2026
-
-_PICO draft failed: Gemini free-tier quota/rate limit exceeded (HTTP 429) after retries. Check quota at https://aistudio.google.com/apikey, or add ANTHROPIC_API_KEY to use Claude as a fallback._
+_PICO draft failed: Gemini request failed with HTTP 503 (model gemini-3-flash-preview)._
 
 ---
