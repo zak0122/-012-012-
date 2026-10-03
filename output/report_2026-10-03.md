@@ -203,7 +203,7 @@ _From each journal's own RSS feed -- usually appears before PubMed indexing catc
 - **Colon and Rectal Injuries From Blunt and Penetrating Trauma** -- JAMA Surgery, Wed, 23 Sep 2026 00:00:00 GMT -- https://jamanetwork.com/journals/jamasurgery/fullarticle/2854517
 
 
-## ⚠ 87 new systematic review/meta-analysis published in your journals
+## ⚠ 88 new systematic review/meta-analysis published in your journals
 
 _Heads up only -- read these before assuming they overlap with a topic you're tracking or considering. A shared journal/keyword doesn't mean a shared population._
 
@@ -243,6 +243,7 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Parenthood and care in academia: Publication counts, self-assessed productivity, and gendered differences.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748093/
 - **Comprehensive application of artificial intelligence in preserved ratio impaired spirometry: A systematic literature review.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42748063/
 - **The effect of antiretroviral therapy adherence on viral load suppression rate among people living with HIV in Ethiopia: A systematic review and meta-analysis.** -- PLOS ONE, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42743184/
+- **Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42827466/
 - **Predictive biomarkers of biologic therapy response in chronic rhinosinusitis with nasal polyps: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42825053/
 - **Receptor tyrosine kinase targeted therapies in glioblastoma: a systematic review.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42824982/
 - **Efficacy of psychological and behavioral interventions for depressive symptoms in people with epilepsy: a systematic review and meta-analysis.** -- Frontiers in Medicine, 2026 -- https://pubmed.ncbi.nlm.nih.gov/42824472/
@@ -295,4 +296,41 @@ _Heads up only -- read these before assuming they overlap with a topic you're tr
 - **Acceptability of capillary point-of-care testing: a systematic review.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42744378/
 - **Low-carbohydrate diet score subtypes and all-cause mortality in general and chronic disease populations: a systematic review and meta-analysis of prospective cohort studies.** -- BMJ Open, Sep 2026 -- https://pubmed.ncbi.nlm.nih.gov/42731843/
 
-No new RCT-type articles found today.
+
+1 new RCT-type article(s) found.
+
+## Sacituzumab govitecan in metastatic breast cancer: a systematic review and meta-analysis of its clinical benefit and safety.
+**Journal:** Frontiers in Medicine  
+**PubMed:** https://pubmed.ncbi.nlm.nih.gov/42827466/  
+**Published:** 2026
+
+**Draft PICO (unverified -- confirm against abstract):**
+- Population: Patients with metastatic breast cancer (mBC)
+- Intervention: Sacituzumab govitecan (SG)
+- Comparator: Chemotherapy
+- Outcome: Clinical benefit (efficacy), safety (toxicities including neutropenia and diarrhea), and Health-Related Quality of Life (HRQoL)
+- Study design: Phase III, multicenter, open-label randomized controlled trials (RCTs)
+- Notes: The abstract does not specify the exact chemotherapy agents used in the control arm or the specific primary efficacy endpoints (e.g., PFS or OS), referring only to 'clinical benefit'.
+
+**Broadened PICO (for pooling purposes -- sanity check this):**
+- Population: Patients with advanced or metastatic breast cancer
+- Intervention: Trop-2 directed antibody-drug conjugates (ADCs)
+- Outcome: Survival outcomes (PFS, OS), objective response rates, and treatment-related adverse events
+- Why widened: The intervention was widened from a specific drug to the drug class (Trop-2 directed ADCs) to include similar agents like datopotamab deruxtecan. The population was slightly widened to include 'advanced' cancer to capture trials that might use different staging terminology. Outcomes were specified to standard oncology metrics to facilitate pooling.
+
+**Signal:** WORTH A CLOSER LOOK: ~25 on the narrow PICO, ~86 on the broadened PICO, 0 existing reviews found by keyword. Still open the links and read the candidates -- this is a keyword count, not a check of whether those populations actually overlap with each other.
+
+**Pool counts (keyword-based, not verified):**
+- Narrow PICO pool: ~25
+- Broadened PICO pool: ~86
+- Existing reviews found: 0
+
+**Before doing anything else, check:**
+- Existing registered reviews: https://www.crd.york.ac.uk/prospero/#recordsSubmitted?searchType=1&RecordID=&titleSearch=Patients+with+metastatic+breast+cancer+%28mBC%29+Sacituzumab+govitecan+%28SG%29+Clinical+benefit+%28efficacy%29%2C+safety+%28toxicities+including+neutropenia+and+diarrhea%29%2C+and+Health-Related+Quality+of+Life+%28HRQoL%29
+- Existing published reviews: https://pubmed.ncbi.nlm.nih.gov/?term=Patients+with+metastatic+breast+cancer+%28mBC%29+Sacituzumab+govitecan+%28SG%29+Clinical+benefit+%28efficacy%29%2C+safety+%28toxicities+including+neutropenia+and+diarrhea%29%2C+and+Health-Related+Quality+of+Life+%28HRQoL%29+AND+%28systematic+review%5Bpt%5D+OR+meta-analysis%5Bpt%5D%29
+- Narrow pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sacituzumab+govitecan%22+OR+%22IMMU-132%22%29+AND+%22metastatic+breast+cancer%22+AND+%28randomized+controlled+trial%5Bpt%5D+OR+%22randomized%22%29
+- Broadened pool search: https://pubmed.ncbi.nlm.nih.gov/?term=%28%22sacituzumab+govitecan%22+OR+%22datopotamab+deruxtecan%22+OR+%22Trop-2+directed+antibody-drug+conjugate%22%29+AND+%22breast+cancer%22+AND+%28randomized+controlled+trial%5Bpt%5D+OR+%22randomized%22%29
+
+_These are keyword hit counts, not a verified pool. Open the links and confirm: (1) no other team already has this exact PICO registered/published recently, (2) the studies in the pool actually share a comparable population/intervention/outcome, not just shared keywords. Do this BEFORE registering on PROSPERO._
+
+---
